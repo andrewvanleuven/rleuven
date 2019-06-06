@@ -7,5 +7,5 @@ freqTab <- function(df,var) {
     filter(rank < 16) %>%
     arrange(desc(Freq)) %>%
     select(-rank) %>%
-    `colnames<-`(c(var,"Observations","Percent"))
+    `colnames<-`(c(var,"N","Percent"))
 }
