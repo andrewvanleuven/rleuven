@@ -6,6 +6,6 @@ Author: Andrew Van Leuven
 Maintainer: Andrew Van Leuven <vanleuven.andrew@gmail.com>
 Description: This is just a collection of functions for personal use. 
 License: MIT
-Imports: dplyr
+Imports: dplyr,readr,stringr
 Encoding: UTF-8
 LazyData: true
