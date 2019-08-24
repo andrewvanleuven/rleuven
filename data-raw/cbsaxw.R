@@ -11,8 +11,15 @@ xw <- read_csv("data-raw/xw.csv") %>%
   select(cty_fips,county,state) %>%
   filter(!state %in% c("PR","AK","HI"),
          county != "Statewide")
+cityxw <- read_csv("data-raw/cbsa_cities.csv") %>%
+  select(-(`CBSA Title`:`Metropolitan/Micropolitan Statistical Area`)) %>%
+  mutate(city_fips = paste0(`FIPS State Code`,`FIPS Place Code`)) %>%
+  rename(cbsa_fips = `CBSA Code`,
+         cbsa_main_city = `Principal City Name`) %>%
+  select(cbsa_fips,cbsa_main_city,city_fips)
 ctyxw <- read_csv("data-raw/cbsa.csv") %>%
-  select(-st_fips,-cty_type)
+  select(-st_fips,-cty_type) %>%
+  left_join(.,cityxw)
 rucc <- read_csv("data-raw/rucc.csv") %>%
   mutate(FIPS = as.character(str_pad(FIPS, 5, pad = "0"))) %>%
   rename(cty_fips = FIPS,
@@ -33,7 +40,7 @@ cbsaxw <- left_join(xw,ctyxw) %>%
   left_join(.,cz) %>%
   left_join(.,cty_pop) %>%
   rename_all(tolower) %>%
-  select(cty_fips,county,state,rucc:cty_pop,cbsa_fips:csa) %>%
+  select(cty_fips,county,cbsa_main_city,state,city_fips,rucc:cty_pop,cbsa_fips:csa) %>%
   arrange(cty_fips)
 
 usethis::use_data(cbsaxw, overwrite = TRUE)

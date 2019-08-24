@@ -6,7 +6,7 @@
 
 \description{Dissolves smaller spatial geometry into larger geometry.}
 
-\usage{freqTab(df,group_var)}
+\usage{st_dissolve(df,group_var)}
 
 \arguments{
   \item{df}{This is the dataframe you want to use. Must be in sf (simple features) format.}
