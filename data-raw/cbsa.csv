@@ -1,0 +1,1916 @@
+﻿cty_fips,cbsa_fips,cbsa,cbsa_type,csa_fips,csa,st_fips,cty_type
+46013,10100,"Aberdeen, SD",Micro,,,46,Central
+46045,10100,"Aberdeen, SD",Micro,,,46,Outlying
+53027,10140,"Aberdeen, WA",Micro,,,53,Central
+48059,10180,"Abilene, TX",Metro,,,48,Outlying
+48253,10180,"Abilene, TX",Metro,,,48,Outlying
+48441,10180,"Abilene, TX",Metro,,,48,Central
+40123,10220,"Ada, OK",Micro,,,40,Central
+26091,10300,"Adrian, MI",Micro,220,"Detroit-Warren-Ann Arbor, MI",26,Central
+72003,10380,"Aguadilla-Isabela, PR",Metro,,,72,Central
+72005,10380,"Aguadilla-Isabela, PR",Metro,,,72,Central
+72011,10380,"Aguadilla-Isabela, PR",Metro,,,72,Central
+72071,10380,"Aguadilla-Isabela, PR",Metro,,,72,Central
+72081,10380,"Aguadilla-Isabela, PR",Metro,,,72,Central
+72099,10380,"Aguadilla-Isabela, PR",Metro,,,72,Central
+72117,10380,"Aguadilla-Isabela, PR",Metro,,,72,Central
+72131,10380,"Aguadilla-Isabela, PR",Metro,,,72,Central
+72141,10380,"Aguadilla-Isabela, PR",Metro,,,72,Central
+39133,10420,"Akron, OH",Metro,184,"Cleveland-Akron-Canton, OH",39,Central
+39153,10420,"Akron, OH",Metro,184,"Cleveland-Akron-Canton, OH",39,Central
+35035,10460,"Alamogordo, NM",Micro,,,35,Central
+13095,10500,"Albany, GA",Metro,,,13,Central
+13177,10500,"Albany, GA",Metro,,,13,Central
+13273,10500,"Albany, GA",Metro,,,13,Outlying
+13321,10500,"Albany, GA",Metro,,,13,Outlying
+41043,10540,"Albany-Lebanon, OR",Metro,440,"Portland-Vancouver-Salem, OR-WA",41,Central
+36001,10580,"Albany-Schenectady-Troy, NY",Metro,104,"Albany-Schenectady, NY",36,Central
+36083,10580,"Albany-Schenectady-Troy, NY",Metro,104,"Albany-Schenectady, NY",36,Central
+36091,10580,"Albany-Schenectady-Troy, NY",Metro,104,"Albany-Schenectady, NY",36,Central
+36093,10580,"Albany-Schenectady-Troy, NY",Metro,104,"Albany-Schenectady, NY",36,Central
+36095,10580,"Albany-Schenectady-Troy, NY",Metro,104,"Albany-Schenectady, NY",36,Outlying
+37167,10620,"Albemarle, NC",Micro,172,"Charlotte-Concord, NC-SC",37,Central
+27047,10660,"Albert Lea, MN",Micro,,,27,Central
+01095,10700,"Albertville, AL",Micro,,,1,Central
+35001,10740,"Albuquerque, NM",Metro,106,"Albuquerque-Santa Fe-Las Vegas, NM",35,Central
+35043,10740,"Albuquerque, NM",Metro,106,"Albuquerque-Santa Fe-Las Vegas, NM",35,Central
+35057,10740,"Albuquerque, NM",Metro,106,"Albuquerque-Santa Fe-Las Vegas, NM",35,Outlying
+35061,10740,"Albuquerque, NM",Metro,106,"Albuquerque-Santa Fe-Las Vegas, NM",35,Outlying
+01037,10760,"Alexander City, AL",Micro,388,"Montgomery-Selma-Alexander City, AL",1,Outlying
+01123,10760,"Alexander City, AL",Micro,388,"Montgomery-Selma-Alexander City, AL",1,Central
+22043,10780,"Alexandria, LA",Metro,,,22,Outlying
+22079,10780,"Alexandria, LA",Metro,,,22,Central
+27041,10820,"Alexandria, MN",Micro,,,27,Central
+48131,10860,"Alice, TX",Micro,204,"Corpus Christi-Kingsville-Alice, TX",48,Outlying
+48249,10860,"Alice, TX",Micro,204,"Corpus Christi-Kingsville-Alice, TX",48,Central
+34041,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metro,,,34,Central
+42025,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metro,,,42,Central
+42077,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metro,,,42,Central
+42095,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metro,,,42,Central
+26057,10940,"Alma, MI",Micro,394,"Mount Pleasant-Alma, MI",26,Central
+26007,10980,"Alpena, MI",Micro,,,26,Central
+42013,11020,"Altoona, PA",Metro,107,"Altoona-Huntingdon, PA",42,Central
+40065,11060,"Altus, OK",Micro,,,40,Central
+48011,11100,"Amarillo, TX",Metro,108,"Amarillo-Pampa-Borger, TX",48,Outlying
+48065,11100,"Amarillo, TX",Metro,108,"Amarillo-Pampa-Borger, TX",48,Outlying
+48359,11100,"Amarillo, TX",Metro,108,"Amarillo-Pampa-Borger, TX",48,Outlying
+48375,11100,"Amarillo, TX",Metro,108,"Amarillo-Pampa-Borger, TX",48,Central
+48381,11100,"Amarillo, TX",Metro,108,"Amarillo-Pampa-Borger, TX",48,Central
+13249,11140,"Americus, GA",Micro,,,13,Outlying
+13261,11140,"Americus, GA",Micro,,,13,Central
+19015,11180,"Ames, IA",Metro,218,"Des Moines-Ames-West Des Moines, IA",19,Outlying
+19169,11180,"Ames, IA",Metro,218,"Des Moines-Ames-West Des Moines, IA",19,Central
+36057,11220,"Amsterdam, NY",Micro,104,"Albany-Schenectady, NY",36,Central
+02020,11260,"Anchorage, AK",Metro,,,2,Central
+02170,11260,"Anchorage, AK",Metro,,,2,Outlying
+48003,11380,"Andrews, TX",Micro,,,48,Central
+18151,11420,"Angola, IN",Micro,258,"Fort Wayne-Huntington-Auburn, IN",18,Central
+26161,11460,"Ann Arbor, MI",Metro,220,"Detroit-Warren-Ann Arbor, MI",26,Central
+01015,11500,"Anniston-Oxford, AL",Metro,,,1,Central
+55015,11540,"Appleton, WI",Metro,118,"Appleton-Oshkosh-Neenah, WI",55,Central
+55087,11540,"Appleton, WI",Metro,118,"Appleton-Oshkosh-Neenah, WI",55,Central
+12027,11580,"Arcadia, FL",Micro,412,"North Port-Sarasota, FL",12,Central
+40019,11620,"Ardmore, OK",Micro,,,40,Central
+40085,11620,"Ardmore, OK",Micro,,,40,Outlying
+72013,11640,"Arecibo, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72027,11640,"Arecibo, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72065,11640,"Arecibo, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72115,11640,"Arecibo, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+05019,11660,"Arkadelphia, AR",Micro,,,5,Central
+37021,11700,"Asheville, NC",Metro,120,"Asheville-Marion-Brevard, NC",37,Central
+37087,11700,"Asheville, NC",Metro,120,"Asheville-Marion-Brevard, NC",37,Central
+37089,11700,"Asheville, NC",Metro,120,"Asheville-Marion-Brevard, NC",37,Central
+37115,11700,"Asheville, NC",Metro,120,"Asheville-Marion-Brevard, NC",37,Outlying
+39005,11740,"Ashland, OH",Micro,360,"Mansfield-Ashland-Bucyrus, OH",39,Central
+39007,11780,"Ashtabula, OH",Micro,184,"Cleveland-Akron-Canton, OH",39,Central
+41007,11820,"Astoria, OR",Micro,,,41,Central
+20005,11860,"Atchison, KS",Micro,312,"Kansas City-Overland Park-Kansas City, MO-KS",20,Central
+39009,11900,"Athens, OH",Micro,,,39,Central
+47107,11940,"Athens, TN",Micro,174,"Chattanooga-Cleveland-Dalton, TN-GA",47,Central
+48213,11980,"Athens, TX",Micro,206,"Dallas-Fort Worth, TX-OK",48,Central
+13059,12020,"Athens-Clarke County, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13195,12020,"Athens-Clarke County, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13219,12020,"Athens-Clarke County, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13221,12020,"Athens-Clarke County, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13013,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13015,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13035,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13045,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13057,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13063,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13067,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13077,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13085,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13089,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13097,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13113,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13117,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13121,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13135,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13143,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13149,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13151,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13159,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13171,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13199,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13211,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13217,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13223,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13227,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13231,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Outlying
+13247,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13255,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13297,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+34001,12100,"Atlantic City-Hammonton, NJ",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34,Central
+01053,12120,"Atmore, AL",Micro,426,"Pensacola-Ferry Pass, FL-AL",1,Central
+18033,12140,"Auburn, IN",Micro,258,"Fort Wayne-Huntington-Auburn, IN",18,Central
+36011,12180,"Auburn, NY",Micro,532,"Syracuse-Auburn, NY",36,Central
+01081,12220,"Auburn-Opelika, AL",Metro,194,"Columbus-Auburn-Opelika, GA-AL",1,Central
+13033,12260,"Augusta-Richmond County, GA-SC",Metro,,,13,Outlying
+13073,12260,"Augusta-Richmond County, GA-SC",Metro,,,13,Central
+13181,12260,"Augusta-Richmond County, GA-SC",Metro,,,13,Outlying
+13189,12260,"Augusta-Richmond County, GA-SC",Metro,,,13,Outlying
+13245,12260,"Augusta-Richmond County, GA-SC",Metro,,,13,Central
+45003,12260,"Augusta-Richmond County, GA-SC",Metro,,,45,Central
+45037,12260,"Augusta-Richmond County, GA-SC",Metro,,,45,Outlying
+23011,12300,"Augusta-Waterville, ME",Micro,,,23,Central
+27099,12380,"Austin, MN",Micro,462,"Rochester-Austin, MN",27,Central
+48021,12420,"Austin-Round Rock-Georgetown, TX",Metro,,,48,Outlying
+48055,12420,"Austin-Round Rock-Georgetown, TX",Metro,,,48,Outlying
+48209,12420,"Austin-Round Rock-Georgetown, TX",Metro,,,48,Central
+48453,12420,"Austin-Round Rock-Georgetown, TX",Metro,,,48,Central
+48491,12420,"Austin-Round Rock-Georgetown, TX",Metro,,,48,Central
+13087,12460,"Bainbridge, GA",Micro,,,13,Central
+06029,12540,"Bakersfield, CA",Metro,,,6,Central
+24003,12580,"Baltimore-Columbia-Towson, MD",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Central
+24005,12580,"Baltimore-Columbia-Towson, MD",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Central
+24013,12580,"Baltimore-Columbia-Towson, MD",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Outlying
+24025,12580,"Baltimore-Columbia-Towson, MD",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Outlying
+24027,12580,"Baltimore-Columbia-Towson, MD",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Central
+24035,12580,"Baltimore-Columbia-Towson, MD",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Central
+24510,12580,"Baltimore-Columbia-Towson, MD",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Central
+23019,12620,"Bangor, ME",Metro,,,23,Central
+55111,12660,"Baraboo, WI",Micro,357,"Madison-Janesville-Beloit, WI",55,Central
+21179,12680,"Bardstown, KY",Micro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",21,Central
+25001,12700,"Barnstable Town, MA",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",25,Central
+50023,12740,"Barre, VT",Micro,162,"Burlington-South Burlington-Barre, VT",50,Central
+40147,12780,"Bartlesville, OK",Micro,538,"Tulsa-Muskogee-Bartlesville, OK",40,Central
+36037,12860,"Batavia, NY",Micro,464,"Rochester-Batavia-Seneca Falls, NY",36,Central
+05063,12900,"Batesville, AR",Micro,,,5,Central
+05135,12900,"Batesville, AR",Micro,,,5,Outlying
+22005,12940,"Baton Rouge, LA",Metro,,,22,Central
+22007,12940,"Baton Rouge, LA",Metro,,,22,Outlying
+22033,12940,"Baton Rouge, LA",Metro,,,22,Central
+22037,12940,"Baton Rouge, LA",Metro,,,22,Outlying
+22047,12940,"Baton Rouge, LA",Metro,,,22,Central
+22063,12940,"Baton Rouge, LA",Metro,,,22,Central
+22077,12940,"Baton Rouge, LA",Metro,,,22,Outlying
+22091,12940,"Baton Rouge, LA",Metro,,,22,Outlying
+22121,12940,"Baton Rouge, LA",Metro,,,22,Central
+22125,12940,"Baton Rouge, LA",Metro,,,22,Outlying
+26025,12980,"Battle Creek, MI",Metro,310,"Kalamazoo-Battle Creek-Portage, MI",26,Central
+26017,13020,"Bay City, MI",Metro,474,"Saginaw-Midland-Bay City, MI",26,Central
+48321,13060,"Bay City, TX",Micro,288,"Houston-The Woodlands, TX",48,Central
+31067,13100,"Beatrice, NE",Micro,339,"Lincoln-Beatrice, NE",31,Central
+48199,13140,"Beaumont-Port Arthur, TX",Metro,,,48,Outlying
+48245,13140,"Beaumont-Port Arthur, TX",Metro,,,48,Central
+48361,13140,"Beaumont-Port Arthur, TX",Metro,,,48,Central
+55027,13180,"Beaver Dam, WI",Micro,376,"Milwaukee-Racine-Waukesha, WI",55,Central
+54019,13220,"Beckley, WV",Metro,,,54,Central
+54081,13220,"Beckley, WV",Metro,,,54,Central
+18093,13260,"Bedford, IN",Micro,144,"Bloomington-Bedford, IN",18,Central
+48025,13300,"Beeville, TX",Micro,,,48,Central
+39091,13340,"Bellefontaine, OH",Micro,198,"Columbus-Marion-Zanesville, OH",39,Central
+53073,13380,"Bellingham, WA",Metro,,,53,Central
+27007,13420,"Bemidji, MN",Micro,,,27,Central
+41017,13460,"Bend, OR",Metro,140,"Bend-Prineville, OR",41,Central
+45069,13500,"Bennettsville, SC",Micro,,,45,Central
+50003,13540,"Bennington, VT",Micro,,,50,Central
+33007,13620,"Berlin, NH",Micro,,,33,Central
+26107,13660,"Big Rapids, MI",Micro,266,"Grand Rapids-Kentwood-Muskegon, MI",26,Central
+48227,13700,"Big Spring, TX",Micro,,,48,Central
+51195,13720,"Big Stone Gap, VA",Micro,,,51,Central
+51720,13720,"Big Stone Gap, VA",Micro,,,51,Central
+30009,13740,"Billings, MT",Metro,,,30,Outlying
+30095,13740,"Billings, MT",Metro,,,30,Outlying
+30111,13740,"Billings, MT",Metro,,,30,Central
+36007,13780,"Binghamton, NY",Metro,,,36,Central
+36107,13780,"Binghamton, NY",Metro,,,36,Central
+01007,13820,"Birmingham-Hoover, AL",Metro,142,"Birmingham-Hoover-Talladega, AL",1,Outlying
+01009,13820,"Birmingham-Hoover, AL",Metro,142,"Birmingham-Hoover-Talladega, AL",1,Outlying
+01021,13820,"Birmingham-Hoover, AL",Metro,142,"Birmingham-Hoover-Talladega, AL",1,Outlying
+01073,13820,"Birmingham-Hoover, AL",Metro,142,"Birmingham-Hoover-Talladega, AL",1,Central
+01115,13820,"Birmingham-Hoover, AL",Metro,142,"Birmingham-Hoover-Talladega, AL",1,Outlying
+01117,13820,"Birmingham-Hoover, AL",Metro,142,"Birmingham-Hoover-Talladega, AL",1,Central
+38015,13900,"Bismarck, ND",Metro,,,38,Central
+38059,13900,"Bismarck, ND",Metro,,,38,Central
+38065,13900,"Bismarck, ND",Metro,,,38,Outlying
+16011,13940,"Blackfoot, ID",Micro,292,"Idaho Falls-Rexburg-Blackfoot, ID",16,Central
+51071,13980,"Blacksburg-Christiansburg, VA",Metro,,,51,Outlying
+51121,13980,"Blacksburg-Christiansburg, VA",Metro,,,51,Central
+51155,13980,"Blacksburg-Christiansburg, VA",Metro,,,51,Outlying
+51750,13980,"Blacksburg-Christiansburg, VA",Metro,,,51,Central
+17113,14010,"Bloomington, IL",Metro,145,"Bloomington-Pontiac, IL",17,Central
+18105,14020,"Bloomington, IN",Metro,144,"Bloomington-Bedford, IN",18,Central
+18119,14020,"Bloomington, IN",Metro,144,"Bloomington-Bedford, IN",18,Outlying
+42037,14100,"Bloomsburg-Berwick, PA",Metro,146,"Bloomsburg-Berwick-Sunbury, PA",42,Central
+42093,14100,"Bloomsburg-Berwick, PA",Metro,146,"Bloomsburg-Berwick-Sunbury, PA",42,Central
+51021,14140,"Bluefield, WV-VA",Micro,,,51,Outlying
+51185,14140,"Bluefield, WV-VA",Micro,,,51,Central
+54055,14140,"Bluefield, WV-VA",Micro,,,54,Central
+05093,14180,"Blytheville, AR",Micro,,,5,Central
+22117,14220,"Bogalusa, LA",Micro,406,"New Orleans-Metairie-Hammond, LA-MS",22,Central
+16001,14260,"Boise City, ID",Metro,147,"Boise City-Mountain Home-Ontario, ID-OR",16,Central
+16015,14260,"Boise City, ID",Metro,147,"Boise City-Mountain Home-Ontario, ID-OR",16,Outlying
+16027,14260,"Boise City, ID",Metro,147,"Boise City-Mountain Home-Ontario, ID-OR",16,Outlying
+16045,14260,"Boise City, ID",Metro,147,"Boise City-Mountain Home-Ontario, ID-OR",16,Outlying
+16073,14260,"Boise City, ID",Metro,147,"Boise City-Mountain Home-Ontario, ID-OR",16,Outlying
+48147,14300,"Bonham, TX",Micro,206,"Dallas-Fort Worth, TX-OK",48,Central
+37189,14380,"Boone, NC",Micro,,,37,Central
+48233,14420,"Borger, TX",Micro,108,"Amarillo-Pampa-Borger, TX",48,Central
+25021,14460,"Boston-Cambridge-Newton, MA-NH",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",25,Central
+25023,14460,"Boston-Cambridge-Newton, MA-NH",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",25,Central
+25025,14460,"Boston-Cambridge-Newton, MA-NH",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",25,Central
+25009,14460,"Boston-Cambridge-Newton, MA-NH",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",25,Central
+25017,14460,"Boston-Cambridge-Newton, MA-NH",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",25,Central
+33015,14460,"Boston-Cambridge-Newton, MA-NH",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",33,Central
+33017,14460,"Boston-Cambridge-Newton, MA-NH",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",33,Outlying
+08013,14500,"Boulder, CO",Metro,216,"Denver-Aurora, CO",8,Central
+21003,14540,"Bowling Green, KY",Metro,150,"Bowling Green-Glasgow, KY",21,Outlying
+21031,14540,"Bowling Green, KY",Metro,150,"Bowling Green-Glasgow, KY",21,Outlying
+21061,14540,"Bowling Green, KY",Metro,150,"Bowling Green-Glasgow, KY",21,Outlying
+21227,14540,"Bowling Green, KY",Metro,150,"Bowling Green-Glasgow, KY",21,Central
+30031,14580,"Bozeman, MT",Micro,,,30,Central
+42083,14620,"Bradford, PA",Micro,,,42,Central
+27021,14660,"Brainerd, MN",Micro,,,27,Outlying
+27035,14660,"Brainerd, MN",Micro,,,27,Central
+29213,14700,"Branson, MO",Micro,,,29,Central
+08117,14720,"Breckenridge, CO",Micro,,,8,Central
+53035,14740,"Bremerton-Silverdale-Port Orchard, WA",Metro,500,"Seattle-Tacoma, WA",53,Central
+48477,14780,"Brenham, TX",Micro,288,"Houston-The Woodlands, TX",48,Central
+37175,14820,"Brevard, NC",Micro,120,"Asheville-Marion-Brevard, NC",37,Central
+09001,14860,"Bridgeport-Stamford-Norwalk, CT",Metro,408,"New York-Newark, NY-NJ-CT-PA",9,Central
+28085,15020,"Brookhaven, MS",Micro,298,"Jackson-Vicksburg-Brookhaven, MS",28,Central
+41015,15060,"Brookings, OR",Micro,,,41,Central
+46011,15100,"Brookings, SD",Micro,,,46,Central
+47075,15140,"Brownsville, TN",Micro,297,"Jackson-Brownsville, TN",47,Central
+48061,15180,"Brownsville-Harlingen, TX",Metro,154,"Brownsville-Harlingen-Raymondville, TX",48,Central
+48049,15220,"Brownwood, TX",Micro,,,48,Central
+13025,15260,"Brunswick, GA",Metro,,,13,Outlying
+13127,15260,"Brunswick, GA",Metro,,,13,Central
+13191,15260,"Brunswick, GA",Metro,,,13,Outlying
+39033,15340,"Bucyrus-Galion, OH",Micro,360,"Mansfield-Ashland-Bucyrus, OH",39,Central
+36029,15380,"Buffalo-Cheektowaga, NY",Metro,160,"Buffalo-Cheektowaga-Olean, NY",36,Central
+36063,15380,"Buffalo-Cheektowaga, NY",Metro,160,"Buffalo-Cheektowaga-Olean, NY",36,Central
+16031,15420,"Burley, ID",Micro,,,16,Central
+16067,15420,"Burley, ID",Micro,,,16,Outlying
+17071,15460,"Burlington, IA-IL",Micro,161,"Burlington-Fort Madison-Keokuk, IA-IL-MO",17,Outlying
+19057,15460,"Burlington, IA-IL",Micro,161,"Burlington-Fort Madison-Keokuk, IA-IL-MO",19,Central
+37001,15500,"Burlington, NC",Metro,268,"Greensboro--Winston-Salem--High Point, NC",37,Central
+50007,15540,"Burlington-South Burlington, VT",Metro,162,"Burlington-South Burlington-Barre, VT",50,Central
+50011,15540,"Burlington-South Burlington, VT",Metro,162,"Burlington-South Burlington-Barre, VT",50,Outlying
+50013,15540,"Burlington-South Burlington, VT",Metro,162,"Burlington-South Burlington-Barre, VT",50,Outlying
+30093,15580,"Butte-Silver Bow, MT",Micro,,,30,Central
+26113,15620,"Cadillac, MI",Micro,,,26,Outlying
+26165,15620,"Cadillac, MI",Micro,,,26,Central
+13129,15660,"Calhoun, GA",Micro,174,"Chattanooga-Cleveland-Dalton, TN-GA",13,Central
+24037,15680,"California-Lexington Park, MD",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Central
+24019,15700,"Cambridge, MD",Micro,480,"Salisbury-Cambridge, MD-DE",24,Central
+39059,15740,"Cambridge, OH",Micro,198,"Columbus-Marion-Zanesville, OH",39,Central
+05013,15780,"Camden, AR",Micro,,,5,Outlying
+05103,15780,"Camden, AR",Micro,,,5,Central
+21087,15820,"Campbellsville, KY",Micro,,,21,Outlying
+21217,15820,"Campbellsville, KY",Micro,,,21,Central
+08043,15860,"Cañon City, CO",Micro,444,"Pueblo-Cañon City, CO",8,Central
+39019,15940,"Canton-Massillon, OH",Metro,184,"Cleveland-Akron-Canton, OH",39,Outlying
+39151,15940,"Canton-Massillon, OH",Metro,184,"Cleveland-Akron-Canton, OH",39,Central
+12071,15980,"Cape Coral-Fort Myers, FL",Metro,163,"Cape Coral-Fort Myers-Naples, FL",12,Central
+17003,16020,"Cape Girardeau, MO-IL",Metro,164,"Cape Girardeau-Sikeston, MO-IL",17,Outlying
+29017,16020,"Cape Girardeau, MO-IL",Metro,164,"Cape Girardeau-Sikeston, MO-IL",29,Outlying
+29031,16020,"Cape Girardeau, MO-IL",Metro,164,"Cape Girardeau-Sikeston, MO-IL",29,Central
+17077,16060,"Carbondale-Marion, IL",Metro,,,17,Central
+17087,16060,"Carbondale-Marion, IL",Metro,,,17,Outlying
+17199,16060,"Carbondale-Marion, IL",Metro,,,17,Central
+35015,16100,"Carlsbad-Artesia, NM",Micro,,,35,Central
+19027,16140,"Carroll, IA",Micro,,,19,Central
+32510,16180,"Carson City, NV",Metro,456,"Reno-Carson City-Fernley, NV",32,Central
+56025,16220,"Casper, WY",Metro,,,56,Central
+49021,16260,"Cedar City, UT",Micro,,,49,Central
+19011,16300,"Cedar Rapids, IA",Metro,168,"Cedar Rapids-Iowa City, IA",19,Outlying
+19105,16300,"Cedar Rapids, IA",Metro,168,"Cedar Rapids-Iowa City, IA",19,Outlying
+19113,16300,"Cedar Rapids, IA",Metro,168,"Cedar Rapids-Iowa City, IA",19,Central
+13233,16340,"Cedartown, GA",Micro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+39107,16380,"Celina, OH",Micro,338,"Lima-Van Wert-Celina, OH",39,Central
+21177,16420,"Central City, KY",Micro,,,21,Central
+17121,16460,"Centralia, IL",Micro,476,"St. Louis-St. Charles-Farmington, MO-IL",17,Central
+53041,16500,"Centralia, WA",Micro,500,"Seattle-Tacoma, WA",53,Central
+42055,16540,"Chambersburg-Waynesboro, PA",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",42,Central
+17019,16580,"Champaign-Urbana, IL",Metro,,,17,Central
+17147,16580,"Champaign-Urbana, IL",Metro,,,17,Outlying
+54005,16620,"Charleston, WV",Metro,170,"Charleston-Huntington-Ashland, WV-OH-KY",54,Outlying
+54015,16620,"Charleston, WV",Metro,170,"Charleston-Huntington-Ashland, WV-OH-KY",54,Outlying
+54035,16620,"Charleston, WV",Metro,170,"Charleston-Huntington-Ashland, WV-OH-KY",54,Outlying
+54039,16620,"Charleston, WV",Metro,170,"Charleston-Huntington-Ashland, WV-OH-KY",54,Central
+54043,16620,"Charleston, WV",Metro,170,"Charleston-Huntington-Ashland, WV-OH-KY",54,Outlying
+17029,16660,"Charleston-Mattoon, IL",Micro,,,17,Central
+17035,16660,"Charleston-Mattoon, IL",Micro,,,17,Outlying
+45015,16700,"Charleston-North Charleston, SC",Metro,,,45,Central
+45019,16700,"Charleston-North Charleston, SC",Metro,,,45,Central
+45035,16700,"Charleston-North Charleston, SC",Metro,,,45,Central
+37007,16740,"Charlotte-Concord-Gastonia, NC-SC",Metro,172,"Charlotte-Concord, NC-SC",37,Outlying
+37025,16740,"Charlotte-Concord-Gastonia, NC-SC",Metro,172,"Charlotte-Concord, NC-SC",37,Outlying
+37071,16740,"Charlotte-Concord-Gastonia, NC-SC",Metro,172,"Charlotte-Concord, NC-SC",37,Outlying
+37097,16740,"Charlotte-Concord-Gastonia, NC-SC",Metro,172,"Charlotte-Concord, NC-SC",37,Central
+37109,16740,"Charlotte-Concord-Gastonia, NC-SC",Metro,172,"Charlotte-Concord, NC-SC",37,Outlying
+37119,16740,"Charlotte-Concord-Gastonia, NC-SC",Metro,172,"Charlotte-Concord, NC-SC",37,Central
+37159,16740,"Charlotte-Concord-Gastonia, NC-SC",Metro,172,"Charlotte-Concord, NC-SC",37,Outlying
+37179,16740,"Charlotte-Concord-Gastonia, NC-SC",Metro,172,"Charlotte-Concord, NC-SC",37,Central
+45023,16740,"Charlotte-Concord-Gastonia, NC-SC",Metro,172,"Charlotte-Concord, NC-SC",45,Outlying
+45057,16740,"Charlotte-Concord-Gastonia, NC-SC",Metro,172,"Charlotte-Concord, NC-SC",45,Outlying
+45091,16740,"Charlotte-Concord-Gastonia, NC-SC",Metro,172,"Charlotte-Concord, NC-SC",45,Outlying
+51003,16820,"Charlottesville, VA",Metro,,,51,Central
+51065,16820,"Charlottesville, VA",Metro,,,51,Outlying
+51079,16820,"Charlottesville, VA",Metro,,,51,Outlying
+51125,16820,"Charlottesville, VA",Metro,,,51,Outlying
+51540,16820,"Charlottesville, VA",Metro,,,51,Central
+13047,16860,"Chattanooga, TN-GA",Metro,174,"Chattanooga-Cleveland-Dalton, TN-GA",13,Central
+13083,16860,"Chattanooga, TN-GA",Metro,174,"Chattanooga-Cleveland-Dalton, TN-GA",13,Outlying
+13295,16860,"Chattanooga, TN-GA",Metro,174,"Chattanooga-Cleveland-Dalton, TN-GA",13,Central
+47065,16860,"Chattanooga, TN-GA",Metro,174,"Chattanooga-Cleveland-Dalton, TN-GA",47,Central
+47115,16860,"Chattanooga, TN-GA",Metro,174,"Chattanooga-Cleveland-Dalton, TN-GA",47,Outlying
+47153,16860,"Chattanooga, TN-GA",Metro,174,"Chattanooga-Cleveland-Dalton, TN-GA",47,Outlying
+56021,16940,"Cheyenne, WY",Metro,,,56,Central
+17031,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",17,Central
+17043,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",17,Central
+17063,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",17,Outlying
+17111,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",17,Central
+17197,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",17,Central
+17037,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",17,Outlying
+17089,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",17,Central
+17093,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",17,Central
+18073,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",18,Outlying
+18089,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",18,Central
+18111,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",18,Outlying
+18127,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",18,Central
+17097,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",17,Central
+55059,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metro,176,"Chicago-Naperville, IL-IN-WI",55,Outlying
+06007,17020,"Chico, CA",Metro,,,6,Central
+39141,17060,"Chillicothe, OH",Micro,198,"Columbus-Marion-Zanesville, OH",39,Central
+18029,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",18,Outlying
+18047,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",18,Outlying
+18115,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",18,Outlying
+18161,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",18,Outlying
+21015,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",21,Central
+21023,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",21,Outlying
+21037,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",21,Central
+21077,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",21,Outlying
+21081,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",21,Outlying
+21117,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",21,Central
+21191,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",21,Outlying
+39015,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",39,Outlying
+39017,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",39,Central
+39025,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",39,Central
+39061,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",39,Central
+39165,17140,"Cincinnati, OH-KY-IN",Metro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",39,Central
+54017,17220,"Clarksburg, WV",Micro,,,54,Outlying
+54033,17220,"Clarksburg, WV",Micro,,,54,Central
+54091,17220,"Clarksburg, WV",Micro,,,54,Outlying
+28027,17260,"Clarksdale, MS",Micro,,,28,Central
+21047,17300,"Clarksville, TN-KY",Metro,,,21,Outlying
+21221,17300,"Clarksville, TN-KY",Metro,,,21,Outlying
+47125,17300,"Clarksville, TN-KY",Metro,,,47,Central
+47161,17300,"Clarksville, TN-KY",Metro,,,47,Outlying
+06033,17340,"Clearlake, CA",Micro,,,6,Central
+28011,17380,"Cleveland, MS",Micro,185,"Cleveland-Indianola, MS",28,Central
+47011,17420,"Cleveland, TN",Metro,174,"Chattanooga-Cleveland-Dalton, TN-GA",47,Central
+47139,17420,"Cleveland, TN",Metro,174,"Chattanooga-Cleveland-Dalton, TN-GA",47,Outlying
+39035,17460,"Cleveland-Elyria, OH",Metro,184,"Cleveland-Akron-Canton, OH",39,Central
+39055,17460,"Cleveland-Elyria, OH",Metro,184,"Cleveland-Akron-Canton, OH",39,Central
+39085,17460,"Cleveland-Elyria, OH",Metro,184,"Cleveland-Akron-Canton, OH",39,Central
+39093,17460,"Cleveland-Elyria, OH",Metro,184,"Cleveland-Akron-Canton, OH",39,Outlying
+39103,17460,"Cleveland-Elyria, OH",Metro,184,"Cleveland-Akron-Canton, OH",39,Central
+12051,17500,"Clewiston, FL",Micro,163,"Cape Coral-Fort Myers-Naples, FL",12,Central
+19045,17540,"Clinton, IA",Micro,209,"Davenport-Moline, IA-IL",19,Central
+35009,17580,"Clovis, NM",Micro,188,"Clovis-Portales, NM",35,Central
+72043,17620,"Coamo, PR",Micro,434,"Ponce-Yauco-Coamo, PR",72,Central
+72123,17640,"Coco, PR",Micro,490,"San Juan-Bayamón, PR",72,Central
+16055,17660,"Coeur d'Alene, ID",Metro,518,"Spokane-Spokane Valley-Coeur d'Alene, WA-ID",16,Central
+20125,17700,"Coffeyville, KS",Micro,,,20,Central
+26023,17740,"Coldwater, MI",Micro,310,"Kalamazoo-Battle Creek-Portage, MI",26,Central
+48041,17780,"College Station-Bryan, TX",Metro,,,48,Central
+48051,17780,"College Station-Bryan, TX",Metro,,,48,Outlying
+48395,17780,"College Station-Bryan, TX",Metro,,,48,Outlying
+08041,17820,"Colorado Springs, CO",Metro,,,8,Central
+08119,17820,"Colorado Springs, CO",Metro,,,8,Outlying
+29019,17860,"Columbia, MO",Metro,190,"Columbia-Moberly-Mexico, MO",29,Central
+29053,17860,"Columbia, MO",Metro,190,"Columbia-Moberly-Mexico, MO",29,Outlying
+29089,17860,"Columbia, MO",Metro,190,"Columbia-Moberly-Mexico, MO",29,Outlying
+45017,17900,"Columbia, SC",Metro,192,"Columbia-Orangeburg-Newberry, SC",45,Outlying
+45039,17900,"Columbia, SC",Metro,192,"Columbia-Orangeburg-Newberry, SC",45,Outlying
+45055,17900,"Columbia, SC",Metro,192,"Columbia-Orangeburg-Newberry, SC",45,Outlying
+45063,17900,"Columbia, SC",Metro,192,"Columbia-Orangeburg-Newberry, SC",45,Central
+45079,17900,"Columbia, SC",Metro,192,"Columbia-Orangeburg-Newberry, SC",45,Central
+45081,17900,"Columbia, SC",Metro,192,"Columbia-Orangeburg-Newberry, SC",45,Outlying
+01113,17980,"Columbus, GA-AL",Metro,194,"Columbus-Auburn-Opelika, GA-AL",1,Central
+13053,17980,"Columbus, GA-AL",Metro,194,"Columbus-Auburn-Opelika, GA-AL",13,Central
+13145,17980,"Columbus, GA-AL",Metro,194,"Columbus-Auburn-Opelika, GA-AL",13,Outlying
+13197,17980,"Columbus, GA-AL",Metro,194,"Columbus-Auburn-Opelika, GA-AL",13,Outlying
+13215,17980,"Columbus, GA-AL",Metro,194,"Columbus-Auburn-Opelika, GA-AL",13,Central
+13259,17980,"Columbus, GA-AL",Metro,194,"Columbus-Auburn-Opelika, GA-AL",13,Outlying
+13263,17980,"Columbus, GA-AL",Metro,194,"Columbus-Auburn-Opelika, GA-AL",13,Outlying
+18005,18020,"Columbus, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+28087,18060,"Columbus, MS",Micro,200,"Columbus-West Point, MS",28,Central
+31141,18100,"Columbus, NE",Micro,,,31,Central
+39041,18140,"Columbus, OH",Metro,198,"Columbus-Marion-Zanesville, OH",39,Central
+39045,18140,"Columbus, OH",Metro,198,"Columbus-Marion-Zanesville, OH",39,Central
+39049,18140,"Columbus, OH",Metro,198,"Columbus-Marion-Zanesville, OH",39,Central
+39073,18140,"Columbus, OH",Metro,198,"Columbus-Marion-Zanesville, OH",39,Outlying
+39089,18140,"Columbus, OH",Metro,198,"Columbus-Marion-Zanesville, OH",39,Outlying
+39097,18140,"Columbus, OH",Metro,198,"Columbus-Marion-Zanesville, OH",39,Outlying
+39117,18140,"Columbus, OH",Metro,198,"Columbus-Marion-Zanesville, OH",39,Outlying
+39127,18140,"Columbus, OH",Metro,198,"Columbus-Marion-Zanesville, OH",39,Outlying
+39129,18140,"Columbus, OH",Metro,198,"Columbus-Marion-Zanesville, OH",39,Outlying
+39159,18140,"Columbus, OH",Metro,198,"Columbus-Marion-Zanesville, OH",39,Outlying
+33013,18180,"Concord, NH",Micro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",33,Central
+18041,18220,"Connersville, IN",Micro,458,"Richmond-Connersville, IN",18,Central
+47087,18260,"Cookeville, TN",Micro,,,47,Outlying
+47133,18260,"Cookeville, TN",Micro,,,47,Outlying
+47141,18260,"Cookeville, TN",Micro,,,47,Central
+41011,18300,"Coos Bay, OR",Micro,,,41,Central
+13081,18380,"Cordele, GA",Micro,,,13,Central
+28003,18420,"Corinth, MS",Micro,539,"Tupelo-Corinth, MS",28,Central
+13137,18460,"Cornelia, GA",Micro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+36101,18500,"Corning, NY",Micro,236,"Elmira-Corning, NY",36,Central
+48355,18580,"Corpus Christi, TX",Metro,204,"Corpus Christi-Kingsville-Alice, TX",48,Central
+48409,18580,"Corpus Christi, TX",Metro,204,"Corpus Christi-Kingsville-Alice, TX",48,Central
+48349,18620,"Corsicana, TX",Micro,206,"Dallas-Fort Worth, TX-OK",48,Central
+36023,18660,"Cortland, NY",Micro,296,"Ithaca-Cortland, NY",36,Central
+41003,18700,"Corvallis, OR",Metro,440,"Portland-Vancouver-Salem, OR-WA",41,Central
+39031,18740,"Coshocton, OH",Micro,,,39,Central
+08081,18780,"Craig, CO",Micro,525,"Steamboat Springs-Craig, CO",8,Central
+18107,18820,"Crawfordsville, IN",Micro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+06015,18860,"Crescent City, CA",Micro,,,6,Central
+12091,18880,"Crestview-Fort Walton Beach-Destin, FL",Metro,,,12,Central
+12131,18880,"Crestview-Fort Walton Beach-Destin, FL",Metro,,,12,Central
+47035,18900,"Crossville, TN",Micro,,,47,Central
+01043,18980,"Cullman, AL",Micro,142,"Birmingham-Hoover-Talladega, AL",1,Central
+37099,19000,"Cullowhee, NC",Micro,,,37,Central
+37173,19000,"Cullowhee, NC",Micro,,,37,Outlying
+24001,19060,"Cumberland, MD-WV",Metro,,,24,Central
+54057,19060,"Cumberland, MD-WV",Metro,,,54,Outlying
+48085,19100,"Dallas-Fort Worth-Arlington, TX",Metro,206,"Dallas-Fort Worth, TX-OK",48,Central
+48113,19100,"Dallas-Fort Worth-Arlington, TX",Metro,206,"Dallas-Fort Worth, TX-OK",48,Central
+48121,19100,"Dallas-Fort Worth-Arlington, TX",Metro,206,"Dallas-Fort Worth, TX-OK",48,Outlying
+48139,19100,"Dallas-Fort Worth-Arlington, TX",Metro,206,"Dallas-Fort Worth, TX-OK",48,Central
+48231,19100,"Dallas-Fort Worth-Arlington, TX",Metro,206,"Dallas-Fort Worth, TX-OK",48,Outlying
+48257,19100,"Dallas-Fort Worth-Arlington, TX",Metro,206,"Dallas-Fort Worth, TX-OK",48,Outlying
+48397,19100,"Dallas-Fort Worth-Arlington, TX",Metro,206,"Dallas-Fort Worth, TX-OK",48,Central
+48251,19100,"Dallas-Fort Worth-Arlington, TX",Metro,206,"Dallas-Fort Worth, TX-OK",48,Central
+48367,19100,"Dallas-Fort Worth-Arlington, TX",Metro,206,"Dallas-Fort Worth, TX-OK",48,Outlying
+48439,19100,"Dallas-Fort Worth-Arlington, TX",Metro,206,"Dallas-Fort Worth, TX-OK",48,Central
+48497,19100,"Dallas-Fort Worth-Arlington, TX",Metro,206,"Dallas-Fort Worth, TX-OK",48,Outlying
+13213,19140,"Dalton, GA",Metro,174,"Chattanooga-Cleveland-Dalton, TN-GA",13,Central
+13313,19140,"Dalton, GA",Metro,174,"Chattanooga-Cleveland-Dalton, TN-GA",13,Central
+17183,19180,"Danville, IL",Metro,,,17,Central
+21021,19220,"Danville, KY",Micro,,,21,Central
+21137,19220,"Danville, KY",Micro,,,21,Outlying
+51143,19260,"Danville, VA",Micro,,,51,Central
+51590,19260,"Danville, VA",Micro,,,51,Central
+01003,19300,"Daphne-Fairhope-Foley, AL",Metro,380,"Mobile-Daphne-Fairhope, AL",1,Central
+17073,19340,"Davenport-Moline-Rock Island, IA-IL",Metro,209,"Davenport-Moline, IA-IL",17,Outlying
+17131,19340,"Davenport-Moline-Rock Island, IA-IL",Metro,209,"Davenport-Moline, IA-IL",17,Outlying
+17161,19340,"Davenport-Moline-Rock Island, IA-IL",Metro,209,"Davenport-Moline, IA-IL",17,Central
+19163,19340,"Davenport-Moline-Rock Island, IA-IL",Metro,209,"Davenport-Moline, IA-IL",19,Central
+47143,19420,"Dayton, TN",Micro,174,"Chattanooga-Cleveland-Dalton, TN-GA",47,Central
+39057,19430,"Dayton-Kettering, OH",Metro,212,"Dayton-Springfield-Kettering, OH",39,Central
+39109,19430,"Dayton-Kettering, OH",Metro,212,"Dayton-Springfield-Kettering, OH",39,Central
+39113,19430,"Dayton-Kettering, OH",Metro,212,"Dayton-Springfield-Kettering, OH",39,Central
+01079,19460,"Decatur, AL",Metro,290,"Huntsville-Decatur, AL",1,Outlying
+01103,19460,"Decatur, AL",Metro,290,"Huntsville-Decatur, AL",1,Central
+17115,19500,"Decatur, IL",Metro,,,17,Central
+18001,19540,"Decatur, IN",Micro,258,"Fort Wayne-Huntington-Auburn, IN",18,Central
+39039,19580,"Defiance, OH",Micro,,,39,Central
+48465,19620,"Del Rio, TX",Micro,,,48,Central
+12035,19660,"Deltona-Daytona Beach-Ormond Beach, FL",Metro,422,"Orlando-Lakeland-Deltona, FL",12,Central
+12127,19660,"Deltona-Daytona Beach-Ormond Beach, FL",Metro,422,"Orlando-Lakeland-Deltona, FL",12,Central
+35029,19700,"Deming, NM",Micro,,,35,Central
+08001,19740,"Denver-Aurora-Lakewood, CO",Metro,216,"Denver-Aurora, CO",8,Central
+08005,19740,"Denver-Aurora-Lakewood, CO",Metro,216,"Denver-Aurora, CO",8,Central
+08014,19740,"Denver-Aurora-Lakewood, CO",Metro,216,"Denver-Aurora, CO",8,Central
+08019,19740,"Denver-Aurora-Lakewood, CO",Metro,216,"Denver-Aurora, CO",8,Outlying
+08031,19740,"Denver-Aurora-Lakewood, CO",Metro,216,"Denver-Aurora, CO",8,Central
+08035,19740,"Denver-Aurora-Lakewood, CO",Metro,216,"Denver-Aurora, CO",8,Central
+08039,19740,"Denver-Aurora-Lakewood, CO",Metro,216,"Denver-Aurora, CO",8,Outlying
+08047,19740,"Denver-Aurora-Lakewood, CO",Metro,216,"Denver-Aurora, CO",8,Outlying
+08059,19740,"Denver-Aurora-Lakewood, CO",Metro,216,"Denver-Aurora, CO",8,Central
+08093,19740,"Denver-Aurora-Lakewood, CO",Metro,216,"Denver-Aurora, CO",8,Outlying
+22011,19760,"DeRidder, LA",Micro,217,"DeRidder-Fort Polk South, LA",22,Central
+19049,19780,"Des Moines-West Des Moines, IA",Metro,218,"Des Moines-Ames-West Des Moines, IA",19,Central
+19077,19780,"Des Moines-West Des Moines, IA",Metro,218,"Des Moines-Ames-West Des Moines, IA",19,Outlying
+19099,19780,"Des Moines-West Des Moines, IA",Metro,218,"Des Moines-Ames-West Des Moines, IA",19,Outlying
+19121,19780,"Des Moines-West Des Moines, IA",Metro,218,"Des Moines-Ames-West Des Moines, IA",19,Outlying
+19153,19780,"Des Moines-West Des Moines, IA",Metro,218,"Des Moines-Ames-West Des Moines, IA",19,Central
+19181,19780,"Des Moines-West Des Moines, IA",Metro,218,"Des Moines-Ames-West Des Moines, IA",19,Outlying
+26163,19820,"Detroit-Warren-Dearborn, MI",Metro,220,"Detroit-Warren-Ann Arbor, MI",26,Central
+26087,19820,"Detroit-Warren-Dearborn, MI",Metro,220,"Detroit-Warren-Ann Arbor, MI",26,Outlying
+26093,19820,"Detroit-Warren-Dearborn, MI",Metro,220,"Detroit-Warren-Ann Arbor, MI",26,Outlying
+26099,19820,"Detroit-Warren-Dearborn, MI",Metro,220,"Detroit-Warren-Ann Arbor, MI",26,Central
+26125,19820,"Detroit-Warren-Dearborn, MI",Metro,220,"Detroit-Warren-Ann Arbor, MI",26,Central
+26147,19820,"Detroit-Warren-Dearborn, MI",Metro,220,"Detroit-Warren-Ann Arbor, MI",26,Outlying
+38007,19860,"Dickinson, ND",Micro,,,38,Outlying
+38089,19860,"Dickinson, ND",Micro,,,38,Central
+17103,19940,"Dixon, IL",Micro,221,"Dixon-Sterling, IL",17,Central
+20057,19980,"Dodge City, KS",Micro,,,20,Central
+01061,20020,"Dothan, AL",Metro,222,"Dothan-Ozark, AL",1,Outlying
+01067,20020,"Dothan, AL",Metro,222,"Dothan-Ozark, AL",1,Outlying
+01069,20020,"Dothan, AL",Metro,222,"Dothan-Ozark, AL",1,Central
+13003,20060,"Douglas, GA",Micro,,,13,Outlying
+13069,20060,"Douglas, GA",Micro,,,13,Central
+10001,20100,"Dover, DE",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",10,Central
+13167,20140,"Dublin, GA",Micro,,,13,Outlying
+13175,20140,"Dublin, GA",Micro,,,13,Central
+13283,20140,"Dublin, GA",Micro,,,13,Outlying
+42033,20180,"DuBois, PA",Micro,524,"State College-DuBois, PA",42,Central
+19061,20220,"Dubuque, IA",Metro,,,19,Central
+27017,20260,"Duluth, MN-WI",Metro,,,27,Outlying
+27075,20260,"Duluth, MN-WI",Metro,,,27,Outlying
+27137,20260,"Duluth, MN-WI",Metro,,,27,Central
+55031,20260,"Duluth, MN-WI",Metro,,,55,Central
+48341,20300,"Dumas, TX",Micro,,,48,Central
+40137,20340,"Duncan, OK",Micro,,,40,Central
+08067,20420,"Durango, CO",Micro,,,8,Central
+40013,20460,"Durant, OK",Micro,206,"Dallas-Fort Worth, TX-OK",40,Central
+37037,20500,"Durham-Chapel Hill, NC",Metro,450,"Raleigh-Durham-Cary, NC",37,Central
+37063,20500,"Durham-Chapel Hill, NC",Metro,450,"Raleigh-Durham-Cary, NC",37,Central
+37077,20500,"Durham-Chapel Hill, NC",Metro,450,"Raleigh-Durham-Cary, NC",37,Outlying
+37135,20500,"Durham-Chapel Hill, NC",Metro,450,"Raleigh-Durham-Cary, NC",37,Central
+37145,20500,"Durham-Chapel Hill, NC",Metro,450,"Raleigh-Durham-Cary, NC",37,Outlying
+47045,20540,"Dyersburg, TN",Micro,,,47,Central
+48323,20580,"Eagle Pass, TX",Micro,,,48,Central
+24041,20660,"Easton, MD",Micro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Central
+42089,20700,"East Stroudsburg, PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",42,Central
+55017,20740,"Eau Claire, WI",Metro,232,"Eau Claire-Menomonie, WI",55,Central
+55035,20740,"Eau Claire, WI",Metro,232,"Eau Claire-Menomonie, WI",55,Central
+08037,20780,"Edwards, CO",Micro,233,"Edwards-Glenwood Springs, CO",8,Central
+17049,20820,"Effingham, IL",Micro,,,17,Central
+48481,20900,"El Campo, TX",Micro,288,"Houston-The Woodlands, TX",48,Central
+06025,20940,"El Centro, CA",Metro,,,6,Central
+05139,20980,"El Dorado, AR",Micro,,,5,Central
+37139,21020,"Elizabeth City, NC",Micro,545,"Virginia Beach-Norfolk, VA-NC",37,Central
+37143,21020,"Elizabeth City, NC",Micro,545,"Virginia Beach-Norfolk, VA-NC",37,Outlying
+21093,21060,"Elizabethtown-Fort Knox, KY",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",21,Central
+21123,21060,"Elizabethtown-Fort Knox, KY",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",21,Outlying
+21163,21060,"Elizabethtown-Fort Knox, KY",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",21,Outlying
+40009,21120,"Elk City, OK",Micro,,,40,Central
+18039,21140,"Elkhart-Goshen, IN",Metro,515,"South Bend-Elkhart-Mishawaka, IN-MI",18,Central
+54083,21180,"Elkins, WV",Micro,,,54,Central
+32007,21220,"Elko, NV",Micro,,,32,Central
+32011,21220,"Elko, NV",Micro,,,32,Outlying
+53037,21260,"Ellensburg, WA",Micro,,,53,Central
+36015,21300,"Elmira, NY",Metro,236,"Elmira-Corning, NY",36,Central
+48141,21340,"El Paso, TX",Metro,238,"El Paso-Las Cruces, TX-NM",48,Central
+48229,21340,"El Paso, TX",Metro,238,"El Paso-Las Cruces, TX-NM",48,Outlying
+20017,21380,"Emporia, KS",Micro,,,20,Outlying
+20111,21380,"Emporia, KS",Micro,,,20,Central
+40047,21420,"Enid, OK",Metro,,,40,Central
+01031,21460,"Enterprise, AL",Micro,,,1,Central
+42049,21500,"Erie, PA",Metro,240,"Erie-Meadville, PA",42,Central
+26041,21540,"Escanaba, MI",Micro,,,26,Central
+35039,21580,"Española, NM",Micro,106,"Albuquerque-Santa Fe-Las Vegas, NM",35,Central
+01005,21640,"Eufaula, AL-GA",Micro,,,1,Central
+13239,21640,"Eufaula, AL-GA",Micro,,,13,Outlying
+41039,21660,"Eugene-Springfield, OR",Metro,,,41,Central
+06023,21700,"Eureka-Arcata, CA",Micro,,,6,Central
+56041,21740,"Evanston, WY",Micro,,,56,Central
+18129,21780,"Evansville, IN-KY",Metro,,,18,Outlying
+18163,21780,"Evansville, IN-KY",Metro,,,18,Central
+18173,21780,"Evansville, IN-KY",Metro,,,18,Central
+21101,21780,"Evansville, IN-KY",Metro,,,21,Central
+02090,21820,"Fairbanks, AK",Metro,,,2,Central
+19101,21840,"Fairfield, IA",Micro,,,19,Central
+27091,21860,"Fairmont, MN",Micro,,,27,Central
+54049,21900,"Fairmont, WV",Micro,390,"Morgantown-Fairmont, WV",54,Central
+32001,21980,"Fallon, NV",Micro,,,32,Central
+27027,22020,"Fargo, ND-MN",Metro,244,"Fargo-Wahpeton, ND-MN",27,Central
+38017,22020,"Fargo, ND-MN",Metro,244,"Fargo-Wahpeton, ND-MN",38,Central
+27131,22060,"Faribault-Northfield, MN",Micro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+29187,22100,"Farmington, MO",Micro,476,"St. Louis-St. Charles-Farmington, MO-IL",29,Central
+35045,22140,"Farmington, NM",Metro,,,35,Central
+37051,22180,"Fayetteville, NC",Metro,246,"Fayetteville-Sanford-Lumberton, NC",37,Central
+37085,22180,"Fayetteville, NC",Metro,246,"Fayetteville-Sanford-Lumberton, NC",37,Outlying
+37093,22180,"Fayetteville, NC",Metro,246,"Fayetteville-Sanford-Lumberton, NC",37,Central
+05007,22220,"Fayetteville-Springdale-Rogers, AR",Metro,,,5,Central
+05087,22220,"Fayetteville-Springdale-Rogers, AR",Metro,,,5,Outlying
+05143,22220,"Fayetteville-Springdale-Rogers, AR",Metro,,,5,Central
+27111,22260,"Fergus Falls, MN",Micro,,,27,Central
+32019,22280,"Fernley, NV",Micro,456,"Reno-Carson City-Fernley, NV",32,Central
+39063,22300,"Findlay, OH",Micro,534,"Toledo-Findlay-Tiffin, OH",39,Central
+13017,22340,"Fitzgerald, GA",Micro,,,13,Central
+04005,22380,"Flagstaff, AZ",Metro,,,4,Central
+26049,22420,"Flint, MI",Metro,220,"Detroit-Warren-Ann Arbor, MI",26,Central
+45031,22500,"Florence, SC",Metro,,,45,Outlying
+45041,22500,"Florence, SC",Metro,,,45,Central
+01033,22520,"Florence-Muscle Shoals, AL",Metro,,,1,Central
+01077,22520,"Florence-Muscle Shoals, AL",Metro,,,1,Central
+55039,22540,"Fond du Lac, WI",Metro,,,55,Central
+37161,22580,"Forest City, NC",Micro,,,37,Central
+05123,22620,"Forrest City, AR",Micro,368,"Memphis-Forrest City, TN-MS-AR",5,Central
+08069,22660,"Fort Collins, CO",Metro,,,8,Central
+19187,22700,"Fort Dodge, IA",Micro,,,19,Central
+29169,22780,"Fort Leonard Wood, MO",Micro,,,29,Central
+17067,22800,"Fort Madison-Keokuk, IA-IL-MO",Micro,161,"Burlington-Fort Madison-Keokuk, IA-IL-MO",17,Outlying
+19111,22800,"Fort Madison-Keokuk, IA-IL-MO",Micro,161,"Burlington-Fort Madison-Keokuk, IA-IL-MO",19,Central
+29045,22800,"Fort Madison-Keokuk, IA-IL-MO",Micro,161,"Burlington-Fort Madison-Keokuk, IA-IL-MO",29,Outlying
+08087,22820,"Fort Morgan, CO",Micro,,,8,Central
+01049,22840,"Fort Payne, AL",Micro,497,"Scottsboro-Fort Payne, AL",1,Central
+22115,22860,"Fort Polk South, LA",Micro,217,"DeRidder-Fort Polk South, LA",22,Central
+05033,22900,"Fort Smith, AR-OK",Metro,,,5,Central
+05047,22900,"Fort Smith, AR-OK",Metro,,,5,Outlying
+05131,22900,"Fort Smith, AR-OK",Metro,,,5,Central
+40135,22900,"Fort Smith, AR-OK",Metro,,,40,Outlying
+18003,23060,"Fort Wayne, IN",Metro,258,"Fort Wayne-Huntington-Auburn, IN",18,Central
+18183,23060,"Fort Wayne, IN",Metro,258,"Fort Wayne-Huntington-Auburn, IN",18,Outlying
+18023,23140,"Frankfort, IN",Micro,320,"Lafayette-West Lafayette-Frankfort, IN",18,Central
+21005,23180,"Frankfort, KY",Micro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Outlying
+21073,23180,"Frankfort, KY",Micro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Central
+48171,23240,"Fredericksburg, TX",Micro,314,"Kerrville-Fredericksburg, TX",48,Central
+17177,23300,"Freeport, IL",Micro,466,"Rockford-Freeport-Rochelle, IL",17,Central
+31053,23340,"Fremont, NE",Micro,420,"Omaha-Council Bluffs-Fremont, NE-IA",31,Central
+39143,23380,"Fremont, OH",Micro,534,"Toledo-Findlay-Tiffin, OH",39,Central
+06019,23420,"Fresno, CA",Metro,260,"Fresno-Madera-Hanford, CA",6,Central
+01055,23460,"Gadsden, AL",Metro,,,1,Central
+45021,23500,"Gaffney, SC",Micro,273,"Greenville-Spartanburg-Anderson, SC",45,Central
+12001,23540,"Gainesville, FL",Metro,264,"Gainesville-Lake City, FL",12,Central
+12041,23540,"Gainesville, FL",Metro,264,"Gainesville-Lake City, FL",12,Outlying
+12075,23540,"Gainesville, FL",Metro,264,"Gainesville-Lake City, FL",12,Outlying
+13139,23580,"Gainesville, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+48097,23620,"Gainesville, TX",Micro,206,"Dallas-Fort Worth, TX-OK",48,Central
+17095,23660,"Galesburg, IL",Micro,,,17,Central
+35031,23700,"Gallup, NM",Micro,,,35,Central
+20055,23780,"Garden City, KS",Micro,,,20,Central
+20093,23780,"Garden City, KS",Micro,,,20,Outlying
+32005,23820,"Gardnerville Ranchos, NV",Micro,456,"Reno-Carson City-Fernley, NV",32,Central
+45043,23860,"Georgetown, SC",Micro,396,"Myrtle Beach-Conway, SC-NC",45,Central
+42001,23900,"Gettysburg, PA",Metro,276,"Harrisburg-York-Lebanon, PA",42,Central
+56005,23940,"Gillette, WY",Micro,,,56,Central
+56011,23940,"Gillette, WY",Micro,,,56,Outlying
+56045,23940,"Gillette, WY",Micro,,,56,Outlying
+21009,23980,"Glasgow, KY",Micro,150,"Bowling Green-Glasgow, KY",21,Central
+21169,23980,"Glasgow, KY",Micro,150,"Bowling Green-Glasgow, KY",21,Outlying
+36113,24020,"Glens Falls, NY",Metro,104,"Albany-Schenectady, NY",36,Central
+36115,24020,"Glens Falls, NY",Metro,104,"Albany-Schenectady, NY",36,Central
+08045,24060,"Glenwood Springs, CO",Micro,233,"Edwards-Glenwood Springs, CO",8,Central
+08097,24060,"Glenwood Springs, CO",Micro,233,"Edwards-Glenwood Springs, CO",8,Outlying
+36035,24100,"Gloversville, NY",Micro,104,"Albany-Schenectady, NY",36,Central
+37191,24140,"Goldsboro, NC",Metro,,,37,Central
+48221,24180,"Granbury, TX",Micro,206,"Dallas-Fort Worth, TX-OK",48,Central
+27119,24220,"Grand Forks, ND-MN",Metro,,,27,Central
+38035,24220,"Grand Forks, ND-MN",Metro,,,38,Central
+31079,24260,"Grand Island, NE",Metro,,,31,Central
+31093,24260,"Grand Island, NE",Metro,,,31,Outlying
+31121,24260,"Grand Island, NE",Metro,,,31,Outlying
+08077,24300,"Grand Junction, CO",Metro,,,8,Central
+27061,24330,"Grand Rapids, MN",Micro,,,27,Central
+26067,24340,"Grand Rapids-Kentwood, MI",Metro,266,"Grand Rapids-Kentwood-Muskegon, MI",26,Outlying
+26081,24340,"Grand Rapids-Kentwood, MI",Metro,266,"Grand Rapids-Kentwood-Muskegon, MI",26,Central
+26117,24340,"Grand Rapids-Kentwood, MI",Metro,266,"Grand Rapids-Kentwood-Muskegon, MI",26,Outlying
+26139,24340,"Grand Rapids-Kentwood, MI",Metro,266,"Grand Rapids-Kentwood-Muskegon, MI",26,Outlying
+35006,24380,"Grants, NM",Micro,,,35,Central
+41033,24420,"Grants Pass, OR",Metro,366,"Medford-Grants Pass, OR",41,Central
+20009,24460,"Great Bend, KS",Micro,,,20,Central
+30013,24500,"Great Falls, MT",Metro,,,30,Central
+08123,24540,"Greeley, CO",Metro,216,"Denver-Aurora, CO",8,Central
+55009,24580,"Green Bay, WI",Metro,267,"Green Bay-Shawano, WI",55,Central
+55061,24580,"Green Bay, WI",Metro,267,"Green Bay-Shawano, WI",55,Outlying
+55083,24580,"Green Bay, WI",Metro,267,"Green Bay-Shawano, WI",55,Outlying
+47059,24620,"Greeneville, TN",Micro,,,47,Central
+37081,24660,"Greensboro-High Point, NC",Metro,268,"Greensboro--Winston-Salem--High Point, NC",37,Central
+37151,24660,"Greensboro-High Point, NC",Metro,268,"Greensboro--Winston-Salem--High Point, NC",37,Outlying
+37157,24660,"Greensboro-High Point, NC",Metro,268,"Greensboro--Winston-Salem--High Point, NC",37,Outlying
+18031,24700,"Greensburg, IN",Micro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+28151,24740,"Greenville, MS",Micro,,,28,Central
+37147,24780,"Greenville, NC",Metro,272,"Greenville-Kinston-Washington, NC",37,Central
+39037,24820,"Greenville, OH",Micro,212,"Dayton-Springfield-Kettering, OH",39,Central
+45007,24860,"Greenville-Anderson, SC",Metro,273,"Greenville-Spartanburg-Anderson, SC",45,Outlying
+45045,24860,"Greenville-Anderson, SC",Metro,273,"Greenville-Spartanburg-Anderson, SC",45,Central
+45059,24860,"Greenville-Anderson, SC",Metro,273,"Greenville-Spartanburg-Anderson, SC",45,Outlying
+45077,24860,"Greenville-Anderson, SC",Metro,273,"Greenville-Spartanburg-Anderson, SC",45,Central
+28015,24900,"Greenwood, MS",Micro,,,28,Outlying
+28083,24900,"Greenwood, MS",Micro,,,28,Central
+45047,24940,"Greenwood, SC",Micro,273,"Greenville-Spartanburg-Anderson, SC",45,Central
+28043,24980,"Grenada, MS",Micro,,,28,Central
+72015,25020,"Guayama, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72057,25020,"Guayama, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72109,25020,"Guayama, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+28045,25060,"Gulfport-Biloxi, MS",Metro,,,28,Central
+28047,25060,"Gulfport-Biloxi, MS",Metro,,,28,Central
+28059,25060,"Gulfport-Biloxi, MS",Metro,,,28,Outlying
+28131,25060,"Gulfport-Biloxi, MS",Metro,,,28,Outlying
+40139,25100,"Guymon, OK",Micro,,,40,Central
+24043,25180,"Hagerstown-Martinsburg, MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Central
+54003,25180,"Hagerstown-Martinsburg, MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",54,Central
+54065,25180,"Hagerstown-Martinsburg, MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",54,Outlying
+16013,25200,"Hailey, ID",Micro,,,16,Central
+16025,25200,"Hailey, ID",Micro,,,16,Outlying
+22105,25220,"Hammond, LA",Metro,406,"New Orleans-Metairie-Hammond, LA-MS",22,Central
+06031,25260,"Hanford-Corcoran, CA",Metro,260,"Fresno-Madera-Hanford, CA",6,Central
+29127,25300,"Hannibal, MO",Micro,448,"Quincy-Hannibal, IL-MO",29,Central
+29173,25300,"Hannibal, MO",Micro,448,"Quincy-Hannibal, IL-MO",29,Outlying
+42041,25420,"Harrisburg-Carlisle, PA",Metro,276,"Harrisburg-York-Lebanon, PA",42,Central
+42043,25420,"Harrisburg-Carlisle, PA",Metro,276,"Harrisburg-York-Lebanon, PA",42,Central
+42099,25420,"Harrisburg-Carlisle, PA",Metro,276,"Harrisburg-York-Lebanon, PA",42,Outlying
+05009,25460,"Harrison, AR",Micro,,,5,Central
+05101,25460,"Harrison, AR",Micro,,,5,Outlying
+51165,25500,"Harrisonburg, VA",Metro,277,"Harrisonburg-Staunton, VA",51,Central
+51660,25500,"Harrisonburg, VA",Metro,277,"Harrisonburg-Staunton, VA",51,Central
+09003,25540,"Hartford-East Hartford-Middletown, CT",Metro,278,"Hartford-East Hartford, CT",9,Central
+09007,25540,"Hartford-East Hartford-Middletown, CT",Metro,278,"Hartford-East Hartford, CT",9,Central
+09013,25540,"Hartford-East Hartford-Middletown, CT",Metro,278,"Hartford-East Hartford, CT",9,Central
+31001,25580,"Hastings, NE",Micro,,,31,Central
+28031,25620,"Hattiesburg, MS",Metro,279,"Hattiesburg-Laurel, MS",28,Outlying
+28035,25620,"Hattiesburg, MS",Metro,279,"Hattiesburg-Laurel, MS",28,Central
+28073,25620,"Hattiesburg, MS",Metro,279,"Hattiesburg-Laurel, MS",28,Central
+28111,25620,"Hattiesburg, MS",Metro,279,"Hattiesburg-Laurel, MS",28,Outlying
+20051,25700,"Hays, KS",Micro,,,20,Central
+49043,25720,"Heber, UT",Micro,482,"Salt Lake City-Provo-Orem, UT",49,Central
+49051,25720,"Heber, UT",Micro,482,"Salt Lake City-Provo-Orem, UT",49,Outlying
+30043,25740,"Helena, MT",Micro,,,30,Outlying
+30049,25740,"Helena, MT",Micro,,,30,Central
+05107,25760,"Helena-West Helena, AR",Micro,,,5,Central
+37181,25780,"Henderson, NC",Micro,450,"Raleigh-Durham-Cary, NC",37,Central
+48117,25820,"Hereford, TX",Micro,,,48,Central
+41049,25840,"Hermiston-Pendleton, OR",Micro,,,41,Outlying
+41059,25840,"Hermiston-Pendleton, OR",Micro,,,41,Central
+37003,25860,"Hickory-Lenoir-Morganton, NC",Metro,,,37,Outlying
+37023,25860,"Hickory-Lenoir-Morganton, NC",Metro,,,37,Central
+37027,25860,"Hickory-Lenoir-Morganton, NC",Metro,,,37,Central
+37035,25860,"Hickory-Lenoir-Morganton, NC",Metro,,,37,Central
+26059,25880,"Hillsdale, MI",Micro,,,26,Central
+15001,25900,"Hilo, HI",Micro,,,15,Central
+45013,25940,"Hilton Head Island-Bluffton, SC",Metro,,,45,Central
+45053,25940,"Hilton Head Island-Bluffton, SC",Metro,,,45,Outlying
+13179,25980,"Hinesville, GA",Metro,496,"Savannah-Hinesville-Statesboro, GA",13,Central
+13183,25980,"Hinesville, GA",Metro,496,"Savannah-Hinesville-Statesboro, GA",13,Outlying
+35025,26020,"Hobbs, NM",Micro,,,35,Central
+26005,26090,"Holland, MI",Micro,266,"Grand Rapids-Kentwood-Muskegon, MI",26,Central
+12017,26140,"Homosassa Springs, FL",Metro,,,12,Central
+41027,26220,"Hood River, OR",Micro,,,41,Central
+05057,26260,"Hope, AR",Micro,,,5,Central
+05099,26260,"Hope, AR",Micro,,,5,Outlying
+05051,26300,"Hot Springs, AR",Metro,284,"Hot Springs-Malvern, AR",5,Central
+26061,26340,"Houghton, MI",Micro,,,26,Central
+26083,26340,"Houghton, MI",Micro,,,26,Outlying
+22057,26380,"Houma-Thibodaux, LA",Metro,,,22,Central
+22109,26380,"Houma-Thibodaux, LA",Metro,,,22,Central
+48015,26420,"Houston-The Woodlands-Sugar Land, TX",Metro,288,"Houston-The Woodlands, TX",48,Outlying
+48039,26420,"Houston-The Woodlands-Sugar Land, TX",Metro,288,"Houston-The Woodlands, TX",48,Central
+48071,26420,"Houston-The Woodlands-Sugar Land, TX",Metro,288,"Houston-The Woodlands, TX",48,Central
+48157,26420,"Houston-The Woodlands-Sugar Land, TX",Metro,288,"Houston-The Woodlands, TX",48,Central
+48167,26420,"Houston-The Woodlands-Sugar Land, TX",Metro,288,"Houston-The Woodlands, TX",48,Central
+48201,26420,"Houston-The Woodlands-Sugar Land, TX",Metro,288,"Houston-The Woodlands, TX",48,Central
+48291,26420,"Houston-The Woodlands-Sugar Land, TX",Metro,288,"Houston-The Woodlands, TX",48,Outlying
+48339,26420,"Houston-The Woodlands-Sugar Land, TX",Metro,288,"Houston-The Woodlands, TX",48,Outlying
+48473,26420,"Houston-The Woodlands-Sugar Land, TX",Metro,288,"Houston-The Woodlands, TX",48,Outlying
+36021,26460,"Hudson, NY",Micro,104,"Albany-Schenectady, NY",36,Central
+42061,26500,"Huntingdon, PA",Micro,107,"Altoona-Huntingdon, PA",42,Central
+18069,26540,"Huntington, IN",Micro,258,"Fort Wayne-Huntington-Auburn, IN",18,Central
+21019,26580,"Huntington-Ashland, WV-KY-OH",Metro,170,"Charleston-Huntington-Ashland, WV-OH-KY",21,Central
+21043,26580,"Huntington-Ashland, WV-KY-OH",Metro,170,"Charleston-Huntington-Ashland, WV-OH-KY",21,Outlying
+21089,26580,"Huntington-Ashland, WV-KY-OH",Metro,170,"Charleston-Huntington-Ashland, WV-OH-KY",21,Central
+39087,26580,"Huntington-Ashland, WV-KY-OH",Metro,170,"Charleston-Huntington-Ashland, WV-OH-KY",39,Central
+54011,26580,"Huntington-Ashland, WV-KY-OH",Metro,170,"Charleston-Huntington-Ashland, WV-OH-KY",54,Central
+54079,26580,"Huntington-Ashland, WV-KY-OH",Metro,170,"Charleston-Huntington-Ashland, WV-OH-KY",54,Central
+54099,26580,"Huntington-Ashland, WV-KY-OH",Metro,170,"Charleston-Huntington-Ashland, WV-OH-KY",54,Central
+01083,26620,"Huntsville, AL",Metro,290,"Huntsville-Decatur, AL",1,Outlying
+01089,26620,"Huntsville, AL",Metro,290,"Huntsville-Decatur, AL",1,Central
+48471,26660,"Huntsville, TX",Micro,288,"Houston-The Woodlands, TX",48,Central
+46005,26700,"Huron, SD",Micro,,,46,Central
+46073,26700,"Huron, SD",Micro,,,46,Outlying
+20155,26740,"Hutchinson, KS",Micro,,,20,Central
+27085,26780,"Hutchinson, MN",Micro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+16019,26820,"Idaho Falls, ID",Metro,292,"Idaho Falls-Rexburg-Blackfoot, ID",16,Central
+16023,26820,"Idaho Falls, ID",Metro,292,"Idaho Falls-Rexburg-Blackfoot, ID",16,Outlying
+16051,26820,"Idaho Falls, ID",Metro,292,"Idaho Falls-Rexburg-Blackfoot, ID",16,Outlying
+42063,26860,"Indiana, PA",Micro,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV",42,Central
+18011,26900,"Indianapolis-Carmel-Anderson, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+18013,26900,"Indianapolis-Carmel-Anderson, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Outlying
+18057,26900,"Indianapolis-Carmel-Anderson, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+18059,26900,"Indianapolis-Carmel-Anderson, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+18063,26900,"Indianapolis-Carmel-Anderson, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+18081,26900,"Indianapolis-Carmel-Anderson, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+18095,26900,"Indianapolis-Carmel-Anderson, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Outlying
+18097,26900,"Indianapolis-Carmel-Anderson, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+18109,26900,"Indianapolis-Carmel-Anderson, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+18133,26900,"Indianapolis-Carmel-Anderson, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Outlying
+18145,26900,"Indianapolis-Carmel-Anderson, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Outlying
+28133,26940,"Indianola, MS",Micro,185,"Cleveland-Indianola, MS",28,Central
+19103,26980,"Iowa City, IA",Metro,168,"Cedar Rapids-Iowa City, IA",19,Central
+19183,26980,"Iowa City, IA",Metro,168,"Cedar Rapids-Iowa City, IA",19,Outlying
+26043,27020,"Iron Mountain, MI-WI",Micro,361,"Marinette-Iron Mountain, WI-MI",26,Central
+55037,27020,"Iron Mountain, MI-WI",Micro,361,"Marinette-Iron Mountain, WI-MI",55,Outlying
+36109,27060,"Ithaca, NY",Metro,296,"Ithaca-Cortland, NY",36,Central
+26075,27100,"Jackson, MI",Metro,,,26,Central
+28029,27140,"Jackson, MS",Metro,298,"Jackson-Vicksburg-Brookhaven, MS",28,Outlying
+28049,27140,"Jackson, MS",Metro,298,"Jackson-Vicksburg-Brookhaven, MS",28,Central
+28051,27140,"Jackson, MS",Metro,298,"Jackson-Vicksburg-Brookhaven, MS",28,Outlying
+28089,27140,"Jackson, MS",Metro,298,"Jackson-Vicksburg-Brookhaven, MS",28,Central
+28121,27140,"Jackson, MS",Metro,298,"Jackson-Vicksburg-Brookhaven, MS",28,Central
+28127,27140,"Jackson, MS",Metro,298,"Jackson-Vicksburg-Brookhaven, MS",28,Outlying
+28163,27140,"Jackson, MS",Metro,298,"Jackson-Vicksburg-Brookhaven, MS",28,Outlying
+39079,27160,"Jackson, OH",Micro,,,39,Central
+47023,27180,"Jackson, TN",Metro,297,"Jackson-Brownsville, TN",47,Outlying
+47033,27180,"Jackson, TN",Metro,297,"Jackson-Brownsville, TN",47,Outlying
+47053,27180,"Jackson, TN",Metro,297,"Jackson-Brownsville, TN",47,Outlying
+47113,27180,"Jackson, TN",Metro,297,"Jackson-Brownsville, TN",47,Central
+16081,27220,"Jackson, WY-ID",Micro,,,16,Outlying
+56039,27220,"Jackson, WY-ID",Micro,,,56,Central
+12003,27260,"Jacksonville, FL",Metro,300,"Jacksonville-St. Marys-Palatka, FL-GA",12,Outlying
+12019,27260,"Jacksonville, FL",Metro,300,"Jacksonville-St. Marys-Palatka, FL-GA",12,Central
+12031,27260,"Jacksonville, FL",Metro,300,"Jacksonville-St. Marys-Palatka, FL-GA",12,Central
+12089,27260,"Jacksonville, FL",Metro,300,"Jacksonville-St. Marys-Palatka, FL-GA",12,Outlying
+12109,27260,"Jacksonville, FL",Metro,300,"Jacksonville-St. Marys-Palatka, FL-GA",12,Outlying
+17137,27300,"Jacksonville, IL",Micro,522,"Springfield-Jacksonville-Lincoln, IL",17,Central
+17171,27300,"Jacksonville, IL",Micro,522,"Springfield-Jacksonville-Lincoln, IL",17,Outlying
+37133,27340,"Jacksonville, NC",Metro,,,37,Central
+48073,27380,"Jacksonville, TX",Micro,540,"Tyler-Jacksonville, TX",48,Central
+38093,27420,"Jamestown, ND",Micro,,,38,Central
+36013,27460,"Jamestown-Dunkirk-Fredonia, NY",Micro,,,36,Central
+55105,27500,"Janesville-Beloit, WI",Metro,357,"Madison-Janesville-Beloit, WI",55,Central
+01127,27530,"Jasper, AL",Micro,142,"Birmingham-Hoover-Talladega, AL",1,Central
+18037,27540,"Jasper, IN",Micro,,,18,Central
+18125,27540,"Jasper, IN",Micro,,,18,Outlying
+72073,27580,"Jayuya, PR",Micro,,,72,Central
+13157,27600,"Jefferson, GA",Micro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+29027,27620,"Jefferson City, MO",Metro,,,29,Outlying
+29051,27620,"Jefferson City, MO",Metro,,,29,Central
+29135,27620,"Jefferson City, MO",Metro,,,29,Outlying
+29151,27620,"Jefferson City, MO",Metro,,,29,Outlying
+22053,27660,"Jennings, LA",Micro,324,"Lake Charles-Jennings, LA",22,Central
+13305,27700,"Jesup, GA",Micro,496,"Savannah-Hinesville-Statesboro, GA",13,Central
+47019,27740,"Johnson City, TN",Metro,304,"Johnson City-Kingsport-Bristol, TN-VA",47,Central
+47171,27740,"Johnson City, TN",Metro,304,"Johnson City-Kingsport-Bristol, TN-VA",47,Outlying
+47179,27740,"Johnson City, TN",Metro,304,"Johnson City-Kingsport-Bristol, TN-VA",47,Central
+42021,27780,"Johnstown, PA",Metro,306,"Johnstown-Somerset, PA",42,Central
+05031,27860,"Jonesboro, AR",Metro,308,"Jonesboro-Paragould, AR",5,Central
+05111,27860,"Jonesboro, AR",Metro,308,"Jonesboro-Paragould, AR",5,Outlying
+29097,27900,"Joplin, MO",Metro,309,"Joplin-Miami, MO-OK",29,Central
+29145,27900,"Joplin, MO",Metro,309,"Joplin-Miami, MO-OK",29,Outlying
+02110,27940,"Juneau, AK",Micro,,,2,Central
+15009,27980,"Kahului-Wailuku-Lahaina, HI",Metro,,,15,Central
+26077,28020,"Kalamazoo-Portage, MI",Metro,310,"Kalamazoo-Battle Creek-Portage, MI",26,Central
+30029,28060,"Kalispell, MT",Micro,,,30,Central
+17091,28100,"Kankakee, IL",Metro,176,"Chicago-Naperville, IL-IN-WI",17,Central
+20091,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",20,Central
+20103,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",20,Outlying
+20107,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",20,Outlying
+20121,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",20,Outlying
+20209,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",20,Central
+29013,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Outlying
+29025,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Outlying
+29037,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Central
+29047,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Central
+29049,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Outlying
+29095,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Central
+29107,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Outlying
+29165,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Central
+29177,28140,"Kansas City, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Outlying
+15007,28180,"Kapaa, HI",Micro,,,15,Central
+31019,28260,"Kearney, NE",Micro,,,31,Central
+31099,28260,"Kearney, NE",Micro,,,31,Outlying
+33005,28300,"Keene, NH",Micro,,,33,Central
+18113,28340,"Kendallville, IN",Micro,258,"Fort Wayne-Huntington-Auburn, IN",18,Central
+29069,28380,"Kennett, MO",Micro,,,29,Central
+53005,28420,"Kennewick-Richland, WA",Metro,313,"Kennewick-Richland-Walla Walla, WA",53,Central
+53021,28420,"Kennewick-Richland, WA",Metro,313,"Kennewick-Richland-Walla Walla, WA",53,Central
+48265,28500,"Kerrville, TX",Micro,314,"Kerrville-Fredericksburg, TX",48,Central
+02130,28540,"Ketchikan, AK",Micro,,,2,Central
+12087,28580,"Key West, FL",Micro,370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12,Central
+37055,28620,"Kill Devil Hills, NC",Micro,545,"Virginia Beach-Norfolk, VA-NC",37,Central
+48027,28660,"Killeen-Temple, TX",Metro,,,48,Central
+48099,28660,"Killeen-Temple, TX",Metro,,,48,Central
+48281,28660,"Killeen-Temple, TX",Metro,,,48,Outlying
+47073,28700,"Kingsport-Bristol, TN-VA",Metro,304,"Johnson City-Kingsport-Bristol, TN-VA",47,Central
+47163,28700,"Kingsport-Bristol, TN-VA",Metro,304,"Johnson City-Kingsport-Bristol, TN-VA",47,Central
+51169,28700,"Kingsport-Bristol, TN-VA",Metro,304,"Johnson City-Kingsport-Bristol, TN-VA",51,Outlying
+51191,28700,"Kingsport-Bristol, TN-VA",Metro,304,"Johnson City-Kingsport-Bristol, TN-VA",51,Outlying
+51520,28700,"Kingsport-Bristol, TN-VA",Metro,304,"Johnson City-Kingsport-Bristol, TN-VA",51,Outlying
+36111,28740,"Kingston, NY",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+48261,28780,"Kingsville, TX",Micro,204,"Corpus Christi-Kingsville-Alice, TX",48,Outlying
+48273,28780,"Kingsville, TX",Micro,204,"Corpus Christi-Kingsville-Alice, TX",48,Central
+37107,28820,"Kinston, NC",Micro,272,"Greenville-Kinston-Washington, NC",37,Central
+29001,28860,"Kirksville, MO",Micro,,,29,Central
+29197,28860,"Kirksville, MO",Micro,,,29,Outlying
+41035,28900,"Klamath Falls, OR",Micro,,,41,Central
+47001,28940,"Knoxville, TN",Metro,315,"Knoxville-Morristown-Sevierville, TN",47,Central
+47009,28940,"Knoxville, TN",Metro,315,"Knoxville-Morristown-Sevierville, TN",47,Central
+47013,28940,"Knoxville, TN",Metro,315,"Knoxville-Morristown-Sevierville, TN",47,Outlying
+47093,28940,"Knoxville, TN",Metro,315,"Knoxville-Morristown-Sevierville, TN",47,Central
+47105,28940,"Knoxville, TN",Metro,315,"Knoxville-Morristown-Sevierville, TN",47,Central
+47129,28940,"Knoxville, TN",Metro,315,"Knoxville-Morristown-Sevierville, TN",47,Outlying
+47145,28940,"Knoxville, TN",Metro,315,"Knoxville-Morristown-Sevierville, TN",47,Outlying
+47173,28940,"Knoxville, TN",Metro,315,"Knoxville-Morristown-Sevierville, TN",47,Outlying
+18067,29020,"Kokomo, IN",Metro,316,"Kokomo-Peru, IN",18,Central
+33001,29060,"Laconia, NH",Micro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",33,Central
+27055,29100,"La Crosse-Onalaska, WI-MN",Metro,,,27,Central
+55063,29100,"La Crosse-Onalaska, WI-MN",Metro,,,55,Central
+22001,29180,"Lafayette, LA",Metro,318,"Lafayette-Opelousas-Morgan City, LA",22,Outlying
+22045,29180,"Lafayette, LA",Metro,318,"Lafayette-Opelousas-Morgan City, LA",22,Central
+22055,29180,"Lafayette, LA",Metro,318,"Lafayette-Opelousas-Morgan City, LA",22,Central
+22099,29180,"Lafayette, LA",Metro,318,"Lafayette-Opelousas-Morgan City, LA",22,Outlying
+22113,29180,"Lafayette, LA",Metro,318,"Lafayette-Opelousas-Morgan City, LA",22,Outlying
+18007,29200,"Lafayette-West Lafayette, IN",Metro,320,"Lafayette-West Lafayette-Frankfort, IN",18,Outlying
+18015,29200,"Lafayette-West Lafayette, IN",Metro,320,"Lafayette-West Lafayette-Frankfort, IN",18,Outlying
+18157,29200,"Lafayette-West Lafayette, IN",Metro,320,"Lafayette-West Lafayette-Frankfort, IN",18,Central
+18171,29200,"Lafayette-West Lafayette, IN",Metro,320,"Lafayette-West Lafayette-Frankfort, IN",18,Outlying
+41061,29260,"La Grande, OR",Micro,,,41,Central
+01017,29300,"LaGrange, GA-AL",Micro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,Outlying
+13285,29300,"LaGrange, GA-AL",Micro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+22019,29340,"Lake Charles, LA",Metro,324,"Lake Charles-Jennings, LA",22,Central
+22023,29340,"Lake Charles, LA",Metro,324,"Lake Charles-Jennings, LA",22,Outlying
+12023,29380,"Lake City, FL",Micro,264,"Gainesville-Lake City, FL",12,Central
+04015,29420,"Lake Havasu City-Kingman, AZ",Metro,,,4,Central
+12105,29460,"Lakeland-Winter Haven, FL",Metro,422,"Orlando-Lakeland-Deltona, FL",12,Central
+48115,29500,"Lamesa, TX",Micro,,,48,Central
+42071,29540,"Lancaster, PA",Metro,,,42,Central
+26037,29620,"Lansing-East Lansing, MI",Metro,,,26,Central
+26045,29620,"Lansing-East Lansing, MI",Metro,,,26,Central
+26065,29620,"Lansing-East Lansing, MI",Metro,,,26,Central
+26155,29620,"Lansing-East Lansing, MI",Metro,,,26,Outlying
+56001,29660,"Laramie, WY",Micro,,,56,Central
+48479,29700,"Laredo, TX",Metro,,,48,Central
+35013,29740,"Las Cruces, NM",Metro,238,"El Paso-Las Cruces, TX-NM",35,Central
+35033,29780,"Las Vegas, NM",Micro,106,"Albuquerque-Santa Fe-Las Vegas, NM",35,Outlying
+35047,29780,"Las Vegas, NM",Micro,106,"Albuquerque-Santa Fe-Las Vegas, NM",35,Central
+32003,29820,"Las Vegas-Henderson-Paradise, NV",Metro,332,"Las Vegas-Henderson, NV",32,Central
+28061,29860,"Laurel, MS",Micro,279,"Hattiesburg-Laurel, MS",28,Outlying
+28067,29860,"Laurel, MS",Micro,279,"Hattiesburg-Laurel, MS",28,Central
+37165,29900,"Laurinburg, NC",Micro,246,"Fayetteville-Sanford-Lumberton, NC",37,Central
+20045,29940,"Lawrence, KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",20,Central
+47099,29980,"Lawrenceburg, TN",Micro,400,"Nashville-Davidson--Murfreesboro, TN",47,Central
+40031,30020,"Lawton, OK",Metro,,,40,Central
+40033,30020,"Lawton, OK",Metro,,,40,Outlying
+29105,30060,"Lebanon, MO",Micro,,,29,Central
+33009,30100,"Lebanon, NH-VT",Micro,,,33,Central
+33019,30100,"Lebanon, NH-VT",Micro,,,33,Outlying
+50017,30100,"Lebanon, NH-VT",Micro,,,50,Outlying
+50027,30100,"Lebanon, NH-VT",Micro,,,50,Central
+42075,30140,"Lebanon, PA",Metro,276,"Harrisburg-York-Lebanon, PA",42,Central
+48219,30220,"Levelland, TX",Micro,352,"Lubbock-Plainview-Levelland, TX",48,Central
+42119,30260,"Lewisburg, PA",Micro,146,"Bloomsburg-Berwick-Sunbury, PA",42,Central
+47117,30280,"Lewisburg, TN",Micro,400,"Nashville-Davidson--Murfreesboro, TN",47,Central
+16069,30300,"Lewiston, ID-WA",Metro,,,16,Central
+53003,30300,"Lewiston, ID-WA",Metro,,,53,Central
+23001,30340,"Lewiston-Auburn, ME",Metro,438,"Portland-Lewiston-South Portland, ME",23,Central
+42087,30380,"Lewistown, PA",Micro,,,42,Central
+31047,30420,"Lexington, NE",Micro,,,31,Central
+31073,30420,"Lexington, NE",Micro,,,31,Outlying
+21017,30460,"Lexington-Fayette, KY",Metro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Outlying
+21049,30460,"Lexington-Fayette, KY",Metro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Outlying
+21067,30460,"Lexington-Fayette, KY",Metro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Central
+21113,30460,"Lexington-Fayette, KY",Metro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Outlying
+21209,30460,"Lexington-Fayette, KY",Metro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Outlying
+21239,30460,"Lexington-Fayette, KY",Metro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Outlying
+20175,30580,"Liberal, KS",Micro,,,20,Central
+39003,30620,"Lima, OH",Metro,338,"Lima-Van Wert-Celina, OH",39,Central
+17107,30660,"Lincoln, IL",Micro,522,"Springfield-Jacksonville-Lincoln, IL",17,Central
+31109,30700,"Lincoln, NE",Metro,339,"Lincoln-Beatrice, NE",31,Central
+31159,30700,"Lincoln, NE",Metro,339,"Lincoln-Beatrice, NE",31,Outlying
+05045,30780,"Little Rock-North Little Rock-Conway, AR",Metro,340,"Little Rock-North Little Rock, AR",5,Outlying
+05053,30780,"Little Rock-North Little Rock-Conway, AR",Metro,340,"Little Rock-North Little Rock, AR",5,Outlying
+05085,30780,"Little Rock-North Little Rock-Conway, AR",Metro,340,"Little Rock-North Little Rock, AR",5,Central
+05105,30780,"Little Rock-North Little Rock-Conway, AR",Metro,340,"Little Rock-North Little Rock, AR",5,Outlying
+05119,30780,"Little Rock-North Little Rock-Conway, AR",Metro,340,"Little Rock-North Little Rock, AR",5,Central
+05125,30780,"Little Rock-North Little Rock-Conway, AR",Metro,340,"Little Rock-North Little Rock, AR",5,Central
+42035,30820,"Lock Haven, PA",Micro,558,"Williamsport-Lock Haven, PA",42,Central
+16041,30860,"Logan, UT-ID",Metro,,,16,Outlying
+49005,30860,"Logan, UT-ID",Metro,,,49,Central
+18017,30900,"Logansport, IN",Micro,,,18,Central
+21051,30940,"London, KY",Micro,,,21,Outlying
+21121,30940,"London, KY",Micro,,,21,Central
+21125,30940,"London, KY",Micro,,,21,Central
+21235,30940,"London, KY",Micro,,,21,Central
+48183,30980,"Longview, TX",Metro,,,48,Central
+48203,30980,"Longview, TX",Metro,,,48,Outlying
+48401,30980,"Longview, TX",Metro,,,48,Outlying
+48459,30980,"Longview, TX",Metro,,,48,Outlying
+53015,31020,"Longview, WA",Metro,440,"Portland-Vancouver-Salem, OR-WA",53,Central
+35028,31060,"Los Alamos, NM",Micro,106,"Albuquerque-Santa Fe-Las Vegas, NM",35,Central
+06059,31080,"Los Angeles-Long Beach-Anaheim, CA",Metro,348,"Los Angeles-Long Beach, CA",6,Central
+06037,31080,"Los Angeles-Long Beach-Anaheim, CA",Metro,348,"Los Angeles-Long Beach, CA",6,Central
+18019,31140,"Louisville/Jefferson County, KY-IN",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",18,Central
+18043,31140,"Louisville/Jefferson County, KY-IN",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",18,Central
+18061,31140,"Louisville/Jefferson County, KY-IN",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",18,Outlying
+18175,31140,"Louisville/Jefferson County, KY-IN",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",18,Outlying
+21029,31140,"Louisville/Jefferson County, KY-IN",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",21,Central
+21103,31140,"Louisville/Jefferson County, KY-IN",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",21,Outlying
+21111,31140,"Louisville/Jefferson County, KY-IN",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",21,Central
+21185,31140,"Louisville/Jefferson County, KY-IN",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",21,Central
+21211,31140,"Louisville/Jefferson County, KY-IN",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",21,Outlying
+21215,31140,"Louisville/Jefferson County, KY-IN",Metro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",21,Outlying
+48107,31180,"Lubbock, TX",Metro,352,"Lubbock-Plainview-Levelland, TX",48,Outlying
+48303,31180,"Lubbock, TX",Metro,352,"Lubbock-Plainview-Levelland, TX",48,Central
+48305,31180,"Lubbock, TX",Metro,352,"Lubbock-Plainview-Levelland, TX",48,Outlying
+26105,31220,"Ludington, MI",Micro,,,26,Central
+48005,31260,"Lufkin, TX",Micro,,,48,Central
+37155,31300,"Lumberton, NC",Micro,246,"Fayetteville-Sanford-Lumberton, NC",37,Central
+51009,31340,"Lynchburg, VA",Metro,,,51,Central
+51011,31340,"Lynchburg, VA",Metro,,,51,Outlying
+51019,31340,"Lynchburg, VA",Metro,,,51,Central
+51031,31340,"Lynchburg, VA",Metro,,,51,Central
+51680,31340,"Lynchburg, VA",Metro,,,51,Central
+17109,31380,"Macomb, IL",Micro,,,17,Central
+13021,31420,"Macon-Bibb County, GA",Metro,356,"Macon-Bibb County--Warner Robins, GA",13,Central
+13079,31420,"Macon-Bibb County, GA",Metro,356,"Macon-Bibb County--Warner Robins, GA",13,Outlying
+13169,31420,"Macon-Bibb County, GA",Metro,356,"Macon-Bibb County--Warner Robins, GA",13,Outlying
+13207,31420,"Macon-Bibb County, GA",Metro,356,"Macon-Bibb County--Warner Robins, GA",13,Outlying
+13289,31420,"Macon-Bibb County, GA",Metro,356,"Macon-Bibb County--Warner Robins, GA",13,Outlying
+06039,31460,"Madera, CA",Metro,260,"Fresno-Madera-Hanford, CA",6,Central
+18077,31500,"Madison, IN",Micro,,,18,Central
+55021,31540,"Madison, WI",Metro,357,"Madison-Janesville-Beloit, WI",55,Outlying
+55025,31540,"Madison, WI",Metro,357,"Madison-Janesville-Beloit, WI",55,Central
+55045,31540,"Madison, WI",Metro,357,"Madison-Janesville-Beloit, WI",55,Outlying
+55049,31540,"Madison, WI",Metro,357,"Madison-Janesville-Beloit, WI",55,Outlying
+21107,31580,"Madisonville, KY",Micro,,,21,Central
+05027,31620,"Magnolia, AR",Micro,,,5,Central
+36033,31660,"Malone, NY",Micro,,,36,Central
+05059,31680,"Malvern, AR",Micro,284,"Hot Springs-Malvern, AR",5,Central
+33011,31700,"Manchester-Nashua, NH",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",33,Central
+20061,31740,"Manhattan, KS",Metro,,,20,Outlying
+20149,31740,"Manhattan, KS",Metro,,,20,Outlying
+20161,31740,"Manhattan, KS",Metro,,,20,Central
+55071,31820,"Manitowoc, WI",Micro,,,55,Central
+27013,31860,"Mankato, MN",Metro,359,"Mankato-New Ulm, MN",27,Central
+27103,31860,"Mankato, MN",Metro,359,"Mankato-New Ulm, MN",27,Central
+39139,31900,"Mansfield, OH",Metro,360,"Mansfield-Ashland-Bucyrus, OH",39,Central
+39167,31930,"Marietta, OH",Micro,425,"Parkersburg-Marietta-Vienna, WV-OH",39,Central
+26109,31940,"Marinette, WI-MI",Micro,361,"Marinette-Iron Mountain, WI-MI",26,Central
+55075,31940,"Marinette, WI-MI",Micro,361,"Marinette-Iron Mountain, WI-MI",55,Central
+18053,31980,"Marion, IN",Micro,,,18,Central
+37111,32000,"Marion, NC",Micro,120,"Asheville-Marion-Brevard, NC",37,Central
+39101,32020,"Marion, OH",Micro,198,"Columbus-Marion-Zanesville, OH",39,Central
+26103,32100,"Marquette, MI",Micro,,,26,Central
+27083,32140,"Marshall, MN",Micro,,,27,Central
+29195,32180,"Marshall, MO",Micro,,,29,Central
+19127,32260,"Marshalltown, IA",Micro,,,19,Central
+47183,32280,"Martin, TN",Micro,362,"Martin-Union City, TN",47,Central
+51089,32300,"Martinsville, VA",Micro,,,51,Central
+51690,32300,"Martinsville, VA",Micro,,,51,Central
+29147,32340,"Maryville, MO",Micro,,,29,Central
+19033,32380,"Mason City, IA",Micro,,,19,Central
+19195,32380,"Mason City, IA",Micro,,,19,Outlying
+72067,32420,"Mayagüez, PR",Metro,364,"Mayagüez-San Germán, PR",72,Central
+72083,32420,"Mayagüez, PR",Metro,364,"Mayagüez-San Germán, PR",72,Outlying
+72097,32420,"Mayagüez, PR",Metro,364,"Mayagüez-San Germán, PR",72,Central
+21083,32460,"Mayfield, KY",Micro,424,"Paducah-Mayfield, KY-IL",21,Central
+21161,32500,"Maysville, KY",Micro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",21,Central
+40121,32540,"McAlester, OK",Micro,,,40,Central
+48215,32580,"McAllen-Edinburg-Mission, TX",Metro,365,"McAllen-Edinburg, TX",48,Central
+28113,32620,"McComb, MS",Micro,,,28,Central
+47177,32660,"McMinnville, TN",Micro,,,47,Central
+20113,32700,"McPherson, KS",Micro,,,20,Central
+42039,32740,"Meadville, PA",Micro,240,"Erie-Meadville, PA",42,Central
+41029,32780,"Medford, OR",Metro,366,"Medford-Grants Pass, OR",41,Central
+05035,32820,"Memphis, TN-MS-AR",Metro,368,"Memphis-Forrest City, TN-MS-AR",5,Central
+28033,32820,"Memphis, TN-MS-AR",Metro,368,"Memphis-Forrest City, TN-MS-AR",28,Central
+28093,32820,"Memphis, TN-MS-AR",Metro,368,"Memphis-Forrest City, TN-MS-AR",28,Outlying
+28137,32820,"Memphis, TN-MS-AR",Metro,368,"Memphis-Forrest City, TN-MS-AR",28,Outlying
+28143,32820,"Memphis, TN-MS-AR",Metro,368,"Memphis-Forrest City, TN-MS-AR",28,Outlying
+47047,32820,"Memphis, TN-MS-AR",Metro,368,"Memphis-Forrest City, TN-MS-AR",47,Outlying
+47157,32820,"Memphis, TN-MS-AR",Metro,368,"Memphis-Forrest City, TN-MS-AR",47,Central
+47167,32820,"Memphis, TN-MS-AR",Metro,368,"Memphis-Forrest City, TN-MS-AR",47,Outlying
+55033,32860,"Menomonie, WI",Micro,232,"Eau Claire-Menomonie, WI",55,Central
+06047,32900,"Merced, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Central
+28023,32940,"Meridian, MS",Micro,,,28,Outlying
+28069,32940,"Meridian, MS",Micro,,,28,Outlying
+28075,32940,"Meridian, MS",Micro,,,28,Central
+29007,33020,"Mexico, MO",Micro,190,"Columbia-Moberly-Mexico, MO",29,Central
+40115,33060,"Miami, OK",Micro,309,"Joplin-Miami, MO-OK",40,Central
+12011,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metro,370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12,Central
+12086,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metro,370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12,Central
+12099,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metro,370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12,Central
+18091,33140,"Michigan City-La Porte, IN",Metro,176,"Chicago-Naperville, IL-IN-WI",18,Central
+21013,33180,"Middlesborough, KY",Micro,,,21,Central
+26111,33220,"Midland, MI",Metro,474,"Saginaw-Midland-Bay City, MI",26,Central
+48317,33260,"Midland, TX",Metro,372,"Midland-Odessa, TX",48,Outlying
+48329,33260,"Midland, TX",Metro,372,"Midland-Odessa, TX",48,Central
+13009,33300,"Milledgeville, GA",Micro,,,13,Central
+13141,33300,"Milledgeville, GA",Micro,,,13,Outlying
+55079,33340,"Milwaukee-Waukesha, WI",Metro,376,"Milwaukee-Racine-Waukesha, WI",55,Central
+55089,33340,"Milwaukee-Waukesha, WI",Metro,376,"Milwaukee-Racine-Waukesha, WI",55,Central
+55131,33340,"Milwaukee-Waukesha, WI",Metro,376,"Milwaukee-Racine-Waukesha, WI",55,Outlying
+55133,33340,"Milwaukee-Waukesha, WI",Metro,376,"Milwaukee-Racine-Waukesha, WI",55,Central
+22119,33380,"Minden, LA",Micro,508,"Shreveport-Bossier City-Minden, LA",22,Central
+48363,33420,"Mineral Wells, TX",Micro,206,"Dallas-Fort Worth, TX-OK",48,Central
+27003,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+27019,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+27025,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Outlying
+27037,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+27053,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+27059,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Outlying
+27079,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Outlying
+27095,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Outlying
+27123,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+27139,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+27141,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+27163,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+27171,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+55093,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",55,Outlying
+55109,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metro,378,"Minneapolis-St. Paul, MN-WI",55,Outlying
+38049,33500,"Minot, ND",Micro,,,38,Outlying
+38075,33500,"Minot, ND",Micro,,,38,Outlying
+38101,33500,"Minot, ND",Micro,,,38,Central
+30063,33540,"Missoula, MT",Metro,,,30,Central
+46035,33580,"Mitchell, SD",Micro,,,46,Central
+46061,33580,"Mitchell, SD",Micro,,,46,Outlying
+29175,33620,"Moberly, MO",Micro,190,"Columbia-Moberly-Mexico, MO",29,Central
+01097,33660,"Mobile, AL",Metro,380,"Mobile-Daphne-Fairhope, AL",1,Central
+01129,33660,"Mobile, AL",Metro,380,"Mobile-Daphne-Fairhope, AL",1,Outlying
+06099,33700,"Modesto, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Central
+22067,33740,"Monroe, LA",Metro,384,"Monroe-Ruston, LA",22,Outlying
+22073,33740,"Monroe, LA",Metro,384,"Monroe-Ruston, LA",22,Central
+22111,33740,"Monroe, LA",Metro,384,"Monroe-Ruston, LA",22,Outlying
+26115,33780,"Monroe, MI",Metro,220,"Detroit-Warren-Ann Arbor, MI",26,Central
+01001,33860,"Montgomery, AL",Metro,388,"Montgomery-Selma-Alexander City, AL",1,Central
+01051,33860,"Montgomery, AL",Metro,388,"Montgomery-Selma-Alexander City, AL",1,Central
+01085,33860,"Montgomery, AL",Metro,388,"Montgomery-Selma-Alexander City, AL",1,Outlying
+01101,33860,"Montgomery, AL",Metro,388,"Montgomery-Selma-Alexander City, AL",1,Central
+08085,33940,"Montrose, CO",Micro,,,8,Central
+08091,33940,"Montrose, CO",Micro,,,8,Outlying
+37031,33980,"Morehead City, NC",Micro,404,"New Bern-Morehead City, NC",37,Central
+22101,34020,"Morgan City, LA",Micro,318,"Lafayette-Opelousas-Morgan City, LA",22,Central
+54061,34060,"Morgantown, WV",Metro,390,"Morgantown-Fairmont, WV",54,Central
+54077,34060,"Morgantown, WV",Metro,390,"Morgantown-Fairmont, WV",54,Outlying
+47057,34100,"Morristown, TN",Metro,315,"Knoxville-Morristown-Sevierville, TN",47,Outlying
+47063,34100,"Morristown, TN",Metro,315,"Knoxville-Morristown-Sevierville, TN",47,Central
+47089,34100,"Morristown, TN",Metro,315,"Knoxville-Morristown-Sevierville, TN",47,Central
+16057,34140,"Moscow, ID",Micro,446,"Pullman-Moscow, WA-ID",16,Central
+53025,34180,"Moses Lake, WA",Micro,393,"Moses Lake-Othello, WA",53,Central
+13071,34220,"Moultrie, GA",Micro,,,13,Central
+05005,34260,"Mountain Home, AR",Micro,,,5,Central
+16039,34300,"Mountain Home, ID",Micro,147,"Boise City-Mountain Home-Ontario, ID-OR",16,Central
+37171,34340,"Mount Airy, NC",Micro,268,"Greensboro--Winston-Salem--High Point, NC",37,Central
+54045,34350,"Mount Gay-Shamrock, WV",Micro,170,"Charleston-Huntington-Ashland, WV-OH-KY",54,Central
+26073,34380,"Mount Pleasant, MI",Micro,394,"Mount Pleasant-Alma, MI",26,Central
+48063,34420,"Mount Pleasant, TX",Micro,,,48,Outlying
+48449,34420,"Mount Pleasant, TX",Micro,,,48,Central
+21011,34460,"Mount Sterling, KY",Micro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Outlying
+21165,34460,"Mount Sterling, KY",Micro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Outlying
+21173,34460,"Mount Sterling, KY",Micro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Central
+17081,34500,"Mount Vernon, IL",Micro,,,17,Central
+39083,34540,"Mount Vernon, OH",Micro,198,"Columbus-Marion-Zanesville, OH",39,Central
+53057,34580,"Mount Vernon-Anacortes, WA",Metro,500,"Seattle-Tacoma, WA",53,Central
+18035,34620,"Muncie, IN",Metro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+21035,34660,"Murray, KY",Micro,,,21,Central
+19139,34700,"Muscatine, IA",Micro,209,"Davenport-Moline, IA-IL",19,Central
+26121,34740,"Muskegon, MI",Metro,266,"Grand Rapids-Kentwood-Muskegon, MI",26,Central
+40101,34780,"Muskogee, OK",Micro,538,"Tulsa-Muskogee-Bartlesville, OK",40,Central
+37019,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Metro,396,"Myrtle Beach-Conway, SC-NC",37,Central
+45051,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Metro,396,"Myrtle Beach-Conway, SC-NC",45,Central
+48347,34860,"Nacogdoches, TX",Micro,,,48,Central
+06055,34900,"Napa, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Central
+12021,34940,"Naples-Marco Island, FL",Metro,163,"Cape Coral-Fort Myers-Naples, FL",12,Central
+47015,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Outlying
+47021,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Outlying
+47037,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Central
+47043,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Outlying
+47111,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Outlying
+47119,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Outlying
+47147,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Outlying
+47149,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Outlying
+47159,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Outlying
+47165,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Central
+47169,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Outlying
+47187,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Central
+47189,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metro,400,"Nashville-Davidson--Murfreesboro, TN",47,Central
+22029,35020,"Natchez, MS-LA",Micro,,,22,Central
+28001,35020,"Natchez, MS-LA",Micro,,,28,Central
+22069,35060,"Natchitoches, LA",Micro,,,22,Central
+37049,35100,"New Bern, NC",Metro,404,"New Bern-Morehead City, NC",37,Central
+37103,35100,"New Bern, NC",Metro,404,"New Bern-Morehead City, NC",37,Outlying
+37137,35100,"New Bern, NC",Metro,404,"New Bern-Morehead City, NC",37,Outlying
+45071,35140,"Newberry, SC",Micro,192,"Columbia-Orangeburg-Newberry, SC",45,Central
+18065,35220,"New Castle, IN",Micro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+42073,35260,"New Castle, PA",Micro,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV",42,Central
+09009,35300,"New Haven-Milford, CT",Metro,408,"New York-Newark, NY-NJ-CT-PA",9,Central
+22051,35380,"New Orleans-Metairie, LA",Metro,406,"New Orleans-Metairie-Hammond, LA-MS",22,Central
+22071,35380,"New Orleans-Metairie, LA",Metro,406,"New Orleans-Metairie-Hammond, LA-MS",22,Central
+22075,35380,"New Orleans-Metairie, LA",Metro,406,"New Orleans-Metairie-Hammond, LA-MS",22,Central
+22087,35380,"New Orleans-Metairie, LA",Metro,406,"New Orleans-Metairie-Hammond, LA-MS",22,Central
+22089,35380,"New Orleans-Metairie, LA",Metro,406,"New Orleans-Metairie-Hammond, LA-MS",22,Central
+22093,35380,"New Orleans-Metairie, LA",Metro,406,"New Orleans-Metairie-Hammond, LA-MS",22,Outlying
+22095,35380,"New Orleans-Metairie, LA",Metro,406,"New Orleans-Metairie-Hammond, LA-MS",22,Central
+22103,35380,"New Orleans-Metairie, LA",Metro,406,"New Orleans-Metairie-Hammond, LA-MS",22,Outlying
+39157,35420,"New Philadelphia-Dover, OH",Micro,184,"Cleveland-Akron-Canton, OH",39,Central
+41041,35440,"Newport, OR",Micro,,,41,Central
+47029,35460,"Newport, TN",Micro,315,"Knoxville-Morristown-Sevierville, TN",47,Central
+27015,35580,"New Ulm, MN",Micro,359,"Mankato-New Ulm, MN",27,Central
+36059,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+36103,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+34013,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+34019,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+34027,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+34037,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+34039,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+42103,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",42,Outlying
+34023,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+34025,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+34029,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+34035,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+34003,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+34017,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+34031,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+36005,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+36047,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+36061,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+36079,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+36081,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+36085,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+36087,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+36119,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+26021,35660,"Niles, MI",Metro,515,"South Bend-Elkhart-Mishawaka, IN-MI",26,Central
+04023,35700,"Nogales, AZ",Micro,536,"Tucson-Nogales, AZ",4,Central
+31119,35740,"Norfolk, NE",Micro,,,31,Central
+31139,35740,"Norfolk, NE",Micro,,,31,Outlying
+31167,35740,"Norfolk, NE",Micro,,,31,Outlying
+31111,35820,"North Platte, NE",Micro,,,31,Central
+31113,35820,"North Platte, NE",Micro,,,31,Outlying
+31117,35820,"North Platte, NE",Micro,,,31,Outlying
+12081,35840,"North Port-Sarasota-Bradenton, FL",Metro,412,"North Port-Sarasota, FL",12,Central
+12115,35840,"North Port-Sarasota-Bradenton, FL",Metro,412,"North Port-Sarasota, FL",12,Central
+18079,35860,"North Vernon, IN",Micro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+37193,35900,"North Wilkesboro, NC",Micro,,,37,Central
+39077,35940,"Norwalk, OH",Micro,184,"Cleveland-Akron-Canton, OH",39,Central
+09011,35980,"Norwich-New London, CT",Metro,278,"Hartford-East Hartford, CT",9,Central
+53029,36020,"Oak Harbor, WA",Micro,500,"Seattle-Tacoma, WA",53,Central
+12083,36100,"Ocala, FL",Metro,,,12,Central
+34009,36140,"Ocean City, NJ",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34,Central
+48135,36220,"Odessa, TX",Metro,372,"Midland-Odessa, TX",48,Central
+49003,36260,"Ogden-Clearfield, UT",Metro,482,"Salt Lake City-Provo-Orem, UT",49,Central
+49011,36260,"Ogden-Clearfield, UT",Metro,482,"Salt Lake City-Provo-Orem, UT",49,Central
+49029,36260,"Ogden-Clearfield, UT",Metro,482,"Salt Lake City-Provo-Orem, UT",49,Outlying
+49057,36260,"Ogden-Clearfield, UT",Metro,482,"Salt Lake City-Provo-Orem, UT",49,Central
+36089,36300,"Ogdensburg-Massena, NY",Micro,,,36,Central
+42121,36340,"Oil City, PA",Micro,,,42,Central
+12093,36380,"Okeechobee, FL",Micro,,,12,Central
+40017,36420,"Oklahoma City, OK",Metro,416,"Oklahoma City-Shawnee, OK",40,Central
+40027,36420,"Oklahoma City, OK",Metro,416,"Oklahoma City-Shawnee, OK",40,Central
+40051,36420,"Oklahoma City, OK",Metro,416,"Oklahoma City-Shawnee, OK",40,Outlying
+40081,36420,"Oklahoma City, OK",Metro,416,"Oklahoma City-Shawnee, OK",40,Outlying
+40083,36420,"Oklahoma City, OK",Metro,416,"Oklahoma City-Shawnee, OK",40,Central
+40087,36420,"Oklahoma City, OK",Metro,416,"Oklahoma City-Shawnee, OK",40,Outlying
+40109,36420,"Oklahoma City, OK",Metro,416,"Oklahoma City-Shawnee, OK",40,Central
+36009,36460,"Olean, NY",Micro,160,"Buffalo-Cheektowaga-Olean, NY",36,Central
+53067,36500,"Olympia-Lacey-Tumwater, WA",Metro,500,"Seattle-Tacoma, WA",53,Central
+19085,36540,"Omaha-Council Bluffs, NE-IA",Metro,420,"Omaha-Council Bluffs-Fremont, NE-IA",19,Outlying
+19129,36540,"Omaha-Council Bluffs, NE-IA",Metro,420,"Omaha-Council Bluffs-Fremont, NE-IA",19,Outlying
+19155,36540,"Omaha-Council Bluffs, NE-IA",Metro,420,"Omaha-Council Bluffs-Fremont, NE-IA",19,Central
+31025,36540,"Omaha-Council Bluffs, NE-IA",Metro,420,"Omaha-Council Bluffs-Fremont, NE-IA",31,Outlying
+31055,36540,"Omaha-Council Bluffs, NE-IA",Metro,420,"Omaha-Council Bluffs-Fremont, NE-IA",31,Central
+31153,36540,"Omaha-Council Bluffs, NE-IA",Metro,420,"Omaha-Council Bluffs-Fremont, NE-IA",31,Central
+31155,36540,"Omaha-Council Bluffs, NE-IA",Metro,420,"Omaha-Council Bluffs-Fremont, NE-IA",31,Outlying
+31177,36540,"Omaha-Council Bluffs, NE-IA",Metro,420,"Omaha-Council Bluffs-Fremont, NE-IA",31,Outlying
+36077,36580,"Oneonta, NY",Micro,,,36,Central
+16075,36620,"Ontario, OR-ID",Micro,147,"Boise City-Mountain Home-Ontario, ID-OR",16,Central
+41045,36620,"Ontario, OR-ID",Micro,147,"Boise City-Mountain Home-Ontario, ID-OR",41,Central
+22097,36660,"Opelousas, LA",Micro,318,"Lafayette-Opelousas-Morgan City, LA",22,Central
+45075,36700,"Orangeburg, SC",Micro,192,"Columbia-Orangeburg-Newberry, SC",45,Central
+12069,36740,"Orlando-Kissimmee-Sanford, FL",Metro,422,"Orlando-Lakeland-Deltona, FL",12,Outlying
+12095,36740,"Orlando-Kissimmee-Sanford, FL",Metro,422,"Orlando-Lakeland-Deltona, FL",12,Central
+12097,36740,"Orlando-Kissimmee-Sanford, FL",Metro,422,"Orlando-Lakeland-Deltona, FL",12,Outlying
+12117,36740,"Orlando-Kissimmee-Sanford, FL",Metro,422,"Orlando-Lakeland-Deltona, FL",12,Central
+55139,36780,"Oshkosh-Neenah, WI",Metro,118,"Appleton-Oshkosh-Neenah, WI",55,Central
+19123,36820,"Oskaloosa, IA",Micro,218,"Des Moines-Ames-West Des Moines, IA",19,Central
+53001,36830,"Othello, WA",Micro,393,"Moses Lake-Othello, WA",53,Central
+17011,36837,"Ottawa, IL",Micro,176,"Chicago-Naperville, IL-IN-WI",17,Central
+17099,36837,"Ottawa, IL",Micro,176,"Chicago-Naperville, IL-IN-WI",17,Central
+17155,36837,"Ottawa, IL",Micro,176,"Chicago-Naperville, IL-IN-WI",17,Outlying
+20059,36840,"Ottawa, KS",Micro,312,"Kansas City-Overland Park-Kansas City, MO-KS",20,Central
+19179,36900,"Ottumwa, IA",Micro,,,19,Central
+27147,36940,"Owatonna, MN",Micro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+21059,36980,"Owensboro, KY",Metro,,,21,Central
+21091,36980,"Owensboro, KY",Metro,,,21,Outlying
+21149,36980,"Owensboro, KY",Metro,,,21,Outlying
+28071,37060,"Oxford, MS",Micro,,,28,Central
+06111,37100,"Oxnard-Thousand Oaks-Ventura, CA",Metro,348,"Los Angeles-Long Beach, CA",6,Central
+01045,37120,"Ozark, AL",Micro,222,"Dothan-Ozark, AL",1,Central
+17127,37140,"Paducah, KY-IL",Micro,424,"Paducah-Mayfield, KY-IL",17,Outlying
+21007,37140,"Paducah, KY-IL",Micro,424,"Paducah-Mayfield, KY-IL",21,Outlying
+21139,37140,"Paducah, KY-IL",Micro,424,"Paducah-Mayfield, KY-IL",21,Outlying
+21145,37140,"Paducah, KY-IL",Micro,424,"Paducah-Mayfield, KY-IL",21,Central
+32023,37220,"Pahrump, NV",Micro,332,"Las Vegas-Henderson, NV",32,Central
+12107,37260,"Palatka, FL",Micro,300,"Jacksonville-St. Marys-Palatka, FL-GA",12,Central
+48001,37300,"Palestine, TX",Micro,,,48,Central
+12009,37340,"Palm Bay-Melbourne-Titusville, FL",Metro,,,12,Central
+48179,37420,"Pampa, TX",Micro,108,"Amarillo-Pampa-Borger, TX",48,Central
+48393,37420,"Pampa, TX",Micro,108,"Amarillo-Pampa-Borger, TX",48,Outlying
+12005,37460,"Panama City, FL",Metro,,,12,Central
+05055,37500,"Paragould, AR",Micro,308,"Jonesboro-Paragould, AR",5,Central
+47079,37540,"Paris, TN",Micro,,,47,Central
+48277,37580,"Paris, TX",Micro,,,48,Central
+54105,37620,"Parkersburg-Vienna, WV",Metro,425,"Parkersburg-Marietta-Vienna, WV-OH",54,Outlying
+54107,37620,"Parkersburg-Vienna, WV",Metro,425,"Parkersburg-Marietta-Vienna, WV-OH",54,Central
+20099,37660,"Parsons, KS",Micro,,,20,Central
+04007,37740,"Payson, AZ",Micro,429,"Phoenix-Mesa, AZ",4,Central
+48163,37770,"Pearsall, TX",Micro,484,"San Antonio-New Braunfels-Pearsall, TX",48,Central
+48301,37780,"Pecos, TX",Micro,,,48,Outlying
+48389,37780,"Pecos, TX",Micro,,,48,Central
+19125,37800,"Pella, IA",Micro,218,"Des Moines-Ames-West Des Moines, IA",19,Central
+12033,37860,"Pensacola-Ferry Pass-Brent, FL",Metro,426,"Pensacola-Ferry Pass, FL-AL",12,Central
+12113,37860,"Pensacola-Ferry Pass-Brent, FL",Metro,426,"Pensacola-Ferry Pass, FL-AL",12,Central
+17057,37900,"Peoria, IL",Metro,,,17,Outlying
+17123,37900,"Peoria, IL",Metro,,,17,Outlying
+17143,37900,"Peoria, IL",Metro,,,17,Central
+17175,37900,"Peoria, IL",Metro,,,17,Outlying
+17179,37900,"Peoria, IL",Metro,,,17,Central
+17203,37900,"Peoria, IL",Metro,,,17,Central
+18103,37940,"Peru, IN",Micro,316,"Kokomo-Peru, IN",18,Central
+34005,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34,Central
+34007,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34,Central
+34015,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34,Central
+42017,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",42,Central
+42029,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",42,Central
+42091,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",42,Central
+42045,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",42,Central
+42101,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",42,Central
+10003,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",10,Central
+24015,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",24,Central
+34033,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34,Central
+04013,38060,"Phoenix-Mesa-Chandler, AZ",Metro,429,"Phoenix-Mesa, AZ",4,Central
+04021,38060,"Phoenix-Mesa-Chandler, AZ",Metro,429,"Phoenix-Mesa, AZ",4,Central
+28109,38100,"Picayune, MS",Micro,406,"New Orleans-Metairie-Hammond, LA-MS",28,Central
+46065,38180,"Pierre, SD",Micro,,,46,Central
+46117,38180,"Pierre, SD",Micro,,,46,Central
+05025,38220,"Pine Bluff, AR",Metro,340,"Little Rock-North Little Rock, AR",5,Outlying
+05069,38220,"Pine Bluff, AR",Metro,340,"Little Rock-North Little Rock, AR",5,Central
+05079,38220,"Pine Bluff, AR",Metro,340,"Little Rock-North Little Rock, AR",5,Outlying
+37125,38240,"Pinehurst-Southern Pines, NC",Micro,246,"Fayetteville-Sanford-Lumberton, NC",37,Central
+20037,38260,"Pittsburg, KS",Micro,,,20,Central
+42003,38300,"Pittsburgh, PA",Metro,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV",42,Central
+42005,38300,"Pittsburgh, PA",Metro,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV",42,Outlying
+42007,38300,"Pittsburgh, PA",Metro,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV",42,Central
+42019,38300,"Pittsburgh, PA",Metro,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV",42,Central
+42051,38300,"Pittsburgh, PA",Metro,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV",42,Outlying
+42125,38300,"Pittsburgh, PA",Metro,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV",42,Central
+42129,38300,"Pittsburgh, PA",Metro,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV",42,Central
+25003,38340,"Pittsfield, MA",Metro,,,25,Central
+48189,38380,"Plainview, TX",Micro,352,"Lubbock-Plainview-Levelland, TX",48,Central
+55043,38420,"Platteville, WI",Micro,,,55,Central
+36019,38460,"Plattsburgh, NY",Micro,,,36,Central
+18099,38500,"Plymouth, IN",Micro,515,"South Bend-Elkhart-Mishawaka, IN-MI",18,Central
+16005,38540,"Pocatello, ID",Metro,,,16,Central
+16077,38540,"Pocatello, ID",Metro,,,16,Outlying
+39053,38580,"Point Pleasant, WV-OH",Micro,170,"Charleston-Huntington-Ashland, WV-OH-KY",39,Central
+54053,38580,"Point Pleasant, WV-OH",Micro,170,"Charleston-Huntington-Ashland, WV-OH-KY",54,Central
+40071,38620,"Ponca City, OK",Micro,,,40,Central
+72001,38660,"Ponce, PR",Metro,434,"Ponce-Yauco-Coamo, PR",72,Outlying
+72075,38660,"Ponce, PR",Metro,434,"Ponce-Yauco-Coamo, PR",72,Outlying
+72113,38660,"Ponce, PR",Metro,434,"Ponce-Yauco-Coamo, PR",72,Central
+72149,38660,"Ponce, PR",Metro,434,"Ponce-Yauco-Coamo, PR",72,Outlying
+17105,38700,"Pontiac, IL",Micro,145,"Bloomington-Pontiac, IL",17,Central
+29023,38740,"Poplar Bluff, MO",Micro,,,29,Central
+29181,38740,"Poplar Bluff, MO",Micro,,,29,Outlying
+35041,38780,"Portales, NM",Micro,188,"Clovis-Portales, NM",35,Central
+53009,38820,"Port Angeles, WA",Micro,,,53,Central
+23005,38860,"Portland-South Portland, ME",Metro,438,"Portland-Lewiston-South Portland, ME",23,Central
+23023,38860,"Portland-South Portland, ME",Metro,438,"Portland-Lewiston-South Portland, ME",23,Outlying
+23031,38860,"Portland-South Portland, ME",Metro,438,"Portland-Lewiston-South Portland, ME",23,Central
+41005,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metro,440,"Portland-Vancouver-Salem, OR-WA",41,Central
+41009,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metro,440,"Portland-Vancouver-Salem, OR-WA",41,Outlying
+41051,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metro,440,"Portland-Vancouver-Salem, OR-WA",41,Central
+41067,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metro,440,"Portland-Vancouver-Salem, OR-WA",41,Central
+41071,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metro,440,"Portland-Vancouver-Salem, OR-WA",41,Outlying
+53011,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metro,440,"Portland-Vancouver-Salem, OR-WA",53,Central
+53059,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metro,440,"Portland-Vancouver-Salem, OR-WA",53,Outlying
+48057,38920,"Port Lavaca, TX",Micro,544,"Victoria-Port Lavaca, TX",48,Central
+12085,38940,"Port St. Lucie, FL",Metro,370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12,Central
+12111,38940,"Port St. Lucie, FL",Metro,370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12,Central
+39145,39020,"Portsmouth, OH",Micro,170,"Charleston-Huntington-Ashland, WV-OH-KY",39,Central
+42107,39060,"Pottsville, PA",Micro,,,42,Central
+36027,39100,"Poughkeepsie-Newburgh-Middletown, NY",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+36071,39100,"Poughkeepsie-Newburgh-Middletown, NY",Metro,408,"New York-Newark, NY-NJ-CT-PA",36,Central
+04025,39150,"Prescott Valley-Prescott, AZ",Metro,,,4,Central
+49007,39220,"Price, UT",Micro,,,49,Central
+41013,39260,"Prineville, OR",Micro,140,"Bend-Prineville, OR",41,Central
+25005,39300,"Providence-Warwick, RI-MA",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",25,Central
+44001,39300,"Providence-Warwick, RI-MA",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",44,Central
+44003,39300,"Providence-Warwick, RI-MA",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",44,Central
+44005,39300,"Providence-Warwick, RI-MA",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",44,Central
+44007,39300,"Providence-Warwick, RI-MA",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",44,Central
+44009,39300,"Providence-Warwick, RI-MA",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",44,Central
+49023,39340,"Provo-Orem, UT",Metro,482,"Salt Lake City-Provo-Orem, UT",49,Outlying
+49049,39340,"Provo-Orem, UT",Metro,482,"Salt Lake City-Provo-Orem, UT",49,Central
+08101,39380,"Pueblo, CO",Metro,444,"Pueblo-Cañon City, CO",8,Central
+53075,39420,"Pullman, WA",Micro,446,"Pullman-Moscow, WA-ID",53,Central
+12015,39460,"Punta Gorda, FL",Metro,412,"North Port-Sarasota, FL",12,Central
+17001,39500,"Quincy, IL-MO",Micro,448,"Quincy-Hannibal, IL-MO",17,Central
+29111,39500,"Quincy, IL-MO",Micro,448,"Quincy-Hannibal, IL-MO",29,Outlying
+55101,39540,"Racine, WI",Metro,376,"Milwaukee-Racine-Waukesha, WI",55,Central
+37069,39580,"Raleigh-Cary, NC",Metro,450,"Raleigh-Durham-Cary, NC",37,Outlying
+37101,39580,"Raleigh-Cary, NC",Metro,450,"Raleigh-Durham-Cary, NC",37,Central
+37183,39580,"Raleigh-Cary, NC",Metro,450,"Raleigh-Durham-Cary, NC",37,Central
+46093,39660,"Rapid City, SD",Metro,452,"Rapid City-Spearfish, SD",46,Central
+46103,39660,"Rapid City, SD",Metro,452,"Rapid City-Spearfish, SD",46,Central
+48489,39700,"Raymondville, TX",Micro,154,"Brownsville-Harlingen-Raymondville, TX",48,Central
+42011,39740,"Reading, PA",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",42,Central
+06103,39780,"Red Bluff, CA",Micro,454,"Redding-Red Bluff, CA",6,Central
+06089,39820,"Redding, CA",Metro,454,"Redding-Red Bluff, CA",6,Central
+27049,39860,"Red Wing, MN",Micro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+32029,39900,"Reno, NV",Metro,456,"Reno-Carson City-Fernley, NV",32,Outlying
+32031,39900,"Reno, NV",Metro,456,"Reno-Carson City-Fernley, NV",32,Central
+16043,39940,"Rexburg, ID",Micro,292,"Idaho Falls-Rexburg-Blackfoot, ID",16,Outlying
+16065,39940,"Rexburg, ID",Micro,292,"Idaho Falls-Rexburg-Blackfoot, ID",16,Central
+18177,39980,"Richmond, IN",Micro,458,"Richmond-Connersville, IN",18,Central
+51007,40060,"Richmond, VA",Metro,,,51,Outlying
+51036,40060,"Richmond, VA",Metro,,,51,Outlying
+51041,40060,"Richmond, VA",Metro,,,51,Central
+51053,40060,"Richmond, VA",Metro,,,51,Central
+51075,40060,"Richmond, VA",Metro,,,51,Outlying
+51085,40060,"Richmond, VA",Metro,,,51,Central
+51087,40060,"Richmond, VA",Metro,,,51,Central
+51097,40060,"Richmond, VA",Metro,,,51,Outlying
+51101,40060,"Richmond, VA",Metro,,,51,Outlying
+51127,40060,"Richmond, VA",Metro,,,51,Outlying
+51145,40060,"Richmond, VA",Metro,,,51,Outlying
+51149,40060,"Richmond, VA",Metro,,,51,Central
+51183,40060,"Richmond, VA",Metro,,,51,Outlying
+51570,40060,"Richmond, VA",Metro,,,51,Central
+51670,40060,"Richmond, VA",Metro,,,51,Central
+51730,40060,"Richmond, VA",Metro,,,51,Central
+51760,40060,"Richmond, VA",Metro,,,51,Central
+21065,40080,"Richmond-Berea, KY",Micro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Outlying
+21151,40080,"Richmond-Berea, KY",Micro,336,"Lexington-Fayette--Richmond--Frankfort, KY",21,Central
+48427,40100,"Rio Grande City-Roma, TX",Micro,365,"McAllen-Edinburg, TX",48,Central
+06065,40140,"Riverside-San Bernardino-Ontario, CA",Metro,348,"Los Angeles-Long Beach, CA",6,Central
+06071,40140,"Riverside-San Bernardino-Ontario, CA",Metro,348,"Los Angeles-Long Beach, CA",6,Central
+56013,40180,"Riverton, WY",Micro,,,56,Central
+51023,40220,"Roanoke, VA",Metro,,,51,Central
+51045,40220,"Roanoke, VA",Metro,,,51,Outlying
+51067,40220,"Roanoke, VA",Metro,,,51,Outlying
+51161,40220,"Roanoke, VA",Metro,,,51,Central
+51770,40220,"Roanoke, VA",Metro,,,51,Central
+51775,40220,"Roanoke, VA",Metro,,,51,Central
+37083,40260,"Roanoke Rapids, NC",Micro,468,"Rocky Mount-Wilson-Roanoke Rapids, NC",37,Central
+37131,40260,"Roanoke Rapids, NC",Micro,468,"Rocky Mount-Wilson-Roanoke Rapids, NC",37,Outlying
+17141,40300,"Rochelle, IL",Micro,466,"Rockford-Freeport-Rochelle, IL",17,Central
+27039,40340,"Rochester, MN",Metro,462,"Rochester-Austin, MN",27,Outlying
+27045,40340,"Rochester, MN",Metro,462,"Rochester-Austin, MN",27,Outlying
+27109,40340,"Rochester, MN",Metro,462,"Rochester-Austin, MN",27,Central
+27157,40340,"Rochester, MN",Metro,462,"Rochester-Austin, MN",27,Outlying
+36051,40380,"Rochester, NY",Metro,464,"Rochester-Batavia-Seneca Falls, NY",36,Outlying
+36055,40380,"Rochester, NY",Metro,464,"Rochester-Batavia-Seneca Falls, NY",36,Central
+36069,40380,"Rochester, NY",Metro,464,"Rochester-Batavia-Seneca Falls, NY",36,Central
+36073,40380,"Rochester, NY",Metro,464,"Rochester-Batavia-Seneca Falls, NY",36,Outlying
+36117,40380,"Rochester, NY",Metro,464,"Rochester-Batavia-Seneca Falls, NY",36,Outlying
+36123,40380,"Rochester, NY",Metro,464,"Rochester-Batavia-Seneca Falls, NY",36,Outlying
+17007,40420,"Rockford, IL",Metro,466,"Rockford-Freeport-Rochelle, IL",17,Central
+17201,40420,"Rockford, IL",Metro,466,"Rockford-Freeport-Rochelle, IL",17,Central
+37153,40460,"Rockingham, NC",Micro,,,37,Central
+48007,40530,"Rockport, TX",Micro,204,"Corpus Christi-Kingsville-Alice, TX",48,Central
+56037,40540,"Rock Springs, WY",Micro,,,56,Central
+37065,40580,"Rocky Mount, NC",Metro,468,"Rocky Mount-Wilson-Roanoke Rapids, NC",37,Central
+37127,40580,"Rocky Mount, NC",Metro,468,"Rocky Mount-Wilson-Roanoke Rapids, NC",37,Central
+29161,40620,"Rolla, MO",Micro,,,29,Central
+13115,40660,"Rome, GA",Metro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+41019,40700,"Roseburg, OR",Micro,,,41,Central
+35005,40740,"Roswell, NM",Micro,,,35,Central
+35027,40760,"Ruidoso, NM",Micro,,,35,Central
+05115,40780,"Russellville, AR",Micro,,,5,Central
+05149,40780,"Russellville, AR",Micro,,,5,Outlying
+22061,40820,"Ruston, LA",Micro,384,"Monroe-Ruston, LA",22,Central
+50021,40860,"Rutland, VT",Micro,,,50,Central
+06017,40900,"Sacramento-Roseville-Folsom, CA",Metro,472,"Sacramento-Roseville, CA",6,Central
+06061,40900,"Sacramento-Roseville-Folsom, CA",Metro,472,"Sacramento-Roseville, CA",6,Central
+06067,40900,"Sacramento-Roseville-Folsom, CA",Metro,472,"Sacramento-Roseville, CA",6,Central
+06113,40900,"Sacramento-Roseville-Folsom, CA",Metro,472,"Sacramento-Roseville, CA",6,Outlying
+04009,40940,"Safford, AZ",Micro,,,4,Central
+26145,40980,"Saginaw, MI",Metro,474,"Saginaw-Midland-Bay City, MI",26,Central
+27009,41060,"St. Cloud, MN",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+27145,41060,"St. Cloud, MN",Metro,378,"Minneapolis-St. Paul, MN-WI",27,Central
+49053,41100,"St. George, UT",Metro,,,49,Central
+20043,41140,"St. Joseph, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",20,Outlying
+29003,41140,"St. Joseph, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Outlying
+29021,41140,"St. Joseph, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Central
+29063,41140,"St. Joseph, MO-KS",Metro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Outlying
+17005,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",17,Outlying
+17013,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",17,Outlying
+17027,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",17,Outlying
+17083,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",17,Outlying
+17117,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",17,Outlying
+17119,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",17,Central
+17133,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",17,Central
+17163,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",17,Central
+29071,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",29,Outlying
+29099,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",29,Central
+29113,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",29,Outlying
+29183,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",29,Central
+29189,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",29,Central
+29219,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",29,Outlying
+29510,41180,"St. Louis, MO-IL",Metro,476,"St. Louis-St. Charles-Farmington, MO-IL",29,Central
+13039,41220,"St. Marys, GA",Micro,300,"Jacksonville-St. Marys-Palatka, FL-GA",13,Central
+42047,41260,"St. Marys, PA",Micro,,,42,Central
+39029,41400,"Salem, OH",Micro,566,"Youngstown-Warren, OH-PA",39,Central
+41047,41420,"Salem, OR",Metro,440,"Portland-Vancouver-Salem, OR-WA",41,Central
+41053,41420,"Salem, OR",Metro,440,"Portland-Vancouver-Salem, OR-WA",41,Central
+20143,41460,"Salina, KS",Micro,,,20,Outlying
+20169,41460,"Salina, KS",Micro,,,20,Central
+06053,41500,"Salinas, CA",Metro,,,6,Central
+10005,41540,"Salisbury, MD-DE",Metro,480,"Salisbury-Cambridge, MD-DE",10,Central
+24039,41540,"Salisbury, MD-DE",Metro,480,"Salisbury-Cambridge, MD-DE",24,Outlying
+24045,41540,"Salisbury, MD-DE",Metro,480,"Salisbury-Cambridge, MD-DE",24,Central
+24047,41540,"Salisbury, MD-DE",Metro,480,"Salisbury-Cambridge, MD-DE",24,Outlying
+49035,41620,"Salt Lake City, UT",Metro,482,"Salt Lake City-Provo-Orem, UT",49,Central
+49045,41620,"Salt Lake City, UT",Metro,482,"Salt Lake City-Provo-Orem, UT",49,Outlying
+48235,41660,"San Angelo, TX",Metro,,,48,Outlying
+48431,41660,"San Angelo, TX",Metro,,,48,Outlying
+48451,41660,"San Angelo, TX",Metro,,,48,Central
+48013,41700,"San Antonio-New Braunfels, TX",Metro,484,"San Antonio-New Braunfels-Pearsall, TX",48,Outlying
+48019,41700,"San Antonio-New Braunfels, TX",Metro,484,"San Antonio-New Braunfels-Pearsall, TX",48,Outlying
+48029,41700,"San Antonio-New Braunfels, TX",Metro,484,"San Antonio-New Braunfels-Pearsall, TX",48,Central
+48091,41700,"San Antonio-New Braunfels, TX",Metro,484,"San Antonio-New Braunfels-Pearsall, TX",48,Central
+48187,41700,"San Antonio-New Braunfels, TX",Metro,484,"San Antonio-New Braunfels-Pearsall, TX",48,Central
+48259,41700,"San Antonio-New Braunfels, TX",Metro,484,"San Antonio-New Braunfels-Pearsall, TX",48,Outlying
+48325,41700,"San Antonio-New Braunfels, TX",Metro,484,"San Antonio-New Braunfels-Pearsall, TX",48,Outlying
+48493,41700,"San Antonio-New Braunfels, TX",Metro,484,"San Antonio-New Braunfels-Pearsall, TX",48,Outlying
+06073,41740,"San Diego-Chula Vista-Carlsbad, CA",Metro,,,6,Central
+16017,41760,"Sandpoint, ID",Micro,,,16,Central
+39043,41780,"Sandusky, OH",Micro,184,"Cleveland-Akron-Canton, OH",39,Central
+37105,41820,"Sanford, NC",Micro,246,"Fayetteville-Sanford-Lumberton, NC",37,Central
+06001,41860,"San Francisco-Oakland-Berkeley, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Central
+06013,41860,"San Francisco-Oakland-Berkeley, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Outlying
+06075,41860,"San Francisco-Oakland-Berkeley, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Central
+06081,41860,"San Francisco-Oakland-Berkeley, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Central
+06041,41860,"San Francisco-Oakland-Berkeley, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Central
+72023,41900,"San Germán, PR",Metro,364,"Mayagüez-San Germán, PR",72,Central
+72079,41900,"San Germán, PR",Metro,364,"Mayagüez-San Germán, PR",72,Central
+72121,41900,"San Germán, PR",Metro,364,"Mayagüez-San Germán, PR",72,Central
+72125,41900,"San Germán, PR",Metro,364,"Mayagüez-San Germán, PR",72,Central
+06069,41940,"San Jose-Sunnyvale-Santa Clara, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Outlying
+06085,41940,"San Jose-Sunnyvale-Santa Clara, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Central
+72007,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72009,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72017,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Outlying
+72019,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72021,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72025,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72029,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72031,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72033,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72035,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72037,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Outlying
+72039,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72041,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72045,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72047,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72051,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72053,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Outlying
+72054,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Outlying
+72061,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72063,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72069,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72077,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72085,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72087,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72089,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Outlying
+72091,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72095,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Outlying
+72101,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72103,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Outlying
+72105,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72107,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72119,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72127,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72129,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72135,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72137,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72139,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72143,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72145,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+72151,41980,"San Juan-Bayamón-Caguas, PR",Metro,490,"San Juan-Bayamón, PR",72,Central
+06079,42020,"San Luis Obispo-Paso Robles, CA",Metro,,,6,Central
+06087,42100,"Santa Cruz-Watsonville, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Central
+35049,42140,"Santa Fe, NM",Metro,106,"Albuquerque-Santa Fe-Las Vegas, NM",35,Central
+72133,42180,"Santa Isabel, PR",Micro,434,"Ponce-Yauco-Coamo, PR",72,Central
+06083,42200,"Santa Maria-Santa Barbara, CA",Metro,,,6,Central
+06097,42220,"Santa Rosa-Petaluma, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Central
+26033,42300,"Sault Ste. Marie, MI",Micro,,,26,Central
+13029,42340,"Savannah, GA",Metro,496,"Savannah-Hinesville-Statesboro, GA",13,Central
+13051,42340,"Savannah, GA",Metro,496,"Savannah-Hinesville-Statesboro, GA",13,Central
+13103,42340,"Savannah, GA",Metro,496,"Savannah-Hinesville-Statesboro, GA",13,Outlying
+42015,42380,"Sayre, PA",Micro,,,42,Central
+31007,42420,"Scottsbluff, NE",Micro,,,31,Outlying
+31157,42420,"Scottsbluff, NE",Micro,,,31,Central
+31165,42420,"Scottsbluff, NE",Micro,,,31,Outlying
+01071,42460,"Scottsboro, AL",Micro,497,"Scottsboro-Fort Payne, AL",1,Central
+18143,42500,"Scottsburg, IN",Micro,350,"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",18,Central
+42069,42540,"Scranton--Wilkes-Barre, PA",Metro,,,42,Central
+42079,42540,"Scranton--Wilkes-Barre, PA",Metro,,,42,Central
+42131,42540,"Scranton--Wilkes-Barre, PA",Metro,,,42,Outlying
+05145,42620,"Searcy, AR",Micro,340,"Little Rock-North Little Rock, AR",5,Central
+53033,42660,"Seattle-Tacoma-Bellevue, WA",Metro,500,"Seattle-Tacoma, WA",53,Central
+53061,42660,"Seattle-Tacoma-Bellevue, WA",Metro,500,"Seattle-Tacoma, WA",53,Central
+53053,42660,"Seattle-Tacoma-Bellevue, WA",Metro,500,"Seattle-Tacoma, WA",53,Central
+12061,42680,"Sebastian-Vero Beach, FL",Metro,370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12,Central
+12055,42700,"Sebring-Avon Park, FL",Metro,,,12,Central
+29159,42740,"Sedalia, MO",Micro,,,29,Central
+42109,42780,"Selinsgrove, PA",Micro,146,"Bloomsburg-Berwick-Sunbury, PA",42,Central
+01047,42820,"Selma, AL",Micro,388,"Montgomery-Selma-Alexander City, AL",1,Central
+45073,42860,"Seneca, SC",Micro,273,"Greenville-Spartanburg-Anderson, SC",45,Central
+36099,42900,"Seneca Falls, NY",Micro,464,"Rochester-Batavia-Seneca Falls, NY",36,Central
+47155,42940,"Sevierville, TN",Micro,315,"Knoxville-Morristown-Sevierville, TN",47,Central
+18071,42980,"Seymour, IN",Micro,294,"Indianapolis-Carmel-Muncie, IN",18,Central
+55078,43020,"Shawano, WI",Micro,267,"Green Bay-Shawano, WI",55,Outlying
+55115,43020,"Shawano, WI",Micro,267,"Green Bay-Shawano, WI",55,Central
+40125,43060,"Shawnee, OK",Micro,416,"Oklahoma City-Shawnee, OK",40,Central
+55117,43100,"Sheboygan, WI",Metro,,,55,Central
+37045,43140,"Shelby, NC",Micro,172,"Charlotte-Concord, NC-SC",37,Central
+47003,43180,"Shelbyville, TN",Micro,400,"Nashville-Davidson--Murfreesboro, TN",47,Central
+53045,43220,"Shelton, WA",Micro,500,"Seattle-Tacoma, WA",53,Central
+56033,43260,"Sheridan, WY",Micro,,,56,Central
+48181,43300,"Sherman-Denison, TX",Metro,206,"Dallas-Fort Worth, TX-OK",48,Central
+04017,43320,"Show Low, AZ",Micro,,,4,Central
+22015,43340,"Shreveport-Bossier City, LA",Metro,508,"Shreveport-Bossier City-Minden, LA",22,Central
+22017,43340,"Shreveport-Bossier City, LA",Metro,508,"Shreveport-Bossier City-Minden, LA",22,Central
+22031,43340,"Shreveport-Bossier City, LA",Metro,508,"Shreveport-Bossier City-Minden, LA",22,Outlying
+39149,43380,"Sidney, OH",Micro,212,"Dayton-Springfield-Kettering, OH",39,Central
+04003,43420,"Sierra Vista-Douglas, AZ",Metro,,,4,Central
+29201,43460,"Sikeston, MO",Micro,164,"Cape Girardeau-Sikeston, MO-IL",29,Central
+35017,43500,"Silver City, NM",Micro,,,35,Central
+19193,43580,"Sioux City, IA-NE-SD",Metro,,,19,Central
+31043,43580,"Sioux City, IA-NE-SD",Metro,,,31,Central
+31051,43580,"Sioux City, IA-NE-SD",Metro,,,31,Outlying
+46127,43580,"Sioux City, IA-NE-SD",Metro,,,46,Central
+46083,43620,"Sioux Falls, SD",Metro,,,46,Central
+46087,43620,"Sioux Falls, SD",Metro,,,46,Outlying
+46099,43620,"Sioux Falls, SD",Metro,,,46,Central
+46125,43620,"Sioux Falls, SD",Metro,,,46,Outlying
+48415,43660,"Snyder, TX",Micro,,,48,Central
+21199,43700,"Somerset, KY",Micro,,,21,Central
+42111,43740,"Somerset, PA",Micro,306,"Johnstown-Somerset, PA",42,Central
+06109,43760,"Sonora, CA",Micro,,,6,Central
+18141,43780,"South Bend-Mishawaka, IN-MI",Metro,515,"South Bend-Elkhart-Mishawaka, IN-MI",18,Central
+26027,43780,"South Bend-Mishawaka, IN-MI",Metro,515,"South Bend-Elkhart-Mishawaka, IN-MI",26,Central
+45083,43900,"Spartanburg, SC",Metro,273,"Greenville-Spartanburg-Anderson, SC",45,Central
+46081,43940,"Spearfish, SD",Micro,452,"Rapid City-Spearfish, SD",46,Central
+19041,43980,"Spencer, IA",Micro,517,"Spencer-Spirit Lake, IA",19,Central
+19059,44020,"Spirit Lake, IA",Micro,517,"Spencer-Spirit Lake, IA",19,Central
+53063,44060,"Spokane-Spokane Valley, WA",Metro,518,"Spokane-Spokane Valley-Coeur d'Alene, WA-ID",53,Central
+53065,44060,"Spokane-Spokane Valley, WA",Metro,518,"Spokane-Spokane Valley-Coeur d'Alene, WA-ID",53,Outlying
+17129,44100,"Springfield, IL",Metro,522,"Springfield-Jacksonville-Lincoln, IL",17,Outlying
+17167,44100,"Springfield, IL",Metro,522,"Springfield-Jacksonville-Lincoln, IL",17,Central
+25011,44140,"Springfield, MA",Metro,,,25,Outlying
+25013,44140,"Springfield, MA",Metro,,,25,Central
+25015,44140,"Springfield, MA",Metro,,,25,Central
+29043,44180,"Springfield, MO",Metro,,,29,Central
+29059,44180,"Springfield, MO",Metro,,,29,Outlying
+29077,44180,"Springfield, MO",Metro,,,29,Central
+29167,44180,"Springfield, MO",Metro,,,29,Outlying
+29225,44180,"Springfield, MO",Metro,,,29,Outlying
+39023,44220,"Springfield, OH",Metro,212,"Dayton-Springfield-Kettering, OH",39,Central
+28105,44260,"Starkville, MS",Micro,,,28,Central
+28155,44260,"Starkville, MS",Micro,,,28,Outlying
+42027,44300,"State College, PA",Metro,524,"State College-DuBois, PA",42,Central
+13031,44340,"Statesboro, GA",Micro,496,"Savannah-Hinesville-Statesboro, GA",13,Central
+51015,44420,"Staunton, VA",Metro,277,"Harrisonburg-Staunton, VA",51,Central
+51790,44420,"Staunton, VA",Metro,277,"Harrisonburg-Staunton, VA",51,Central
+51820,44420,"Staunton, VA",Metro,277,"Harrisonburg-Staunton, VA",51,Central
+08107,44460,"Steamboat Springs, CO",Micro,525,"Steamboat Springs-Craig, CO",8,Central
+48143,44500,"Stephenville, TX",Micro,,,48,Central
+08075,44540,"Sterling, CO",Micro,,,8,Central
+17195,44580,"Sterling, IL",Micro,221,"Dixon-Sterling, IL",17,Central
+55097,44620,"Stevens Point, WI",Micro,554,"Wausau-Stevens Point-Wisconsin Rapids, WI",55,Central
+40119,44660,"Stillwater, OK",Micro,,,40,Central
+06077,44700,"Stockton, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Central
+19021,44740,"Storm Lake, IA",Micro,,,19,Central
+26149,44780,"Sturgis, MI",Micro,310,"Kalamazoo-Battle Creek-Portage, MI",26,Central
+48223,44860,"Sulphur Springs, TX",Micro,,,48,Central
+13055,44900,"Summerville, GA",Micro,174,"Chattanooga-Cleveland-Dalton, TN-GA",13,Central
+45027,44940,"Sumter, SC",Metro,,,45,Outlying
+45085,44940,"Sumter, SC",Metro,,,45,Central
+42097,44980,"Sunbury, PA",Micro,146,"Bloomsburg-Berwick-Sunbury, PA",42,Central
+06035,45000,"Susanville, CA",Micro,,,6,Central
+48353,45020,"Sweetwater, TX",Micro,,,48,Central
+36053,45060,"Syracuse, NY",Metro,532,"Syracuse-Auburn, NY",36,Outlying
+36067,45060,"Syracuse, NY",Metro,532,"Syracuse-Auburn, NY",36,Central
+36075,45060,"Syracuse, NY",Metro,532,"Syracuse-Auburn, NY",36,Outlying
+40021,45140,"Tahlequah, OK",Micro,,,40,Central
+01121,45180,"Talladega-Sylacauga, AL",Micro,142,"Birmingham-Hoover-Talladega, AL",1,Central
+12039,45220,"Tallahassee, FL",Metro,,,12,Outlying
+12065,45220,"Tallahassee, FL",Metro,,,12,Outlying
+12073,45220,"Tallahassee, FL",Metro,,,12,Central
+12129,45220,"Tallahassee, FL",Metro,,,12,Outlying
+12053,45300,"Tampa-St. Petersburg-Clearwater, FL",Metro,,,12,Outlying
+12057,45300,"Tampa-St. Petersburg-Clearwater, FL",Metro,,,12,Central
+12101,45300,"Tampa-St. Petersburg-Clearwater, FL",Metro,,,12,Central
+12103,45300,"Tampa-St. Petersburg-Clearwater, FL",Metro,,,12,Central
+35055,45340,"Taos, NM",Micro,,,35,Central
+17021,45380,"Taylorville, IL",Micro,522,"Springfield-Jacksonville-Lincoln, IL",17,Central
+18021,45460,"Terre Haute, IN",Metro,,,18,Central
+18121,45460,"Terre Haute, IN",Metro,,,18,Outlying
+18153,45460,"Terre Haute, IN",Metro,,,18,Outlying
+18165,45460,"Terre Haute, IN",Metro,,,18,Outlying
+18167,45460,"Terre Haute, IN",Metro,,,18,Central
+05081,45500,"Texarkana, TX-AR",Metro,,,5,Outlying
+05091,45500,"Texarkana, TX-AR",Metro,,,5,Central
+48037,45500,"Texarkana, TX-AR",Metro,,,48,Central
+41065,45520,"The Dalles, OR",Micro,,,41,Central
+12119,45540,"The Villages, FL",Metro,422,"Orlando-Lakeland-Deltona, FL",12,Central
+13293,45580,"Thomaston, GA",Micro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+13275,45620,"Thomasville, GA",Micro,,,13,Central
+39147,45660,"Tiffin, OH",Micro,534,"Toledo-Findlay-Tiffin, OH",39,Central
+13277,45700,"Tifton, GA",Micro,,,13,Central
+13257,45740,"Toccoa, GA",Micro,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13,Central
+39051,45780,"Toledo, OH",Metro,534,"Toledo-Findlay-Tiffin, OH",39,Outlying
+39095,45780,"Toledo, OH",Metro,534,"Toledo-Findlay-Tiffin, OH",39,Central
+39123,45780,"Toledo, OH",Metro,534,"Toledo-Findlay-Tiffin, OH",39,Outlying
+39173,45780,"Toledo, OH",Metro,534,"Toledo-Findlay-Tiffin, OH",39,Central
+20085,45820,"Topeka, KS",Metro,,,20,Outlying
+20087,45820,"Topeka, KS",Metro,,,20,Outlying
+20139,45820,"Topeka, KS",Metro,,,20,Outlying
+20177,45820,"Topeka, KS",Metro,,,20,Central
+20197,45820,"Topeka, KS",Metro,,,20,Outlying
+09005,45860,"Torrington, CT",Micro,408,"New York-Newark, NY-NJ-CT-PA",9,Central
+26019,45900,"Traverse City, MI",Micro,,,26,Outlying
+26055,45900,"Traverse City, MI",Micro,,,26,Central
+26079,45900,"Traverse City, MI",Micro,,,26,Outlying
+26089,45900,"Traverse City, MI",Micro,,,26,Outlying
+34021,45940,"Trenton-Princeton, NJ",Metro,408,"New York-Newark, NY-NJ-CT-PA",34,Central
+01109,45980,"Troy, AL",Micro,,,1,Central
+06057,46020,"Truckee-Grass Valley, CA",Micro,472,"Sacramento-Roseville, CA",6,Central
+04019,46060,"Tucson, AZ",Metro,536,"Tucson-Nogales, AZ",4,Central
+47031,46100,"Tullahoma-Manchester, TN",Micro,,,47,Central
+47051,46100,"Tullahoma-Manchester, TN",Micro,,,47,Outlying
+47127,46100,"Tullahoma-Manchester, TN",Micro,,,47,Outlying
+40037,46140,"Tulsa, OK",Metro,538,"Tulsa-Muskogee-Bartlesville, OK",40,Central
+40111,46140,"Tulsa, OK",Metro,538,"Tulsa-Muskogee-Bartlesville, OK",40,Outlying
+40113,46140,"Tulsa, OK",Metro,538,"Tulsa-Muskogee-Bartlesville, OK",40,Central
+40117,46140,"Tulsa, OK",Metro,538,"Tulsa-Muskogee-Bartlesville, OK",40,Outlying
+40131,46140,"Tulsa, OK",Metro,538,"Tulsa-Muskogee-Bartlesville, OK",40,Outlying
+40143,46140,"Tulsa, OK",Metro,538,"Tulsa-Muskogee-Bartlesville, OK",40,Central
+40145,46140,"Tulsa, OK",Metro,538,"Tulsa-Muskogee-Bartlesville, OK",40,Central
+28057,46180,"Tupelo, MS",Micro,539,"Tupelo-Corinth, MS",28,Outlying
+28081,46180,"Tupelo, MS",Micro,539,"Tupelo-Corinth, MS",28,Central
+28115,46180,"Tupelo, MS",Micro,539,"Tupelo-Corinth, MS",28,Outlying
+28117,46180,"Tupelo, MS",Micro,539,"Tupelo-Corinth, MS",28,Outlying
+01063,46220,"Tuscaloosa, AL",Metro,,,1,Outlying
+01065,46220,"Tuscaloosa, AL",Metro,,,1,Outlying
+01107,46220,"Tuscaloosa, AL",Metro,,,1,Outlying
+01125,46220,"Tuscaloosa, AL",Metro,,,1,Central
+16053,46300,"Twin Falls, ID",Metro,,,16,Outlying
+16083,46300,"Twin Falls, ID",Metro,,,16,Central
+48423,46340,"Tyler, TX",Metro,540,"Tyler-Jacksonville, TX",48,Central
+06045,46380,"Ukiah, CA",Micro,,,6,Central
+45087,46420,"Union, SC",Micro,273,"Greenville-Spartanburg-Anderson, SC",45,Central
+47131,46460,"Union City, TN",Micro,362,"Martin-Union City, TN",47,Central
+39021,46500,"Urbana, OH",Micro,212,"Dayton-Springfield-Kettering, OH",39,Central
+15003,46520,"Urban Honolulu, HI",Metro,,,15,Central
+36043,46540,"Utica-Rome, NY",Metro,,,36,Outlying
+36065,46540,"Utica-Rome, NY",Metro,,,36,Central
+48463,46620,"Uvalde, TX",Micro,,,48,Central
+13027,46660,"Valdosta, GA",Metro,,,13,Outlying
+13101,46660,"Valdosta, GA",Metro,,,13,Outlying
+13173,46660,"Valdosta, GA",Metro,,,13,Outlying
+13185,46660,"Valdosta, GA",Metro,,,13,Central
+06095,46700,"Vallejo, CA",Metro,488,"San Jose-San Francisco-Oakland, CA",6,Central
+39161,46780,"Van Wert, OH",Micro,338,"Lima-Van Wert-Celina, OH",39,Central
+46027,46820,"Vermillion, SD",Micro,,,46,Central
+49047,46860,"Vernal, UT",Micro,,,49,Central
+48487,46900,"Vernon, TX",Micro,,,48,Central
+28149,46980,"Vicksburg, MS",Micro,298,"Jackson-Vicksburg-Brookhaven, MS",28,Central
+48175,47020,"Victoria, TX",Metro,544,"Victoria-Port Lavaca, TX",48,Outlying
+48469,47020,"Victoria, TX",Metro,544,"Victoria-Port Lavaca, TX",48,Central
+13209,47080,"Vidalia, GA",Micro,,,13,Outlying
+13279,47080,"Vidalia, GA",Micro,,,13,Central
+18083,47180,"Vincennes, IN",Micro,,,18,Central
+34011,47220,"Vineland-Bridgeton, NJ",Metro,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34,Central
+25007,47240,"Vineyard Haven, MA",Micro,,,25,Central
+37029,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",37,Outlying
+37053,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",37,Outlying
+37073,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",37,Outlying
+51073,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Central
+51093,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Outlying
+51095,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Outlying
+51115,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Outlying
+51175,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Outlying
+51199,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Central
+51550,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Central
+51620,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Outlying
+51650,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Central
+51700,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Central
+51710,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Central
+51735,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Central
+51740,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Central
+51800,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Central
+51810,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Central
+51830,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metro,545,"Virginia Beach-Norfolk, VA-NC",51,Outlying
+06107,47300,"Visalia, CA",Metro,,,6,Central
+18169,47340,"Wabash, IN",Micro,,,18,Central
+48145,47380,"Waco, TX",Metro,,,48,Outlying
+48309,47380,"Waco, TX",Metro,,,48,Central
+27167,47420,"Wahpeton, ND-MN",Micro,244,"Fargo-Wahpeton, ND-MN",27,Outlying
+38077,47420,"Wahpeton, ND-MN",Micro,244,"Fargo-Wahpeton, ND-MN",38,Central
+53071,47460,"Walla Walla, WA",Metro,313,"Kennewick-Richland-Walla Walla, WA",53,Central
+39011,47540,"Wapakoneta, OH",Micro,338,"Lima-Van Wert-Celina, OH",39,Central
+13153,47580,"Warner Robins, GA",Metro,356,"Macon-Bibb County--Warner Robins, GA",13,Central
+13225,47580,"Warner Robins, GA",Metro,356,"Macon-Bibb County--Warner Robins, GA",13,Outlying
+42123,47620,"Warren, PA",Micro,,,42,Central
+29101,47660,"Warrensburg, MO",Micro,312,"Kansas City-Overland Park-Kansas City, MO-KS",29,Central
+18085,47700,"Warsaw, IN",Micro,515,"South Bend-Elkhart-Mishawaka, IN-MI",18,Central
+18027,47780,"Washington, IN",Micro,,,18,Central
+37013,47820,"Washington, NC",Micro,272,"Greenville-Kinston-Washington, NC",37,Central
+24021,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Outlying
+24031,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Central
+11001,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",11,Central
+24009,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Outlying
+24017,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Outlying
+24033,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24,Central
+51013,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+51043,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Outlying
+51047,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Outlying
+51059,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+51061,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+51107,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+51113,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Outlying
+51153,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+51157,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Outlying
+51177,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Outlying
+51179,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+51187,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Outlying
+51510,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+51600,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+51610,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+51630,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Outlying
+51683,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+51685,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+54037,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",54,Outlying
+39047,47920,"Washington Court House, OH",Micro,198,"Columbus-Marion-Zanesville, OH",39,Central
+19013,47940,"Waterloo-Cedar Falls, IA",Metro,,,19,Central
+19017,47940,"Waterloo-Cedar Falls, IA",Metro,,,19,Outlying
+19075,47940,"Waterloo-Cedar Falls, IA",Metro,,,19,Outlying
+46029,47980,"Watertown, SD",Micro,,,46,Central
+46057,47980,"Watertown, SD",Micro,,,46,Outlying
+55055,48020,"Watertown-Fort Atkinson, WI",Micro,376,"Milwaukee-Racine-Waukesha, WI",55,Central
+36045,48060,"Watertown-Fort Drum, NY",Metro,,,36,Central
+12049,48100,"Wauchula, FL",Micro,422,"Orlando-Lakeland-Deltona, FL",12,Central
+55069,48140,"Wausau-Weston, WI",Metro,554,"Wausau-Stevens Point-Wisconsin Rapids, WI",55,Outlying
+55073,48140,"Wausau-Weston, WI",Metro,554,"Wausau-Stevens Point-Wisconsin Rapids, WI",55,Central
+13229,48180,"Waycross, GA",Micro,,,13,Outlying
+13299,48180,"Waycross, GA",Micro,,,13,Central
+40039,48220,"Weatherford, OK",Micro,,,40,Central
+39081,48260,"Weirton-Steubenville, WV-OH",Metro,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV",39,Central
+54009,48260,"Weirton-Steubenville, WV-OH",Metro,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV",54,Central
+54029,48260,"Weirton-Steubenville, WV-OH",Metro,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV",54,Central
+53007,48300,"Wenatchee, WA",Metro,,,53,Central
+53017,48300,"Wenatchee, WA",Metro,,,53,Central
+29091,48460,"West Plains, MO",Micro,,,29,Central
+28025,48500,"West Point, MS",Micro,200,"Columbus-West Point, MS",28,Central
+39013,48540,"Wheeling, WV-OH",Metro,,,39,Central
+54051,48540,"Wheeling, WV-OH",Metro,,,54,Central
+54069,48540,"Wheeling, WV-OH",Metro,,,54,Central
+55127,48580,"Whitewater, WI",Micro,376,"Milwaukee-Racine-Waukesha, WI",55,Central
+20015,48620,"Wichita, KS",Metro,556,"Wichita-Winfield, KS",20,Outlying
+20079,48620,"Wichita, KS",Metro,556,"Wichita-Winfield, KS",20,Outlying
+20173,48620,"Wichita, KS",Metro,556,"Wichita-Winfield, KS",20,Central
+20191,48620,"Wichita, KS",Metro,556,"Wichita-Winfield, KS",20,Outlying
+48009,48660,"Wichita Falls, TX",Metro,,,48,Outlying
+48077,48660,"Wichita Falls, TX",Metro,,,48,Outlying
+48485,48660,"Wichita Falls, TX",Metro,,,48,Central
+42081,48700,"Williamsport, PA",Metro,558,"Williamsport-Lock Haven, PA",42,Central
+38105,48780,"Williston, ND",Micro,,,38,Central
+27067,48820,"Willmar, MN",Micro,,,27,Central
+37129,48900,"Wilmington, NC",Metro,,,37,Central
+37141,48900,"Wilmington, NC",Metro,,,37,Outlying
+39027,48940,"Wilmington, OH",Micro,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN",39,Central
+37195,48980,"Wilson, NC",Micro,468,"Rocky Mount-Wilson-Roanoke Rapids, NC",37,Central
+51069,49020,"Winchester, VA-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+51840,49020,"Winchester, VA-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51,Central
+54027,49020,"Winchester, VA-WV",Metro,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",54,Outlying
+20035,49060,"Winfield, KS",Micro,556,"Wichita-Winfield, KS",20,Central
+32013,49080,"Winnemucca, NV",Micro,,,32,Central
+27169,49100,"Winona, MN",Micro,,,27,Central
+37057,49180,"Winston-Salem, NC",Metro,268,"Greensboro--Winston-Salem--High Point, NC",37,Central
+37059,49180,"Winston-Salem, NC",Metro,268,"Greensboro--Winston-Salem--High Point, NC",37,Central
+37067,49180,"Winston-Salem, NC",Metro,268,"Greensboro--Winston-Salem--High Point, NC",37,Central
+37169,49180,"Winston-Salem, NC",Metro,268,"Greensboro--Winston-Salem--High Point, NC",37,Central
+37197,49180,"Winston-Salem, NC",Metro,268,"Greensboro--Winston-Salem--High Point, NC",37,Outlying
+55141,49220,"Wisconsin Rapids-Marshfield, WI",Micro,554,"Wausau-Stevens Point-Wisconsin Rapids, WI",55,Central
+40045,49260,"Woodward, OK",Micro,,,40,Outlying
+40153,49260,"Woodward, OK",Micro,,,40,Central
+39169,49300,"Wooster, OH",Micro,184,"Cleveland-Akron-Canton, OH",39,Central
+09015,49340,"Worcester, MA-CT",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",9,Central
+25027,49340,"Worcester, MA-CT",Metro,148,"Boston-Worcester-Providence, MA-RI-NH-CT",25,Central
+27105,49380,"Worthington, MN",Micro,,,27,Central
+53077,49420,"Yakima, WA",Metro,,,53,Central
+46135,49460,"Yankton, SD",Micro,,,46,Central
+72055,49500,"Yauco, PR",Metro,434,"Ponce-Yauco-Coamo, PR",72,Central
+72059,49500,"Yauco, PR",Metro,434,"Ponce-Yauco-Coamo, PR",72,Central
+72111,49500,"Yauco, PR",Metro,434,"Ponce-Yauco-Coamo, PR",72,Central
+72153,49500,"Yauco, PR",Metro,434,"Ponce-Yauco-Coamo, PR",72,Central
+42133,49620,"York-Hanover, PA",Metro,276,"Harrisburg-York-Lebanon, PA",42,Central
+39099,49660,"Youngstown-Warren-Boardman, OH-PA",Metro,566,"Youngstown-Warren, OH-PA",39,Central
+39155,49660,"Youngstown-Warren-Boardman, OH-PA",Metro,566,"Youngstown-Warren, OH-PA",39,Central
+42085,49660,"Youngstown-Warren-Boardman, OH-PA",Metro,566,"Youngstown-Warren, OH-PA",42,Central
+06101,49700,"Yuba City, CA",Metro,472,"Sacramento-Roseville, CA",6,Central
+06115,49700,"Yuba City, CA",Metro,472,"Sacramento-Roseville, CA",6,Central
+04027,49740,"Yuma, AZ",Metro,,,4,Central
+39119,49780,"Zanesville, OH",Micro,198,"Columbus-Marion-Zanesville, OH",39,Central
+48505,49820,"Zapata, TX",Micro,,,48,Central
