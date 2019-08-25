@@ -23,17 +23,17 @@ city_pop <- read_csv("data-raw/city_pop.csv") %>%
   mutate(STATE = as.character(str_pad(STATE, 2, pad = "0")),
          PLACE = as.character(str_pad(PLACE, 2, pad = "0")),
          city_fips = paste0(STATE,PLACE),
-         city_pop = as.numeric(CENSUS2010POP),
-         city_pop_15 = POPESTIMATE2015,
-         city_pop_18 = POPESTIMATE2018) %>%
+         city_pop_10 = as.numeric(CENSUS2010POP),
+         city_pop_15 = as.numeric(POPESTIMATE2015),
+         city_pop_18 = as.numeric(POPESTIMATE2018)) %>%
   filter(PLACE != "00000",
          PLACE != "99990",
          SUMLEV == 162,
-         !is.na(city_pop)) %>%
+         !is.na(city_pop_10)) %>%
   select(city_fips, NAME, STNAME, city_pop_10, city_pop_15, city_pop_18) %>%
   rename_all(tolower)
 cities <- left_join(cityxw,city_pop) %>%
-  filter(city_pop > 0)
+  filter(city_pop_10 > 0)
 ctyxw <- read_csv("data-raw/cbsa.csv") %>%
   select(-st_fips,-cty_type) %>%
   left_join(.,cities)
