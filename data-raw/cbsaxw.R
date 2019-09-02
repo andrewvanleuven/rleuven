@@ -21,7 +21,7 @@ cityxw <- read_csv("data-raw/cbsa_cities.csv") %>%
 city_pop <- read_csv("data-raw/city_pop.csv") %>%
   select(SUMLEV:CENSUS2010POP,POPESTIMATE2015,POPESTIMATE2018) %>%
   mutate(STATE = as.character(str_pad(STATE, 2, pad = "0")),
-         PLACE = as.character(str_pad(PLACE, 2, pad = "0")),
+         PLACE = as.character(str_pad(PLACE, 5, pad = "0")),
          city_fips = paste0(STATE,PLACE),
          city_pop_10 = as.numeric(CENSUS2010POP),
          city_pop_15 = as.numeric(POPESTIMATE2015),
@@ -64,10 +64,18 @@ seats <- cty_seats %>% filter(cty_seat == 1) %>%
   select(-county,-state,-cty_seat) %>%
   rename(seat_fips = city_fips,
          seat = city, seat_st_cap = st_captl)
+city_xw <- read_csv("data-raw/city_xw.csv") %>%
+  mutate(cty_fips = as.character(str_pad(county_fips, 5, pad = "0")),
+         city_fips = as.character(str_pad(city_fips, 7, pad = "0")),
+         city = placenm) %>%
+  #filter(afact > 0.5) %>%
+  select(city_fips,city,cty_fips,county,city_pop_00)
 
-cities_inc <- city_pop %>% left_join(.,cty_seats) %>%
-  select(city_fips:cty_fips,county,cty_seat,st_captl) %>%
-  arrange(city_fips)
+cities_inc <- city_pop %>% left_join(.,city_xw, by = "city_fips") %>% select(-city) %>%
+  left_join(.,(cty_seats %>% select(city_fips,cty_seat,st_captl)), by = "city_fips") %>%
+  filter(city_pop_10 > 99) %>% arrange(city_fips) %>%
+  mutate(cty_seat = replace_na(cty_seat, 0),
+         st_captl = replace_na(st_captl, 0))
 
 cbsaxw <- left_join(xw,ctyxw) %>%
   left_join(.,rucc) %>%
