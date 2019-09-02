@@ -1,0 +1,3109 @@
+city_fips,city_fips2,cty_fips,feature,city,city2,county,state
+2875880,2811580,28015,County Seat 2,Vaiden,Carrollton,Carroll,MS
+552970,513300,5047,County Seat 2,Ozark,Charleston,Franklin,AR
+2878000,2814740,28161,County Seat 2,Water Valley,Coffeeville,Yalobusha,MS
+555130,515460,5021,County Seat 2,Piggott,Corning,Clay,AR
+517380,517320,5149,County Seat 2,Dardanelle,Danville,Yell,AR
+518550,518640,5117,County Seat 2,Des Arc,De Valls Bluff,Prairie,AR
+567490,518790,5001,County Seat 2,Stuttgart,De Witt,Arkansas,AR
+2839640,2822020,28067,County Seat 2,Laurel,Ellisville,Jones,MS
+505560,522240,5015,County Seat 2,Berryville,Eureka Springs,Carroll,AR
+524550,528780,5131,County Seat 2,Fort Smith,Greenwood,Sebastian,AR
+535710,537780,5031,County Seat 2,Jonesboro,Lake City,Craighead,AR
+2833900,2853680,28017,County Seat 2,Houston,Okolona,Chickasaw,MS
+507330,552580,5093,County Seat 2,Blytheville,Osceola,Mississippi,AR
+507720,553480,5083,County Seat 2,Booneville,Paris,Logan,AR
+2804060,2855640,28061,County Seat 2,Bay Springs,Paulding,Jasper,MS
+2814260,2863720,28011,County Seat 2,Cleveland,Rosedale,Bolivar,MS
+2803620,2865560,28107,County Seat 2,Batesville,Sardis,Panola,MS
+2812900,2871520,28135,County Seat 2,Charleston,Sumner,Tallahatchie,MS
+5656215,,56045,County Seat,Newcastle,,Weston,WY
+5684925,,56043,County Seat,Worland,,Washakie,WY
+5625620,,56041,County Seat,Evanston,,Uinta,WY
+5640120,,56039,County Seat,Jackson,,Teton,WY
+5633740,,56037,County Seat,Green River,,Sweetwater,WY
+5661580,,56035,County Seat,Pinedale,,Sublette,WY
+5669845,,56033,County Seat,Sheridan,,Sheridan,WY
+5683040,,56031,County Seat,Wheatland,,Platte,WY
+5615760,,56029,County Seat,Cody,,Park,WY
+5648530,,56027,County Seat,Lusk,,Niobrara,WY
+5613150,,56025,County Seat,Casper,,Natrona,WY
+5642005,,56023,County Seat,Kemmerer,,Lincoln,WY
+5613900,,56021,State Capital   County Seat,Cheyenne,,Laramie,WY
+5610685,,56019,County Seat,Buffalo,,Johnson,WY
+5676515,,56017,County Seat,Thermopolis,,Hot Springs,WY
+5677530,,56015,County Seat,Torrington,,Goshen,WY
+5644760,,56013,County Seat,Lander,,Fremont,WY
+5674195,,56011,County Seat,Sundance,,Crook,WY
+5621125,,56009,County Seat,Douglas,,Converse,WY
+5663900,,56007,County Seat,Rawlins,,Carbon,WY
+5631855,,56005,County Seat,Gillette,,Campbell,WY
+5605320,,56003,County Seat,Basin,,Big Horn,WY
+5645050,,56001,County Seat,Laramie,,Albany,WY
+5588200,,55141,County Seat,Wisconsin Rapids,,Wood,WI
+5560500,,55139,County Seat,Oshkosh,,Winnebago,WI
+5584625,,55137,County Seat,Wautoma,,Waushara,WI
+5584375,,55135,County Seat,Waupaca,,Waupaca,WI
+5584250,,55133,County Seat,Waukesha,,Waukesha,WI
+5585350,,55131,County Seat,West Bend,,Washington,WI
+5573200,,55129,County Seat,Shell Lake,,Washburn,WI
+5523300,,55127,County Seat,Elkhorn,,Walworth,WI
+5521625,,55125,County Seat,Eagle River,,Vilas,WI
+5582925,,55123,County Seat,Viroqua,,Vernon,WI
+5586725,,55121,County Seat,Whitehall,,Trempealeau,WI
+5550425,,55119,County Seat,Medford,,Taylor,WI
+5572975,,55117,County Seat,Sheboygan,,Sheboygan,WI
+5572925,,55115,County Seat,Shawano,,Shawano,WI
+5533450,,55113,County Seat,Hayward,,Sawyer,WI
+5504625,,55111,County Seat,Baraboo,,Sauk,WI
+5536250,,55109,County Seat,Hudson,,Saint Croix,WI
+5540850,,55107,County Seat,Ladysmith,,Rusk,WI
+5537825,,55105,County Seat,Janesville,,Rock,WI
+5567625,,55103,County Seat,Richland Center,,Richland,WI
+5566000,,55101,County Seat,Racine,,Racine,WI
+5562450,,55099,County Seat,Phillips,,Price,WI
+5577200,,55097,County Seat,Stevens Point,,Portage,WI
+5504475,,55095,County Seat,Balsam Lake,,Polk,WI
+5523525,,55093,County Seat,Ellsworth,,Pierce,WI
+5521225,,55091,County Seat,Durand,,Pepin,WI
+5564450,,55089,County Seat,Port Washington,,Ozaukee,WI
+5502375,,55087,County Seat,Appleton,,Outagamie,WI
+5567200,,55085,County Seat,Rhinelander,,Oneida,WI
+5559350,,55083,County Seat,Oconto,,Oconto,WI
+5575325,,55081,County Seat,Sparta,,Monroe,WI
+5553000,,55079,County Seat,Milwaukee,,Milwaukee,WI
+5539250,,55078,County Seat,Keshena,,Menominee,WI
+5553875,,55077,County Seat,Montello,,Marquette,WI
+5549300,,55075,County Seat,Marinette,,Marinette,WI
+5584475,,55073,County Seat,Wausau,,Marathon,WI
+5548500,,55071,County Seat,Manitowoc,,Manitowoc,WI
+5551250,,55069,County Seat,Merrill,,Lincoln,WI
+5502250,,55067,County Seat,Antigo,,Langlade,WI
+5518875,,55065,County Seat,Darlington,,Lafayette,WI
+5540775,,55063,County Seat,La Crosse,,La Crosse,WI
+5539350,,55061,County Seat,Kewaunee,,Kewaunee,WI
+5539225,,55059,County Seat,Kenosha,,Kenosha,WI
+5550025,,55057,County Seat,Mauston,,Juneau,WI
+5537900,,55055,County Seat,Jefferson,,Jefferson,WI
+5507900,,55053,County Seat,Black River Falls,,Jackson,WI
+5536525,,55051,County Seat,Hurley,,Iron,WI
+5520350,,55049,County Seat,Dodgeville,,Iowa,WI
+5531300,,55047,County Seat,Green Lake,,Green Lake,WI
+5553750,,55045,County Seat,Monroe,,Green,WI
+5542250,,55043,County Seat,Lancaster,,Grant,WI
+5517425,,55041,County Seat,Crandon,,Forest,WI
+5526275,,55039,County Seat,Fond du Lac,,Fond du Lac,WI
+5526175,,55037,County Seat,Florence,,Florence,WI
+5522300,,55035,County Seat,Eau Claire,,Eau Claire,WI
+5551025,,55033,County Seat,Menomonie,,Dunn,WI
+5578650,,55031,County Seat,Superior,,Douglas,WI
+5577875,,55029,County Seat,Sturgeon Bay,,Door,WI
+5538675,,55027,County Seat,Juneau,,Dodge,WI
+5548000,,55025,State Capital   County Seat,Madison,,Dane,WI
+5565050,,55023,County Seat,Prairie du Chien,,Crawford,WI
+5564100,,55021,County Seat,Portage,,Columbia,WI
+5555800,,55019,County Seat,Neillsville,,Clark,WI
+5514575,,55017,County Seat,Chippewa Falls,,Chippewa,WI
+5514475,,55015,County Seat,Chilton,,Calumet,WI
+5530450,,55013,County Seat,Grantsburg,,Burnett,WI
+5501225,,55011,County Seat,Alma,,Buffalo,WI
+5531000,,55009,County Seat,Green Bay,,Brown,WI
+5583525,,55007,County Seat,Washburn,,Bayfield,WI
+5504875,,55005,County Seat,Barron,,Barron,WI
+5503225,,55003,County Seat,Ashland,,Ashland,WI
+5527950,,55001,County Seat,Friendship,,Adams,WI
+5463940,,54109,County Seat,Pineville,,Wyoming,WV
+5462140,,54107,County Seat,Parkersburg,,Wood,WV
+5424364,,54105,County Seat,Elizabeth,,Wirt,WV
+5458684,,54103,County Seat,New Martinsville,,Wetzel,WV
+5400364,,54101,County Seat,Addison,,Webster,WV
+5484940,,54099,County Seat,Wayne,,Wayne,WV
+5411188,,54097,County Seat,Buckhannon,,Upshur,WV
+5453572,,54095,County Seat,Middlebourne,,Tyler,WV
+5462284,,54093,County Seat,Parsons,,Tucker,WV
+5432716,,54091,County Seat,Grafton,,Taylor,WV
+5437636,,54089,County Seat,Hinton,,Summers,WV
+5475820,,54087,County Seat,Spencer,,Roane,WV
+5435428,,54085,County Seat,Harrisville,,Ritchie,WV
+5424580,,54083,County Seat,Elkins,,Randolph,WV
+5405332,,54081,County Seat,Beckley,,Raleigh,WV
+5487988,,54079,County Seat,Winfield,,Putnam,WV
+5444044,,54077,County Seat,Kingwood,,Preston,WV
+5451676,,54075,County Seat,Marlinton,,Pocahontas,WV
+5471356,,54073,County Seat,Saint Marys,,Pleasants,WV
+5429044,,54071,County Seat,Franklin,,Pendleton,WV
+5486452,,54069,County Seat,Wheeling,,Ohio,WV
+5477980,,54067,County Seat,Summersville,,Nicholas,WV
+5404876,,54065,County Seat,Bath,,Morgan,WV
+5481940,,54063,County Seat,Union,,Monroe,WV
+5455756,,54061,County Seat,Morgantown,,Monongalia,WV
+5487508,,54059,County Seat,Williamson,,Mingo,WV
+5443492,,54057,County Seat,Keyser,,Mineral,WV
+5465692,,54055,County Seat,Princeton,,Mercer,WV
+5464708,,54053,County Seat,Point Pleasant,,Mason,WV
+5456020,,54051,County Seat,Moundsville,,Marshall,WV
+5426452,,54049,County Seat,Fairmont,,Marion,WV
+5485228,,54047,County Seat,Welch,,McDowell,WV
+5448148,,54045,County Seat,Logan,,Logan,WV
+5434516,,54043,County Seat,Hamlin,,Lincoln,WV
+5485972,,54041,County Seat,Weston,,Lewis,WV
+5414600,,54039,State Capital   County Seat,Charleston,,Kanawha,WV
+5414610,,54037,County Seat,Charles Town,,Jefferson,WV
+5468596,,54035,County Seat,Ripley,,Jackson,WV
+5415628,,54033,County Seat,Clarksburg,,Harrison,WV
+5455588,,54031,County Seat,Moorefield,,Hardy,WV
+5458372,,54029,County Seat,New Cumberland,,Hancock,WV
+5470084,,54027,County Seat,Romney,,Hampshire,WV
+5446636,,54025,County Seat,Lewisburg,,Greenbrier,WV
+5462956,,54023,County Seat,Petersburg,,Grant,WV
+5432044,,54021,County Seat,Glenville,,Gilmer,WV
+5427028,,54019,County Seat,Fayetteville,,Fayette,WV
+5486116,,54017,County Seat,West Union,,Doddridge,WV
+5415676,,54015,County Seat,Clay,,Clay,WV
+5432884,,54013,County Seat,Grantsville,,Calhoun,WV
+5439460,,54011,County Seat,Huntington,,Cabell,WV
+5485324,,54009,County Seat,Wellsburg,,Brooke,WV
+5478580,,54007,County Seat,Sutton,,Braxton,WV
+5450524,,54005,County Seat,Madison,,Boone,WV
+5452060,,54003,County Seat,Martinsburg,,Berkeley,WV
+5463292,,54001,County Seat,Philippi,,Barbour,WV
+5380010,,53077,County Seat,Yakima,,Yakima,WA
+5313785,,53075,County Seat,Colfax,,Whitman,WA
+5305280,,53073,County Seat,Bellingham,,Whatcom,WA
+5375775,,53071,County Seat,Walla Walla,,Walla Walla,WA
+5310635,,53069,County Seat,Cathlamet,,Wahkiakum,WA
+5351300,,53067,State Capital   County Seat,Olympia,,Thurston,WA
+5314170,,53065,County Seat,Colville,,Stevens,WA
+5367000,,53063,County Seat,Spokane,,Spokane,WA
+5322640,,53061,County Seat,Everett,,Snohomish,WA
+5367875,,53059,County Seat,Stevenson,,Skamania,WA
+5347560,,53057,County Seat,Mount Vernon,,Skagit,WA
+5325615,,53055,County Seat,Friday Harbor,,San Juan,WA
+5370000,,53053,County Seat,Tacoma,,Pierce,WA
+5348820,,53051,County Seat,Newport,,Pend Oreille,WA
+5365625,,53049,County Seat,South Bend,,Pacific,WA
+5350920,,53047,County Seat,Okanogan,,Okanogan,WA
+5363735,,53045,County Seat,Shelton,,Mason,WA
+5316795,,53043,County Seat,Davenport,,Lincoln,WA
+5311475,,53041,County Seat,Chehalis,,Lewis,WA
+5327435,,53039,County Seat,Goldendale,,Klickitat,WA
+5321240,,53037,County Seat,Ellensburg,,Kittitas,WA
+5355785,,53035,County Seat,Port Orchard,,Kitsap,WA
+5363000,,53033,County Seat,Seattle,,King,WA
+5355855,,53031,County Seat,Port Townsend,,Jefferson,WA
+5315185,,53029,County Seat,Coupeville,,Island,WA
+5346895,,53027,County Seat,Montesano,,Grays Harbor,WA
+5322080,,53025,County Seat,Ephrata,,Grant,WA
+5355120,,53023,County Seat,Pomeroy,,Garfield,WA
+5353545,,53021,County Seat,Pasco,,Franklin,WA
+5357850,,53019,County Seat,Republic,,Ferry,WA
+5376510,,53017,County Seat,Waterville,,Douglas,WA
+5335065,,53015,County Seat,Kelso,,Cowlitz,WA
+5316970,,53013,County Seat,Dayton,,Columbia,WA
+5374060,,53011,County Seat,Vancouver,,Clark,WA
+5355365,,53009,County Seat,Port Angeles,,Clallam,WA
+5377105,,53007,County Seat,Wenatchee,,Chelan,WA
+5356450,,53005,County Seat,Prosser,,Benton,WA
+5303075,,53003,County Seat,Asotin,,Asotin,WA
+5358725,,53001,County Seat,Ritzville,,Adams,WA
+5186720,,51840,County Seat,Winchester,,Winchester City,VA
+5186160,,51830,County Seat,Williamsburg,,Williamsburg City,VA
+5183680,,51820,County Seat,Waynesboro,,Waynesboro City,VA
+5182000,,51810,County Seat,Virginia Beach,,Virginia Beach City,VA
+5176432,,51800,County Seat,Suffolk,,Suffolk City,VA
+5175216,,51790,County Seat,Staunton,,Staunton City,VA
+5170000,,51775,County Seat,Salem,,Salem City,VA
+5168000,,51770,County Seat,Roanoke,,Roanoke City,VA
+5167000,,51760,State Capital   County Seat,Richmond,,Richmond City,VA
+5165392,,51750,County Seat,Radford,,Radford City,VA
+5164000,,51740,County Seat,Portsmouth,,Portsmouth City,VA
+5163768,,51735,County Seat,Poquoson,,Poquoson,VA
+5161832,,51730,County Seat,Petersburg,,Petersburg City,VA
+5157688,,51720,County Seat,Norton,,Norton City,VA
+5157000,,51710,County Seat,Norfolk,,Norfolk City,VA
+5156000,,51700,County Seat,Newport News,,Newport News City,VA
+5149784,,51690,County Seat,Martinsville,,Martinsville City,VA
+5148968,,51685,County Seat,Manassas Park,,Manassas Park City,VA
+5148952,,51683,County Seat,Manassas,,Manassas City,VA
+5147672,,51680,County Seat,Lynchburg,,Lynchburg City,VA
+5145512,,51678,County Seat,Lexington,,Lexington City,VA
+5138424,,51670,County Seat,Hopewell,,Hopewell City,VA
+5135624,,51660,County Seat,Harrisonburg,,Harrisonburg City,VA
+5135000,,51650,County Seat,Hampton,,Hampton City,VA
+5130208,,51640,County Seat,Galax,,Galax City,VA
+5129744,,51630,County Seat,Fredericksburg,,Fredericksburg City,VA
+5129600,,51620,County Seat,Franklin,,Franklin City,VA
+5127200,,51610,County Seat,Falls Church,,Falls Church City,VA
+5126496,,51600,County Seat,Fairfax,,Fairfax City,VA
+5125808,,51595,County Seat,Emporia,,Emporia City,VA
+5121344,,51590,County Seat,Danville,,Danville City,VA
+5119728,,51580,County Seat,Covington,,Covington City,VA
+5118448,,51570,County Seat,Colonial Heights,,Colonial Heights City,VA
+5116000,,51550,County Seat,Chesapeake,,Chesapeake City,VA
+5114968,,51540,County Seat,Charlottesville,,Charlottesville City,VA
+5111032,,51530,County Seat,Buena Vista,,Buena Vista City,VA
+5109816,,51520,County Seat,Bristol,,Bristol City,VA
+5101000,,51510,County Seat,Alexandria,,Alexandria City,VA
+5188240,,51199,County Seat,Yorktown,,York,VA
+5188000,,51197,County Seat,Wytheville,,Wythe,VA
+5187072,,51195,County Seat,Wise,,Wise,VA
+5152952,,51193,County Seat,Montross,,Westmoreland,VA
+5100148,,51191,County Seat,Abingdon,,Washington,VA
+5129968,,51187,County Seat,Front Royal,,Warren,VA
+5177792,,51185,County Seat,Tazewell,,Tazewell,VA
+5176912,,51183,County Seat,Sussex,,Sussex,VA
+5176880,,51181,County Seat,Surry,,Surry,VA
+5174912,,51179,County Seat,Stafford,,Stafford,VA
+5174464,,51177,County Seat,Spotsylvania,,Spotsylvania,VA
+5119600,,51175,County Seat,Courtland,,Southampton,VA
+5149464,,51173,County Seat,Marion,,Smyth,VA
+5187712,,51171,County Seat,Woodstock,,Shenandoah,VA
+5130496,,51169,County Seat,Gate City,,Scott,VA
+5144696,,51167,County Seat,Lebanon,,Russell,VA
+5135624,,51165,County Seat,Harrisonburg,,Rockingham,VA
+5145512,,51163,County Seat,Lexington,,Rockbridge,VA
+5170000,,51161,County Seat,Salem,,Roanoke,VA
+5183168,,51159,County Seat,Warsaw,,Richmond,VA
+5183248,,51157,County Seat,Washington,,Rappahannock,VA
+5164880,,51155,County Seat,Pulaski,,Pulaski,VA
+5148952,,51153,County Seat,Manassas,,Prince William,VA
+5164560,,51149,County Seat,Prince George,,Prince George,VA
+5127440,,51147,County Seat,Farmville,,Prince Edward,VA
+5164384,,51145,County Seat,Powhatan,,Powhatan,VA
+5115000,,51143,County Seat,Chatham,,Pittsylvania,VA
+5176256,,51141,County Seat,Stuart,,Patrick,VA
+5147528,,51139,County Seat,Luray,,Page,VA
+5159496,,51137,County Seat,Orange,,Orange,VA
+NA,,51135,,NA,,Nottoway,VA
+5136216,,51133,County Seat,Heathsville,,Northumberland,VA
+5124752,,51131,County Seat,Eastville,,Northampton,VA
+5155800,,51127,County Seat,New Kent,,New Kent,VA
+5147224,,51125,County Seat,Lovingston,,Nelson,VA
+5116608,,51121,County Seat,Christiansburg,,Montgomery,VA
+5170112,,51119,County Seat,Saluda,,Middlesex,VA
+5109016,,51117,County Seat,Boydton,,Mecklenburg,VA
+5150104,,51115,County Seat,Mathews,,Mathews,VA
+5148488,,51113,County Seat,Madison,,Madison,VA
+5147496,,51111,County Seat,Lunenburg,,Lunenburg,VA
+5147144,,51109,County Seat,Louisa,,Louisa,VA
+5144984,,51107,County Seat,Leesburg,,Loudoun,VA
+5141272,,51105,County Seat,Jonesville,,Lee,VA
+5143704,,51103,County Seat,Lancaster,,Lancaster,VA
+5142792,,51101,County Seat,King William,,King William,VA
+5142568,,51099,County Seat,King George,,King George,VA
+5142536,,51097,County Seat,King and Queen Court House,,King and Queen,VA
+5186160,,51095,County Seat,Williamsburg,,James City,VA
+5140152,,51093,County Seat,Isle of Wight,,Isle of Wight,VA
+5152680,,51091,County Seat,Monterey,,Highland,VA
+5149784,,51089,County Seat,Martinsville,,Henry,VA
+NA,,51087,,NA,,Henrico,VA
+5135160,,51085,County Seat,Hanover,,Hanover,VA
+5134064,,51083,County Seat,Halifax,,Halifax,VA
+5125808,,51081,County Seat,Emporia,,Greensville,VA
+5175008,,51079,County Seat,Stanardsville,,Greene,VA
+5139528,,51077,County Seat,Independence,,Grayson,VA
+5131808,,51075,County Seat,Goochland,,Goochland,VA
+5131600,,51073,County Seat,Gloucester,,Gloucester,VA
+5161208,,51071,County Seat,Pearisburg,,Giles,VA
+5186720,,51069,County Seat,Winchester,,Frederick,VA
+5168496,,51067,County Seat,Rocky Mount,,Franklin,VA
+5160392,,51065,County Seat,Palmyra,,Fluvanna,VA
+5128544,,51063,County Seat,Floyd,,Floyd,VA
+5183136,,51061,County Seat,Warrenton,,Fauquier,VA
+5126496,,51059,County Seat,Fairfax,,Fairfax,VA
+5177568,,51057,County Seat,Tappahannock,,Essex,VA
+5122576,,51053,County Seat,Dinwiddie,,Dinwiddie,VA
+5117552,,51051,County Seat,Clintwood,,Dickenson,VA
+5120768,,51049,County Seat,Cumberland,,Cumberland,VA
+5120752,,51047,County Seat,Culpeper,,Culpeper,VA
+5155592,,51045,County Seat,New Castle,,Craig,VA
+5106968,,51043,County Seat,Berryville,,Clarke,VA
+5116192,,51041,County Seat,Chesterfield,,Chesterfield,VA
+5114952,,51037,County Seat,Charlotte Court House,,Charlotte,VA
+5114904,,51036,County Seat,Charles City,,Charles City,VA
+5137336,,51035,County Seat,Hillsville,,Carroll,VA
+5108888,,51033,County Seat,Bowling Green,,Caroline,VA
+5169536,,51031,County Seat,Rustburg,,Campbell,VA
+5110840,,51029,County Seat,Buckingham,,Buckingham,VA
+5133648,,51027,County Seat,Grundy,,Buchanan,VA
+5144520,,51025,County Seat,Lawrenceville,,Brunswick,VA
+5127824,,51023,County Seat,Fincastle,,Botetourt,VA
+5107976,,51021,County Seat,Bland,,Bland,VA
+5105544,,51019,County Seat,Bedford,,Bedford City,VA
+5183088,,51017,County Seat,Warm Springs,,Bath,VA
+5175216,,51015,County Seat,Staunton,,Augusta,VA
+5103000,,51013,County Seat,Arlington,,Arlington,VA
+5102072,,51011,County Seat,Appomattox,,Appomattox,VA
+5101672,,51009,County Seat,Amherst,,Amherst,VA
+5101640,,51007,County Seat,Amelia Court House,,Amelia,VA
+5119728,,51005,County Seat,Covington,,Alleghany,VA
+5114968,,51003,County Seat,Charlottesville,,Albemarle,VA
+5100180,,51001,County Seat,Accomac,,Accomack,VA
+5085900,,50027,County Seat,Woodstock,,Windsor,VT
+5048325,,50025,County Seat,Newfane,,Windham,VT
+5046000,,50023,State Capital   County Seat,Montpelier,,Washington,VT
+5061225,,50021,County Seat,Rutland,,Rutland,VT
+5048850,,50019,County Seat,Newport,,Orleans,VT
+5013450,,50017,County Seat,Chelsea,,Orange,VT
+5034975,,50015,County Seat,Hyde Park,,Lamoille,VT
+5050575,,50013,County Seat,North Hero,,Grand Isle,VT
+5061675,,50011,County Seat,Saint Albans,,Franklin,VT
+5030700,,50009,County Seat,Guildhall,,Essex,VT
+5010675,,50007,County Seat,Burlington,,Chittenden,VT
+5062125,,50005,County Seat,Saint Johnsbury,,Caledonia,VT
+5004750,,50003,County Seat,Bennington,,Bennington,VT
+5044275,,50001,County Seat,Middlebury,,Addison,VT
+4955980,,49057,County Seat,Ogden,,Weber,UT
+4945530,,49055,County Seat,Loa,,Wayne,UT
+4965330,,49053,County Seat,Saint George,,Washington,UT
+4934200,,49051,County Seat,Heber,,Wasatch,UT
+4962470,,49049,County Seat,Provo,,Utah,UT
+4980090,,49047,County Seat,Vernal,,Uintah,UT
+4976680,,49045,County Seat,Tooele,,Tooele,UT
+4914840,,49043,County Seat,Coalville,,Summit,UT
+4963570,,49041,County Seat,Richfield,,Sevier,UT
+4947730,,49039,County Seat,Manti,,Sanpete,UT
+4951580,,49037,County Seat,Monticello,,San Juan,UT
+4967000,,49035,State Capital   County Seat,Salt Lake City,,Salt Lake,UT
+4963020,,49033,County Seat,Randolph,,Rich,UT
+4939590,,49031,County Seat,Junction,,Piute,UT
+4951910,,49029,County Seat,Morgan,,Morgan,UT
+4925510,,49027,County Seat,Fillmore,,Millard,UT
+4939920,,49025,County Seat,Kanab,,Kane,UT
+4954220,,49023,County Seat,Nephi,,Juab,UT
+4958510,,49021,County Seat,Parowan,,Iron,UT
+4950700,,49019,County Seat,Moab,,Grand,UT
+4957740,,49017,County Seat,Panguitch,,Garfield,UT
+4910660,,49015,County Seat,Castle Dale,,Emery,UT
+4920340,,49013,County Seat,Duchesne,,Duchesne,UT
+4924740,,49011,County Seat,Farmington,,Davis,UT
+4947620,,49009,County Seat,Manila,,Daggett,UT
+4962030,,49007,County Seat,Price,,Carbon,UT
+4945860,,49005,County Seat,Logan,,Cache,UT
+4908460,,49003,County Seat,Brigham City,,Box Elder,UT
+4904060,,49001,County Seat,Beaver,,Beaver,UT
+4818020,,48507,County Seat,Crystal City,,Zavala,TX
+4880716,,48505,County Seat,Zapata,,Zapata,TX
+4830392,,48503,County Seat,Graham,,Young,TX
+4857968,,48501,County Seat,Plains,,Yoakum,TX
+4860188,,48499,County Seat,Quitman,,Wood,TX
+4819528,,48497,County Seat,Decatur,,Wise,TX
+4839004,,48495,County Seat,Kermit,,Winkler,TX
+4826160,,48493,County Seat,Floresville,,Wilson,TX
+4829336,,48491,County Seat,Georgetown,,Williamson,TX
+4860836,,48489,County Seat,Raymondville,,Willacy,TX
+4875308,,48487,County Seat,Vernon,,Wilbarger,TX
+4879000,,48485,County Seat,Wichita Falls,,Wichita,TX
+4878208,,48483,County Seat,Wheeler,,Wheeler,TX
+4878136,,48481,County Seat,Wharton,,Wharton,TX
+4841464,,48479,County Seat,Laredo,,Webb,TX
+4810156,,48477,County Seat,Brenham,,Washington,TX
+4848936,,48475,County Seat,Monahans,,Ward,TX
+4833200,,48473,County Seat,Hempstead,,Waller,TX
+4835528,,48471,County Seat,Huntsville,,Walker,TX
+4875428,,48469,County Seat,Victoria,,Victoria,TX
+4812496,,48467,County Seat,Canton,,Van Zandt,TX
+4819792,,48465,County Seat,Del Rio,,Val Verde,TX
+4874588,,48463,County Seat,Uvalde,,Uvalde,TX
+4860668,,48461,County Seat,Rankin,,Upton,TX
+4829564,,48459,County Seat,Gilmer,,Upshur,TX
+4880212,,48457,County Seat,Woodville,,Tyler,TX
+4831340,,48455,County Seat,Groveton,,Trinity,TX
+4805000,,48453,State Capital   County Seat,Austin,,Travis,TX
+4864472,,48451,County Seat,San Angelo,,Tom Green,TX
+4849800,,48449,County Seat,Mount Pleasant,,Titus,TX
+4872896,,48447,County Seat,Throckmorton,,Throckmorton,TX
+4810720,,48445,County Seat,Brownfield,,Terry,TX
+4865084,,48443,County Seat,Sanderson,,Terrell,TX
+4801000,,48441,County Seat,Abilene,,Taylor,TX
+4827000,,48439,County Seat,Fort Worth,,Tarrant,TX
+4873868,,48437,County Seat,Tulia,,Swisher,TX
+4868756,,48435,County Seat,Sonora,,Sutton,TX
+4804408,,48433,County Seat,Aspermont,,Stonewall,TX
+4870232,,48431,County Seat,Sterling City,,Sterling,TX
+4810132,,48429,County Seat,Breckenridge,,Stephens,TX
+4862168,,48427,County Seat,Rio Grande City,,Starr,TX
+4829876,,48425,County Seat,Glen Rose,,Somervell,TX
+4874144,,48423,County Seat,Tyler,,Smith,TX
+4870544,,48421,County Seat,Stratford,,Sherman,TX
+4813732,,48419,County Seat,Center,,Shelby,TX
+4801648,,48417,County Seat,Albany,,Shackelford,TX
+4868624,,48415,County Seat,Snyder,,Scurry,TX
+4822960,,48413,County Seat,Eldorado,,Schleicher,TX
+4865648,,48411,County Seat,San Saba,,San Saba,TX
+4868036,,48409,County Seat,Sinton,,San Patricio,TX
+4815892,,48407,County Seat,Coldspring,,San Jacinto,TX
+4865024,,48405,County Seat,San Augustine,,San Augustine,TX
+4833188,,48403,County Seat,Hemphill,,Sabine,TX
+4833212,,48401,County Seat,Henderson,,Rusk,TX
+4805456,,48399,County Seat,Ballinger,,Runnels,TX
+4862828,,48397,County Seat,Rockwall,,Rockwall,TX
+4827288,,48395,County Seat,Franklin,,Robertson,TX
+4847988,,48393,County Seat,Miami,,Roberts,TX
+4861436,,48391,County Seat,Refugio,,Refugio,TX
+4856516,,48389,County Seat,Pecos,,Reeves,TX
+4815160,,48387,County Seat,Clarksville,,Red River,TX
+4842004,,48385,County Seat,Leakey,,Real,TX
+4808212,,48383,County Seat,Big Lake,,Reagan,TX
+4812532,,48381,County Seat,Canyon,,Randall,TX
+4824216,,48379,County Seat,Emory,,Rains,TX
+4846620,,48377,County Seat,Marfa,,Presidio,TX
+4803000,,48375,County Seat,Amarillo,,Potter,TX
+4843132,,48373,County Seat,Livingston,,Polk,TX
+4826808,,48371,County Seat,Fort Stockton,,Pecos,TX
+4825548,,48369,County Seat,Farwell,,Parmer,TX
+4876864,,48367,County Seat,Weatherford,,Parker,TX
+4813108,,48365,County Seat,Carthage,,Panola,TX
+4854876,,48363,County Seat,Palo Pinto,,Palo Pinto,TX
+4854132,,48361,County Seat,Orange,,Orange,TX
+4875188,,48359,County Seat,Vega,,Oldham,TX
+4856912,,48357,County Seat,Perryton,,Ochiltree,TX
+4817000,,48355,County Seat,Corpus Christi,,Nueces,TX
+4871540,,48353,County Seat,Sweetwater,,Nolan,TX
+4851372,,48351,County Seat,Newton,,Newton,TX
+4817060,,48349,County Seat,Corsicana,,Navarro,TX
+4850256,,48347,County Seat,Nacogdoches,,Nacogdoches,TX
+4847004,,48345,County Seat,Matador,,Motley,TX
+4818464,,48343,County Seat,Daingerfield,,Morris,TX
+4821556,,48341,County Seat,Dumas,,Moore,TX
+4816432,,48339,County Seat,Conroe,,Montgomery,TX
+4849032,,48337,County Seat,Montague,,Montague,TX
+4816120,,48335,County Seat,Colorado City,,Mitchell,TX
+4830056,,48333,County Seat,Goldthwaite,,Mills,TX
+4812040,,48331,County Seat,Cameron,,Milam,TX
+4848072,,48329,County Seat,Midland,,Midland,TX
+4847628,,48327,County Seat,Menard,,Menard,TX
+4834676,,48325,County Seat,Hondo,,Medina,TX
+4821892,,48323,County Seat,Eagle Pass,,Maverick,TX
+4805984,,48321,County Seat,Bay City,,Matagorda,TX
+4846968,,48319,County Seat,Mason,,Mason,TX
+4870040,,48317,County Seat,Stanton,,Martin,TX
+4837528,,48315,County Seat,Jefferson,,Marion,TX
+4845996,,48313,County Seat,Madisonville,,Madison,TX
+4872992,,48311,County Seat,Tilden,,McMullen,TX
+4876000,,48309,County Seat,Waco,,McLennan,TX
+4809916,,48307,County Seat,Brady,,McCulloch,TX
+4871708,,48305,County Seat,Tahoka,,Lynn,TX
+4845000,,48303,County Seat,Lubbock,,Lubbock,TX
+4847676,,48301,County Seat,Mentone,,Loving,TX
+4843144,,48299,County Seat,Llano,,Llano,TX
+4829348,,48297,County Seat,George West,,Live Oak,TX
+4842952,,48295,County Seat,Lipscomb,,Lipscomb,TX
+4831280,,48293,County Seat,Groesbeck,,Limestone,TX
+4842568,,48291,County Seat,Liberty,,Liberty,TX
+4813900,,48289,County Seat,Centerville,,Leon,TX
+4829432,,48287,County Seat,Giddings,,Lee,TX
+4831868,,48285,County Seat,Hallettsville,,Lavaca,TX
+4817216,,48283,County Seat,Cotulla,,La Salle,TX
+4841188,,48281,County Seat,Lampasas,,Lampasas,TX
+4843024,,48279,County Seat,Littlefield,,Lamb,TX
+4855080,,48277,County Seat,Paris,,Lamar,TX
+4807636,,48275,County Seat,Benjamin,,Knox,TX
+4839352,,48273,County Seat,Kingsville,,Kleberg,TX
+4809868,,48271,County Seat,Brackettville,,Kinney,TX
+4831640,,48269,County Seat,Guthrie,,King,TX
+4838248,,48267,County Seat,Junction,,Kimble,TX
+4839040,,48265,County Seat,Kerrville,,Kerr,TX
+4837468,,48263,County Seat,Jayton,,Kent,TX
+4865876,,48261,County Seat,Sarita,,Kenedy,TX
+4809160,,48259,County Seat,Boerne,,Kendall,TX
+4838488,,48257,County Seat,Kaufman,,Kaufman,TX
+4838452,,48255,County Seat,Karnes City,,Karnes,TX
+4803372,,48253,County Seat,Anson,,Jones,TX
+4815364,,48251,County Seat,Cleburne,,Johnson,TX
+4801852,,48249,County Seat,Alice,,Jim Wells,TX
+4833008,,48247,County Seat,Hebbronville,,Jim Hogg,TX
+4807000,,48245,County Seat,Beaumont,,Jefferson,TX
+4826688,,48243,County Seat,Fort Davis,,Jeff Davis,TX
+4837420,,48241,County Seat,Jasper,,Jasper,TX
+4822720,,48239,County Seat,Edna,,Jackson,TX
+4837168,,48237,County Seat,Jacksboro,,Jack,TX
+4847832,,48235,County Seat,Mertzon,,Irion,TX
+4870340,,48233,County Seat,Stinnett,,Hutchinson,TX
+4830920,,48231,County Seat,Greenville,,Hunt,TX
+4867772,,48229,County Seat,Sierra Blanca,,Hudspeth,TX
+4808236,,48227,County Seat,Big Spring,,Howard,TX
+4817744,,48225,County Seat,Crockett,,Houston,TX
+4870904,,48223,County Seat,Sulphur Springs,,Hopkins,TX
+4830416,,48221,County Seat,Granbury,,Hood,TX
+4842448,,48219,County Seat,Levelland,,Hockley,TX
+4834088,,48217,County Seat,Hillsboro,,Hill,TX
+4822660,,48215,County Seat,Edinburg,,Hidalgo,TX
+4804504,,48213,County Seat,Athens,,Henderson,TX
+4812412,,48211,County Seat,Canadian,,Hemphill,TX
+4865600,,48209,County Seat,San Marcos,,Hays,TX
+4832696,,48207,County Seat,Haskell,,Haskell,TX
+4814260,,48205,County Seat,Channing,,Hartley,TX
+4846776,,48203,County Seat,Marshall,,Harrison,TX
+4835000,,48201,County Seat,Houston,,Harris,TX
+4839868,,48199,County Seat,Kountze,,Hardin,TX
+4860044,,48197,County Seat,Quanah,,Hardeman,TX
+4869476,,48195,County Seat,Spearman,,Hansford,TX
+4831952,,48193,County Seat,Hamilton,,Hamilton,TX
+4847616,,48191,County Seat,Memphis,,Hall,TX
+4857980,,48189,County Seat,Plainview,,Hale,TX
+4866644,,48187,County Seat,Seguin,,Guadalupe,TX
+4803192,,48185,County Seat,Anderson,,Grimes,TX
+4843888,,48183,County Seat,Longview,,Gregg,TX
+4867496,,48181,County Seat,Sherman,,Grayson,TX
+4854912,,48179,County Seat,Pampa,,Gray,TX
+4830116,,48177,County Seat,Gonzales,,Gonzales,TX
+4830080,,48175,County Seat,Goliad,,Goliad,TX
+4828176,,48173,County Seat,Garden City,,Glasscock,TX
+4827348,,48171,County Seat,Fredericksburg,,Gillespie,TX
+4859012,,48169,County Seat,Post,,Garza,TX
+4828068,,48167,County Seat,Galveston,,Galveston,TX
+4866764,,48165,County Seat,Seminole,,Gaines,TX
+4856384,,48163,County Seat,Pearsall,,Frio,TX
+4825104,,48161,County Seat,Fairfield,,Freestone,TX
+4849860,,48159,County Seat,Mount Vernon,,Franklin,TX
+4861892,,48157,County Seat,Richmond,,Fort Bend,TX
+4817948,,48155,County Seat,Crowell,,Foard,TX
+4826268,,48153,County Seat,Floydada,,Floyd,TX
+4862612,,48151,County Seat,Roby,,Fisher,TX
+4840276,,48149,County Seat,La Grange,,Fayette,TX
+4809328,,48147,County Seat,Bonham,,Fannin,TX
+4846740,,48145,County Seat,Marlin,,Falls,TX
+4870208,,48143,County Seat,Stephenville,,Erath,TX
+4824000,,48141,County Seat,El Paso,,El Paso,TX
+4876816,,48139,County Seat,Waxahachie,,Ellis,TX
+4862816,,48137,County Seat,Rocksprings,,Edwards,TX
+4853388,,48135,County Seat,Odessa,,Ector,TX
+4822132,,48133,County Seat,Eastland,,Eastland,TX
+4865180,,48131,County Seat,San Diego,,Duval,TX
+4815112,,48129,County Seat,Clarendon,,Donley,TX
+4812988,,48127,County Seat,Carrizo Springs,,Dimmit,TX
+4820332,,48125,County Seat,Dickens,,Dickens,TX
+4818092,,48123,County Seat,Cuero,,DeWitt,TX
+4819972,,48121,County Seat,Denton,,Denton,TX
+4816564,,48119,County Seat,Cooper,,Delta,TX
+4833320,,48117,County Seat,Hereford,,Deaf Smith,TX
+4841164,,48115,County Seat,Lamesa,,Dawson,TX
+4819000,,48113,County Seat,Dallas,,Dallas,TX
+4818524,,48111,County Seat,Dalhart,,Dallam,TX
+4875032,,48109,County Seat,Van Horn,,Culberson,TX
+4817768,,48107,County Seat,Crosbyton,,Crosby,TX
+4854552,,48105,County Seat,Ozona,,Crockett,TX
+4817516,,48103,County Seat,Crane,,Crane,TX
+4854600,,48101,County Seat,Paducah,,Cottle,TX
+4829168,,48099,County Seat,Gatesville,,Coryell,TX
+4827984,,48097,County Seat,Gainesville,,Cooke,TX
+4854636,,48095,County Seat,Paint Rock,,Concho,TX
+4816192,,48093,County Seat,Comanche,,Comanche,TX
+4850820,,48091,County Seat,New Braunfels,,Comal,TX
+4816168,,48089,County Seat,Columbus,,Colorado,TX
+4877152,,48087,County Seat,Wellington,,Collingsworth,TX
+4845744,,48085,County Seat,McKinney,,Collin,TX
+4815916,,48083,County Seat,Coleman,,Coleman,TX
+4862564,,48081,County Seat,Robert Lee,,Coke,TX
+4849464,,48079,County Seat,Morton,,Cochran,TX
+4833284,,48077,County Seat,Henrietta,,Clay,TX
+4814668,,48075,County Seat,Childress,,Childress,TX
+4863848,,48073,County Seat,Rusk,,Cherokee,TX
+4803144,,48071,County Seat,Anahuac,,Chambers,TX
+4820464,,48069,County Seat,Dimmitt,,Castro,TX
+4842844,,48067,County Seat,Linden,,Cass,TX
+4854960,,48065,County Seat,Panhandle,,Carson,TX
+4857908,,48063,County Seat,Pittsburg,,Camp,TX
+4810768,,48061,County Seat,Brownsville,,Cameron,TX
+4805336,,48059,County Seat,Baird,,Callahan,TX
+4858916,,48057,County Seat,Port Lavaca,,Calhoun,TX
+4843240,,48055,County Seat,Lockhart,,Caldwell,TX
+4811464,,48053,County Seat,Burnet,,Burnet,TX
+4811836,,48051,County Seat,Caldwell,,Burleson,TX
+4810780,,48049,County Seat,Brownwood,,Brown,TX
+4825368,,48047,County Seat,Falfurrias,,Brooks,TX
+4867904,,48045,County Seat,Silverton,,Briscoe,TX
+4802104,,48043,County Seat,Alpine,,Brewster,TX
+4810912,,48041,County Seat,Bryan,,Brazos,TX
+4803264,,48039,County Seat,Angleton,,Brazoria,TX
+4809592,,48037,County Seat,Boston,,Bowie,TX
+4847760,,48035,County Seat,Meridian,,Bosque,TX
+4827972,,48033,County Seat,Gail,,Borden,TX
+4837780,,48031,County Seat,Johnson City,,Blanco,TX
+4865000,,48029,County Seat,San Antonio,,Bexar,TX
+4807492,,48027,County Seat,Belton,,Bell,TX
+4807192,,48025,County Seat,Beeville,,Bee,TX
+4866968,,48023,County Seat,Seymour,,Baylor,TX
+4805864,,48021,County Seat,Bastrop,,Bastrop,TX
+4805528,,48019,County Seat,Bandera,,Bandera,TX
+4849968,,48017,County Seat,Muleshoe,,Bailey,TX
+4807432,,48015,County Seat,Bellville,,Austin,TX
+4838116,,48013,County Seat,Jourdanton,,Atascosa,TX
+4815196,,48011,County Seat,Claude,,Armstrong,TX
+4803696,,48009,County Seat,Archer City,,Archer,TX
+4862804,,48007,County Seat,Rockport,,Aransas,TX
+4845072,,48005,County Seat,Lufkin,,Angelina,TX
+4803216,,48003,County Seat,Andrews,,Andrews,TX
+4854708,,48001,County Seat,Palestine,,Anderson,TX
+4741520,,47189,County Seat,Lebanon,,Wilson,TN
+4727740,,47187,County Seat,Franklin,,Williamson,TN
+4770180,,47185,County Seat,Sparta,,White,TN
+4721540,,47183,County Seat,Dresden,,Weakley,TN
+4778600,,47181,County Seat,Waynesboro,,Wayne,TN
+4738540,,47179,County Seat,Jonesborough,,Washington,TN
+4745100,,47177,County Seat,McMinnville,,Warren,TN
+4770240,,47175,County Seat,Spencer,,Van Buren,TN
+4746700,,47173,County Seat,Maynardville,,Union,TN
+4724360,,47171,County Seat,Erwin,,Unicoi,TN
+4732720,,47169,County Seat,Hartsville,,Trousdale,TN
+4717680,,47167,County Seat,Covington,,Tipton,TN
+4728540,,47165,County Seat,Gallatin,,Sumner,TN
+4706740,,47163,County Seat,Blountville,,Sullivan,TN
+4721400,,47161,County Seat,Dover,,Stewart,TN
+4711280,,47159,County Seat,Carthage,,Smith,TN
+4748000,,47157,County Seat,Memphis,,Shelby,TN
+4767120,,47155,County Seat,Sevierville,,Sevier,TN
+4722000,,47153,County Seat,Dunlap,,Sequatchie,TN
+4736640,,47151,County Seat,Huntsville,,Scott,TN
+4751560,,47149,County Seat,Murfreesboro,,Rutherford,TN
+4770500,,47147,County Seat,Springfield,,Robertson,TN
+4739620,,47145,County Seat,Kingston,,Roane,TN
+4719700,,47143,County Seat,Dayton,,Rhea,TN
+4716920,,47141,County Seat,Cookeville,,Putnam,TN
+4705040,,47139,County Seat,Benton,,Polk,TN
+4710180,,47137,County Seat,Byrdstown,,Pickett,TN
+4742720,,47135,County Seat,Linden,,Perry,TN
+4743140,,47133,County Seat,Livingston,,Overton,TN
+4775940,,47131,County Seat,Union City,,Obion,TN
+4778100,,47129,County Seat,Wartburg,,Morgan,TN
+4744382,,47127,County Seat,"Lynchburg, Moore County",,Moore,TN
+4715160,,47125,County Seat,Clarksville,,Montgomery,TN
+4745320,,47123,County Seat,Madisonville,,Monroe,TN
+4719880,,47121,County Seat,Decatur,,Meigs,TN
+4716540,,47119,County Seat,Columbia,,Maury,TN
+4741860,,47117,County Seat,Lewisburg,,Marshall,TN
+4737820,,47115,County Seat,Jasper,,Marion,TN
+4737640,,47113,County Seat,Jackson,,Madison,TN
+4740160,,47111,County Seat,Lafayette,,Macon,TN
+4766940,,47109,County Seat,Selmer,,McNairy,TN
+4702320,,47107,County Seat,Athens,,McMinn,TN
+4743780,,47105,County Seat,Loudon,,Loudon,TN
+4725920,,47103,County Seat,Fayetteville,,Lincoln,TN
+4735160,,47101,County Seat,Hohenwald,,Lewis,TN
+4741340,,47099,County Seat,Lawrenceburg,,Lawrence,TN
+4763340,,47097,County Seat,Ripley,,Lauderdale,TN
+4774540,,47095,County Seat,Tiptonville,,Lake,TN
+4740000,,47093,County Seat,Knoxville,,Knox,TN
+4750400,,47091,County Seat,Mountain City,,Johnson,TN
+4719380,,47089,County Seat,Dandridge,,Jefferson,TN
+4728420,,47087,County Seat,Gainesboro,,Jackson,TN
+4778560,,47085,County Seat,Waverly,,Humphreys,TN
+4724320,,47083,County Seat,Erin,,Houston,TN
+4712420,,47081,County Seat,Centerville,,Hickman,TN
+4756720,,47079,County Seat,Paris,,Henry,TN
+4741980,,47077,County Seat,Lexington,,Henderson,TN
+4708920,,47075,County Seat,Brownsville,,Haywood,TN
+4764820,,47073,County Seat,Rogersville,,Hawkins,TN
+4766720,,47071,County Seat,Savannah,,Hardin,TN
+4707180,,47069,County Seat,Bolivar,,Hardeman,TN
+4769460,,47067,County Seat,Sneedville,,Hancock,TN
+4714000,,47065,County Seat,Chattanooga,,Hamilton,TN
+4750280,,47063,County Seat,Morristown,,Hamblen,TN
+4700940,,47061,County Seat,Altamont,,Grundy,TN
+4730980,,47059,County Seat,Greeneville,,Greene,TN
+4765820,,47057,County Seat,Rutledge,,Grainger,TN
+4761040,,47055,County Seat,Pulaski,,Giles,TN
+4775000,,47053,County Seat,Trenton,,Gibson,TN
+4781080,,47051,County Seat,Winchester,,Franklin,TN
+4737780,,47049,County Seat,Jamestown,,Fentress,TN
+4769620,,47047,County Seat,Somerville,,Fayette,TN
+4722200,,47045,County Seat,Dyersburg,,Dyer,TN
+4713080,,47043,County Seat,Charlotte,,Dickson,TN
+4769320,,47041,County Seat,Smithville,,DeKalb,TN
+4719900,,47039,County Seat,Decaturville,,Decatur,TN
+4752006,,47037,State Capital   County Seat,Nashville,,Davidson,TN
+4718540,,47035,County Seat,Crossville,,Cumberland,TN
+4700440,,47033,County Seat,Alamo,,Crockett,TN
+4745500,,47031,County Seat,Manchester,,Coffee,TN
+4753000,,47029,County Seat,Newport,,Cocke,TN
+4712100,,47027,County Seat,Celina,,Clay,TN
+4773120,,47025,County Seat,Tazewell,,Claiborne,TN
+4733260,,47023,County Seat,Henderson,,Chester,TN
+4702180,,47021,County Seat,Ashland City,,Cheatham,TN
+4723500,,47019,County Seat,Elizabethton,,Carter,TN
+4736580,,47017,County Seat,Huntingdon,,Carroll,TN
+4781560,,47015,County Seat,Woodbury,,Cannon,TN
+4737600,,47013,County Seat,Jacksboro,,Campbell,TN
+4715400,,47011,County Seat,Cleveland,,Bradley,TN
+4746380,,47009,County Seat,Maryville,,Blount,TN
+4758120,,47007,County Seat,Pikeville,,Bledsoe,TN
+4710560,,47005,County Seat,Camden,,Benton,TN
+4767760,,47003,County Seat,Shelbyville,,Bedford,TN
+4715580,,47001,County Seat,Clinton,,Anderson,TN
+4617420,,46137,County Seat,Dupree,,Ziebach,SD
+4673060,,46135,County Seat,Yankton,,Yankton,SD
+4658140,,46129,County Seat,Selby,,Walworth,SD
+4618620,,46127,County Seat,Elk Point,,Union,SD
+4648380,,46125,County Seat,Parker,,Turner,SD
+4672180,,46123,County Seat,Winner,,Tripp,SD
+NA,,46121,,NA,,Todd,SD
+4647180,,46119,County Seat,Onida,,Sully,SD
+4622260,,46117,County Seat,Fort Pierre,,Stanley,SD
+4653460,,46115,County Seat,Redfield,,Spink,SD
+NA,,46113,,NA,,Shannon,SD
+4672700,,46111,County Seat,Woonsocket,,Sanborn,SD
+4659260,,46109,County Seat,Sisseton,,Roberts,SD
+4624260,,46107,County Seat,Gettysburg,,Potter,SD
+4605620,,46105,County Seat,Bison,,Perkins,SD
+4652980,,46103,County Seat,Rapid City,,Pennington,SD
+4621540,,46101,County Seat,Flandreau,,Moody,SD
+4659020,,46099,County Seat,Sioux Falls,,Minnehaha,SD
+4630460,,46097,County Seat,Howard,,Miner,SD
+4671340,,46095,County Seat,White River,,Mellette,SD
+4662100,,46093,County Seat,Sturgis,,Meade,SD
+4607380,,46091,County Seat,Britton,,Marshall,SD
+4636460,,46089,County Seat,Leola,,McPherson,SD
+4657340,,46087,County Seat,Salem,,McCook,SD
+4633580,,46085,County Seat,Kennebec,,Lyman,SD
+4609500,,46083,County Seat,Canton,,Lincoln,SD
+4615700,,46081,County Seat,Deadwood,,Lawrence,SD
+4640220,,46079,County Seat,Madison,,Lake,SD
+4616260,,46077,County Seat,De Smet,,Kingsbury,SD
+4644260,,46075,County Seat,Murdo,,Jones,SD
+4670220,,46073,County Seat,Wessington Springs,,Jerauld,SD
+4633180,,46071,County Seat,Kadoka,,Jackson,SD
+4628980,,46069,County Seat,Highmore,,Hyde,SD
+4646900,,46067,County Seat,Olivet,,Hutchinson,SD
+4649600,,46065,State Capital   County Seat,Pierre,,Hughes,SD
+4608140,,46063,County Seat,Buffalo,,Harding,SD
+4600820,,46061,County Seat,Alexandria,,Hanson,SD
+4642460,,46059,County Seat,Miller,,Hand,SD
+4627820,,46057,County Seat,Hayti,,Hamlin,SD
+4649300,,46055,County Seat,Philip,,Haakon,SD
+4608700,,46053,County Seat,Burke,,Gregory,SD
+4642260,,46051,County Seat,Milbank,,Grant,SD
+4621260,,46049,County Seat,Faulkton,,Faulk,SD
+4630220,,46047,County Seat,Hot Springs,,Fall River,SD
+4631860,,46045,County Seat,Ipswich,,Edmunds,SD
+4602260,,46043,County Seat,Armour,,Douglas,SD
+4663620,,46041,County Seat,Timber Lake,,Dewey,SD
+4612540,,46039,County Seat,Clear Lake,,Deuel,SD
+4669780,,46037,County Seat,Webster,,Day,SD
+4643100,,46035,County Seat,Mitchell,,Davison,SD
+4615140,,46033,County Seat,Custer,,Custer,SD
+4639940,,46031,County Seat,McIntosh,,Corson,SD
+4669300,,46029,County Seat,Watertown,,Codington,SD
+4666700,,46027,County Seat,Vermillion,,Clay,SD
+4612180,,46025,County Seat,Clark,,Clark,SD
+4635100,,46023,County Seat,Lake Andes,,Charles Mix,SD
+4644020,,46021,County Seat,Mound City,,Campbell,SD
+4604380,,46019,County Seat,Belle Fourche,,Butte,SD
+4623420,,46017,County Seat,Gannvalley,,Buffalo,SD
+4611220,,46015,County Seat,Chamberlain,,Brule,SD
+4600100,,46013,County Seat,Aberdeen,,Brown,SD
+4607580,,46011,County Seat,Brookings,,Brookings,SD
+4664860,,46009,County Seat,Tyndall,,Bon Homme,SD
+4641100,,46007,County Seat,Martin,,Bennett,SD
+4631060,,46005,County Seat,Huron,,Beadle,SD
+4650020,,46003,County Seat,Plankinton,,Aurora,SD
+4579630,,45091,County Seat,York,,York,SC
+4538590,,45089,County Seat,Kingstree,,Williamsburg,SC
+4573105,,45087,County Seat,Union,,Union,SC
+4570405,,45085,County Seat,Sumter,,Sumter,SC
+4568290,,45083,County Seat,Spartanburg,,Spartanburg,SC
+4563250,,45081,County Seat,Saluda,,Saluda,SC
+4516000,,45079,State Capital   County Seat,Columbia,,Richland,SC
+4556140,,45077,County Seat,Pickens,,Pickens,SC
+4553080,,45075,County Seat,Orangeburg,,Orangeburg,SC
+4574095,,45073,County Seat,Walhalla,,Oconee,SC
+4549570,,45071,County Seat,Newberry,,Newberry,SC
+4505680,,45069,County Seat,Bennettsville,,Marlboro,SC
+4544575,,45067,County Seat,Marion,,Marion,SC
+4543720,,45065,County Seat,McCormick,,McCormick,SC
+4541335,,45063,County Seat,Lexington,,Lexington,SC
+4506310,,45061,County Seat,Bishopville,,Lee,SC
+4540615,,45059,County Seat,Laurens,,Laurens,SC
+4539895,,45057,County Seat,Lancaster,,Lancaster,SC
+4510855,,45055,County Seat,Camden,,Kershaw,SC
+4560280,,45053,County Seat,Ridgeland,,Jasper,SC
+4516405,,45051,County Seat,Conway,,Horry,SC
+4531885,,45049,County Seat,Hampton,,Hampton,SC
+4530895,,45047,County Seat,Greenwood,,Greenwood,SC
+4530850,,45045,County Seat,Greenville,,Greenville,SC
+4528870,,45043,County Seat,Georgetown,,Georgetown,SC
+4525810,,45041,County Seat,Florence,,Florence,SC
+4578460,,45039,County Seat,Winnsboro,,Fairfield,SC
+4522795,,45037,County Seat,Edgefield,,Edgefield,SC
+4562530,,45035,County Seat,Saint George,,Dorchester,SC
+4519420,,45033,County Seat,Dillon,,Dillon,SC
+4518565,,45031,County Seat,Darlington,,Darlington,SC
+4574275,,45029,County Seat,Walterboro,,Colleton,SC
+4544350,,45027,County Seat,Manning,,Clarendon,SC
+4514140,,45025,County Seat,Chesterfield,,Chesterfield,SC
+4514095,,45023,County Seat,Chester,,Chester,SC
+4528060,,45021,County Seat,Gaffney,,Cherokee,SC
+4513330,,45019,County Seat,Charleston,,Charleston,SC
+4562620,,45017,County Seat,Saint Matthews,,Calhoun,SC
+4547275,,45015,County Seat,Moncks Corner,,Berkeley,SC
+4504690,,45013,County Seat,Beaufort,,Beaufort,SC
+4504060,,45011,County Seat,Barnwell,,Barnwell,SC
+4503790,,45009,County Seat,Bamberg,,Bamberg,SC
+4501360,,45007,County Seat,Anderson,,Anderson,SC
+4500955,,45005,County Seat,Allendale,,Allendale,SC
+4500550,,45003,County Seat,Aiken,,Aiken,SC
+4500100,,45001,County Seat,Abbeville,,Abbeville,SC
+4478080,,44009,County Seat,West Kingston,,Washington,RI
+4459000,,44007,State Capital   County Seat,Providence,,Providence,RI
+4449960,,44005,County Seat,Newport,,Newport,RI
+4422420,,44003,County Seat,East Greenwich,,Kent,RI
+4409460,,44001,County Seat,Bristol,,Bristol,RI
+4287048,,42133,County Seat,York,,York,PA
+4277784,,42131,County Seat,Tunkhannock,,Wyoming,PA
+4231200,,42129,County Seat,Greensburg,,Westmoreland,PA
+4235520,,42127,County Seat,Honesdale,,Wayne,PA
+4281328,,42125,County Seat,Washington,,Washington,PA
+4281000,,42123,County Seat,Warren,,Warren,PA
+4227456,,42121,County Seat,Franklin,,Venango,PA
+4242976,,42119,County Seat,Lewisburg,,Union,PA
+4282160,,42117,County Seat,Wellsboro,,Tioga,PA
+4250736,,42115,County Seat,Montrose,,Susquehanna,PA
+4241512,,42113,County Seat,Laporte,,Sullivan,PA
+4271776,,42111,County Seat,Somerset,,Somerset,PA
+4248960,,42109,County Seat,Middleburg,,Snyder,PA
+4262432,,42107,County Seat,Pottsville,,Schuylkill,PA
+4216448,,42105,County Seat,Coudersport,,Potter,PA
+4249400,,42103,County Seat,Milford,,Pike,PA
+4260000,,42101,County Seat,Philadelphia,,Philadelphia,PA
+4207040,,42099,County Seat,Bloomfield,,Perry,PA
+4275304,,42097,County Seat,Sunbury,,Northumberland,PA
+4221648,,42095,County Seat,Easton,,Northampton,PA
+4218136,,42093,County Seat,Danville,,Montour,PA
+4254656,,42091,County Seat,Norristown,,Montgomery,PA
+4274888,,42089,County Seat,Stroudsburg,,Monroe,PA
+4243000,,42087,County Seat,Lewistown,,Mifflin,PA
+4248696,,42085,County Seat,Mercer,,Mercer,PA
+4271248,,42083,County Seat,Smethport,,McKean,PA
+4285312,,42081,County Seat,Williamsport,,Lycoming,PA
+4285152,,42079,County Seat,Wilkes-Barre,,Luzerne,PA
+4202000,,42077,County Seat,Allentown,,Lehigh,PA
+4242168,,42075,County Seat,Lebanon,,Lebanon,PA
+4253368,,42073,County Seat,New Castle,,Lawrence,PA
+4241216,,42071,County Seat,Lancaster,,Lancaster,PA
+4269000,,42069,County Seat,Scranton,,Lackawanna,PA
+4249304,,42067,County Seat,Mifflintown,,Juniata,PA
+4209224,,42065,County Seat,Brookville,,Jefferson,PA
+4236816,,42063,County Seat,Indiana,,Indiana,PA
+4236368,,42061,County Seat,Huntingdon,,Huntingdon,PA
+4281832,,42059,County Seat,Waynesburg,,Greene,PA
+4246000,,42057,County Seat,McConnellsburg,,Fulton,PA
+4212536,,42055,County Seat,Chambersburg,,Franklin,PA
+4276848,,42053,County Seat,Tionesta,,Forest,PA
+4278528,,42051,County Seat,Uniontown,,Fayette,PA
+4224000,,42049,County Seat,Erie,,Erie,PA
+4264784,,42047,County Seat,Ridgway,,Elk,PA
+4248480,,42045,County Seat,Media,,Delaware,PA
+4232800,,42043,State Capital   County Seat,Harrisburg,,Dauphin,PA
+4211272,,42041,County Seat,Carlisle,,Cumberland,PA
+4248360,,42039,County Seat,Meadville,,Crawford,PA
+4207128,,42037,County Seat,Bloomsburg,,Columbia,PA
+4244128,,42035,County Seat,Lock Haven,,Clinton,PA
+4214064,,42033,County Seat,Clearfield,,Clearfield,PA
+4213800,,42031,County Seat,Clarion,,Clarion,PA
+4282704,,42029,County Seat,West Chester,,Chester,PA
+4205256,,42027,County Seat,Bellefonte,,Centre,PA
+4238200,,42025,County Seat,Jim Thorpe,,Carbon,PA
+4223600,,42023,County Seat,Emporium,,Cameron,PA
+4222144,,42021,County Seat,Ebensburg,,Cambria,PA
+4210464,,42019,County Seat,Butler,,Butler,PA
+4219784,,42017,County Seat,Doylestown,,Bucks,PA
+4277168,,42015,County Seat,Towanda,,Bradford,PA
+4235224,,42013,County Seat,Hollidaysburg,,Blair,PA
+4263624,,42011,County Seat,Reading,,Berks,PA
+4204944,,42009,County Seat,Bedford,,Bedford,PA
+4204688,,42007,County Seat,Beaver,,Beaver,PA
+4240040,,42005,County Seat,Kittanning,,Armstrong,PA
+4261000,,42003,County Seat,Pittsburgh,,Allegheny,PA
+4228960,,42001,County Seat,Gettysburg,,Adams,PA
+4145000,,41071,County Seat,McMinnville,,Yamhill,OR
+4126650,,41069,County Seat,Fossil,,Wheeler,OR
+4134100,,41067,County Seat,Hillsboro,,Washington,OR
+4113425,,41065,County Seat,City of the Dalles,,Wasco,OR
+4123500,,41063,County Seat,Enterprise,,Wallowa,OR
+4140350,,41061,County Seat,La Grande,,Union,OR
+4157150,,41059,County Seat,Pendleton,,Umatilla,OR
+4173700,,41057,County Seat,Tillamook,,Tillamook,OR
+4150000,,41055,County Seat,Moro,,Sherman,OR
+4117700,,41053,County Seat,Dallas,,Polk,OR
+4159000,,41051,County Seat,Portland,,Multnomah,OR
+4133550,,41049,County Seat,Heppner,,Morrow,OR
+4164900,,41047,State Capital   County Seat,Salem,,Marion,OR
+4176600,,41045,County Seat,Vale,,Malheur,OR
+4101000,,41043,County Seat,Albany,,Linn,OR
+4152450,,41041,County Seat,Newport,,Lincoln,OR
+4123850,,41039,County Seat,Eugene,,Lane,OR
+4140700,,41037,County Seat,Lakeview,,Lake,OR
+4139700,,41035,County Seat,Klamath Falls,,Klamath,OR
+4130550,,41033,County Seat,Grants Pass,,Josephine,OR
+4145250,,41031,County Seat,Madras,,Jefferson,OR
+4147000,,41029,County Seat,Medford,,Jackson,OR
+4134900,,41027,County Seat,Hood River,,Hood River,OR
+4109800,,41025,County Seat,Burns,,Harney,OR
+4110950,,41023,County Seat,Canyon City,,Grant,OR
+4115000,,41021,County Seat,Condon,,Gilliam,OR
+4163650,,41019,County Seat,Roseburg,,Douglas,OR
+4105800,,41017,County Seat,Bend,,Deschutes,OR
+4129900,,41015,County Seat,Gold Beach,,Curry,OR
+4159850,,41013,County Seat,Prineville,,Crook,OR
+4115350,,41011,County Seat,Coquille,,Coos,OR
+4164600,,41009,County Seat,Saint Helens,,Columbia,OR
+4103150,,41007,County Seat,Astoria,,Clatsop,OR
+4155200,,41005,County Seat,Oregon City,,Clackamas,OR
+4115800,,41003,County Seat,Corvallis,,Benton,OR
+4103650,,41001,County Seat,Baker City,,Baker,OR
+4082150,,40153,County Seat,Woodward,,Woodward,OK
+4001800,,40151,County Seat,Alva,,Woods,OK
+4051250,,40149,County Seat,New Cordell,,Washita,OK
+4004450,,40147,County Seat,Bartlesville,,Washington,OK
+4077850,,40145,County Seat,Wagoner,,Wagoner,OK
+4075000,,40143,County Seat,Tulsa,,Tulsa,OK
+4027800,,40141,County Seat,Frederick,,Tillman,OK
+4031750,,40139,County Seat,Guymon,,Texas,OK
+4021900,,40137,County Seat,Duncan,,Stephens,OK
+4065000,,40135,County Seat,Sallisaw,,Sequoyah,OK
+4080550,,40133,County Seat,Wewoka,,Seminole,OK
+4014700,,40131,County Seat,Claremore,,Rogers,OK
+4013900,,40129,County Seat,Cheyenne,,Roger Mills,OK
+4002250,,40127,County Seat,Antlers,,Pushmataha,OK
+4066800,,40125,County Seat,Shawnee,,Pottawatomie,OK
+4000200,,40123,County Seat,Ada,,Pontotoc,OK
+4044800,,40121,County Seat,McAlester,,Pittsburg,OK
+4070300,,40119,County Seat,Stillwater,,Payne,OK
+4057650,,40117,County Seat,Pawnee,,Pawnee,OK
+4048000,,40115,County Seat,Miami,,Ottawa,OK
+4057600,,40113,County Seat,Pawhuska,,Osage,OK
+4055150,,40111,County Seat,Okmulgee,,Okmulgee,OK
+4055000,,40109,State Capital   County Seat,Oklahoma City,,Oklahoma,OK
+4054200,,40107,County Seat,Okemah,,Okfuskee,OK
+4052900,,40105,County Seat,Nowata,,Nowata,OK
+4058250,,40103,County Seat,Perry,,Noble,OK
+4050050,,40101,County Seat,Muskogee,,Muskogee,OK
+4071350,,40099,County Seat,Sulphur,,Murray,OK
+4061000,,40097,County Seat,Pryor,,Mayes,OK
+4045750,,40095,County Seat,Madill,,Marshall,OK
+4025100,,40093,County Seat,Fairview,,Major,OK
+4024650,,40091,County Seat,Eufaula,,McIntosh,OK
+4036750,,40089,County Seat,Idabel,,McCurtain,OK
+4061150,,40087,County Seat,Purcell,,McClain,OK
+4046500,,40085,County Seat,Marietta,,Love,OK
+4031700,,40083,County Seat,Guthrie,,Logan,OK
+4013500,,40081,County Seat,Chandler,,Lincoln,OK
+4060350,,40079,County Seat,Poteau,,Le Flore,OK
+4081000,,40077,County Seat,Wilburton,,Latimer,OK
+4035000,,40075,County Seat,Hobart,,Kiowa,OK
+4039850,,40073,County Seat,Kingfisher,,Kingfisher,OK
+4051300,,40071,County Seat,Newkirk,,Kay,OK
+4073900,,40069,County Seat,Tishomingo,,Johnston,OK
+4079250,,40067,County Seat,Waurika,,Jefferson,OK
+4001700,,40065,County Seat,Altus,,Jackson,OK
+4035400,,40063,County Seat,Holdenville,,Hughes,OK
+4070250,,40061,County Seat,Stigler,,Haskell,OK
+4009850,,40059,County Seat,Buffalo,,Harper,OK
+4035500,,40057,County Seat,Hollis,,Harmon,OK
+4046050,,40055,County Seat,Mangum,,Greer,OK
+4047300,,40053,County Seat,Medford,,Grant,OK
+4013950,,40051,County Seat,Chickasha,,Grady,OK
+4057550,,40049,County Seat,Pauls Valley,,Garvin,OK
+4023950,,40047,County Seat,Enid,,Garfield,OK
+4002800,,40045,County Seat,Arnett,,Ellis,OK
+4072350,,40043,County Seat,Taloga,,Dewey,OK
+4037650,,40041,County Seat,Jay,,Delaware,OK
+4002500,,40039,County Seat,Arapaho,,Custer,OK
+4065400,,40037,County Seat,Sapulpa,,Creek,OK
+4077550,,40035,County Seat,Vinita,,Craig,OK
+4078150,,40033,County Seat,Walters,,Cotton,OK
+4041850,,40031,County Seat,Lawton,,Comanche,OK
+4015800,,40029,County Seat,Coalgate,,Coal,OK
+4052500,,40027,County Seat,Norman,,Cleveland,OK
+4007300,,40025,County Seat,Boise City,,Cimarron,OK
+4036300,,40023,County Seat,Hugo,,Choctaw,OK
+4072100,,40021,County Seat,Tahlequah,,Cherokee,OK
+4002600,,40019,County Seat,Ardmore,,Carter,OK
+4023700,,40017,County Seat,El Reno,,Canadian,OK
+4002050,,40015,County Seat,Anadarko,,Caddo,OK
+4022050,,40013,County Seat,Durant,,Bryan,OK
+4078950,,40011,County Seat,Watonga,,Blaine,OK
+4065700,,40009,County Seat,Sayre,,Beckham,OK
+4004750,,40007,County Seat,Beaver,,Beaver,OK
+4003300,,40005,County Seat,Atoka,,Atoka,OK
+4013750,,40003,County Seat,Cherokee,,Alfalfa,OK
+4070350,,40001,County Seat,Stilwell,,Adair,OK
+3979044,,39175,County Seat,Upper Sandusky,,Wyandot,OH
+3907972,,39173,County Seat,Bowling Green,,Wood,OH
+3909792,,39171,County Seat,Bryan,,Williams,OH
+3986548,,39169,County Seat,Wooster,,Wayne,OH
+3947628,,39167,County Seat,Marietta,,Washington,OH
+3942364,,39165,County Seat,Lebanon,,Warren,OH
+3945696,,39163,County Seat,McArthur,,Vinton,OH
+3979562,,39161,County Seat,Van Wert,,Van Wert,OH
+3948160,,39159,County Seat,Marysville,,Union,OH
+3955216,,39157,County Seat,New Philadelphia,,Tuscarawas,OH
+3980892,,39155,County Seat,Warren,,Trumbull,OH
+3901000,,39153,County Seat,Akron,,Summit,OH
+3912000,,39151,County Seat,Canton,,Stark,OH
+3972424,,39149,County Seat,Sidney,,Shelby,OH
+3976778,,39147,County Seat,Tiffin,,Seneca,OH
+3964304,,39145,County Seat,Portsmouth,,Scioto,OH
+3928826,,39143,County Seat,Fremont,,Sandusky,OH
+3914184,,39141,County Seat,Chillicothe,,Ross,OH
+3947138,,39139,County Seat,Mansfield,,Richland,OH
+3958982,,39137,County Seat,Ottawa,,Putnam,OH
+3924234,,39135,County Seat,Eaton,,Preble,OH
+3965592,,39133,County Seat,Ravenna,,Portage,OH
+3981942,,39131,County Seat,Waverly City,,Pike,OH
+3915070,,39129,County Seat,Circleville,,Pickaway,OH
+3954866,,39127,County Seat,New Lexington,,Perry,OH
+3961252,,39125,County Seat,Paulding,,Paulding,OH
+3964150,,39123,County Seat,Port Clinton,,Ottawa,OH
+3910940,,39121,County Seat,Caldwell,,Noble,OH
+3988084,,39119,County Seat,Zanesville,,Muskingum,OH
+3952738,,39117,County Seat,Mount Gilead,,Morrow,OH
+3945822,,39115,County Seat,McConnelsville,,Morgan,OH
+3921000,,39113,County Seat,Dayton,,Montgomery,OH
+3986436,,39111,County Seat,Woodsfield,,Monroe,OH
+3977588,,39109,County Seat,Troy,,Miami,OH
+3912868,,39107,County Seat,Celina,,Mercer,OH
+3964024,,39105,County Seat,Pomeroy,,Meigs,OH
+3948790,,39103,County Seat,Medina,,Medina,OH
+3947754,,39101,County Seat,Marion,,Marion,OH
+3988000,,39099,County Seat,Youngstown,,Mahoning,OH
+3944674,,39097,County Seat,London,,Madison,OH
+3977000,,39095,County Seat,Toledo,,Lucas,OH
+3925256,,39093,County Seat,Elyria,,Lorain,OH
+3905130,,39091,County Seat,Bellefontaine,,Logan,OH
+3954040,,39089,County Seat,Newark,,Licking,OH
+3937464,,39087,County Seat,Ironton,,Lawrence,OH
+3959416,,39085,County Seat,Painesville,,Lake,OH
+3953102,,39083,County Seat,Mount Vernon,,Knox,OH
+3974608,,39081,County Seat,Steubenville,,Jefferson,OH
+3937842,,39079,County Seat,Jackson,,Jackson,OH
+3957302,,39077,County Seat,Norwalk,,Huron,OH
+3950372,,39075,County Seat,Millersburg,,Holmes,OH
+3944632,,39073,County Seat,Logan,,Hocking,OH
+3935560,,39071,County Seat,Hillsboro,,Highland,OH
+3953550,,39069,County Seat,Napoleon,,Henry,OH
+3910800,,39067,County Seat,Cadiz,,Harrison,OH
+3939886,,39065,County Seat,Kenton,,Hardin,OH
+3927048,,39063,County Seat,Findlay,,Hancock,OH
+3915000,,39061,County Seat,Cincinnati,,Hamilton,OH
+3910996,,39059,County Seat,Cambridge,,Guernsey,OH
+3986772,,39057,County Seat,Xenia,,Greene,OH
+3913554,,39055,County Seat,Chardon,,Geauga,OH
+3929204,,39053,County Seat,Gallipolis,,Gallia,OH
+3981928,,39051,County Seat,Wauseon,,Fulton,OH
+3918000,,39049,State Capital   County Seat,Columbus,,Franklin,OH
+3981214,,39047,County Seat,Washington Court House,,Fayette,OH
+3941720,,39045,County Seat,Lancaster,,Fairfield,OH
+3970380,,39043,County Seat,Sandusky,,Erie,OH
+3921434,,39041,County Seat,Delaware,,Delaware,OH
+3921308,,39039,County Seat,Defiance,,Defiance,OH
+3932340,,39037,County Seat,Greenville,,Darke,OH
+3916000,,39035,County Seat,Cleveland,,Cuyahoga,OH
+3910030,,39033,County Seat,Bucyrus,,Crawford,OH
+3918868,,39031,County Seat,Coshocton,,Coshocton,OH
+3944030,,39029,County Seat,Lisbon,,Columbiana,OH
+3985792,,39027,County Seat,Wilmington,,Clinton,OH
+3904150,,39025,County Seat,Batavia,,Clermont,OH
+3974118,,39023,County Seat,Springfield,,Clark,OH
+3979072,,39021,County Seat,Urbana,,Champaign,OH
+3912280,,39019,County Seat,Carrollton,,Carroll,OH
+3933012,,39017,County Seat,Hamilton,,Butler,OH
+3929778,,39015,County Seat,Georgetown,,Brown,OH
+3969526,,39013,County Seat,Saint Clairsville,,Belmont,OH
+3980766,,39011,County Seat,Wapakoneta,,Auglaize,OH
+3902736,,39009,County Seat,Athens,,Athens,OH
+3938500,,39007,County Seat,Jefferson,,Ashtabula,OH
+3902568,,39005,County Seat,Ashland,,Ashland,OH
+3943554,,39003,County Seat,Lima,,Allen,OH
+3984294,,39001,County Seat,West Union,,Adams,OH
+3886220,,38105,County Seat,Williston,,Williams,ND
+3826180,,38103,County Seat,Fessenden,,Wells,ND
+3853380,,38101,County Seat,Minot,,Ward,ND
+3831820,,38099,County Seat,Grafton,,Walsh,ND
+3838100,,38097,County Seat,Hillsboro,,Traill,ND
+3811860,,38095,County Seat,Cando,,Towner,ND
+3840580,,38093,County Seat,Jamestown,,Stutsman,ND
+3826420,,38091,County Seat,Finley,,Steele,ND
+3819620,,38089,County Seat,Dickinson,,Stark,ND
+3802060,,38087,County Seat,Amidon,,Slope,ND
+3827860,,38085,County Seat,Fort Yates,,Sioux,ND
+3849020,,38083,County Seat,McClusky,,Sheridan,ND
+3827260,,38081,County Seat,Forman,,Sargent,ND
+3867820,,38079,County Seat,Rolla,,Rolette,ND
+3882660,,38077,County Seat,Wahpeton,,Richland,ND
+3853780,,38075,County Seat,Mohall,,Renville,ND
+3847100,,38073,County Seat,Lisbon,,Ransom,ND
+3819420,,38071,County Seat,Devils Lake,,Ramsey,ND
+3868860,,38069,County Seat,Rugby,,Pierce,ND
+3812940,,38067,County Seat,Cavalier,,Pembina,ND
+3813180,,38065,County Seat,Center,,Oliver,ND
+3844300,,38063,County Seat,Lakota,,Nelson,ND
+3875380,,38061,County Seat,Stanley,,Mountrail,ND
+3849900,,38059,County Seat,Mandan,,Morton,ND
+3875420,,38057,County Seat,Stanton,,Mercer,ND
+3883700,,38055,County Seat,Washburn,,McLean,ND
+3883860,,38053,County Seat,Watford City,,McKenzie,ND
+3803540,,38051,County Seat,Ashley,,McIntosh,ND
+3879420,,38049,County Seat,Towner,,McHenry,ND
+3855420,,38047,County Seat,Napoleon,,Logan,ND
+3844540,,38045,County Seat,LaMoure,,LaMoure,ND
+3875780,,38043,County Seat,Steele,,Kidder,ND
+3854620,,38041,County Seat,Mott,,Hettinger,ND
+3815900,,38039,County Seat,Cooperstown,,Griggs,ND
+3812460,,38037,County Seat,Carson,,Grant,ND
+3832060,,38035,County Seat,Grand Forks,,Grand Forks,ND
+3805420,,38033,County Seat,Beach,,Golden Valley,ND
+3812340,,38031,County Seat,Carrington,,Foster,ND
+3846980,,38029,County Seat,Linton,,Emmons,ND
+3856620,,38027,County Seat,New Rockford,,Eddy,ND
+3850220,,38025,County Seat,Manning,,Dunn,ND
+3816940,,38023,County Seat,Crosby,,Divide,ND
+3823220,,38021,County Seat,Ellendale,,Dickey,ND
+3844780,,38019,County Seat,Langdon,,Cavalier,ND
+3825700,,38017,County Seat,Fargo,,Cass,ND
+3807200,,38015,State Capital   County Seat,Bismarck,,Burleigh,ND
+3808500,,38013,County Seat,Bowbells,,Burke,ND
+3808700,,38011,County Seat,Bowman,,Bowman,ND
+3808460,,38009,County Seat,Bottineau,,Bottineau,ND
+3851900,,38007,County Seat 2,Medora,,Billings,ND
+3853220,,38005,County Seat,Minnewaukan,,Benson,ND
+3881180,,38003,County Seat,Valley City,,Barnes,ND
+3837700,,38001,County Seat,Hettinger,,Adams,ND
+3709140,,37199,County Seat,Burnsville,,Yancey,NC
+3775960,,37197,County Seat,Yadkinville,,Yadkin,NC
+3774540,,37195,County Seat,Wilson,,Wilson,NC
+3774020,,37193,County Seat,Wilkesboro,,Wilkes,NC
+3726880,,37191,County Seat,Goldsboro,,Wayne,NC
+3707080,,37189,County Seat,Boone,,Watauga,NC
+3753040,,37187,County Seat,Plymouth,,Washington,NC
+3771100,,37185,County Seat,Warrenton,,Warren,NC
+3755000,,37183,State Capital   County Seat,Raleigh,,Wake,NC
+3730660,,37181,County Seat,Henderson,,Vance,NC
+3743920,,37179,County Seat,Monroe,,Union,NC
+3713940,,37177,County Seat,Columbia,,Tyrrell,NC
+3707720,,37175,County Seat,Brevard,,Transylvania,NC
+3708480,,37173,County Seat,Bryson City,,Swain,NC
+3717340,,37171,County Seat,Dobson,,Surry,NC
+3716240,,37169,County Seat,Danbury,,Stokes,NC
+3700680,,37167,County Seat,Albemarle,,Stanly,NC
+3737220,,37165,County Seat,Laurinburg,,Scotland,NC
+3713240,,37163,County Seat,Clinton,,Sampson,NC
+3758460,,37161,County Seat,Rutherfordton,,Rutherford,NC
+3758860,,37159,County Seat,Salisbury,,Rowan,NC
+3771900,,37157,County Seat,Wentworth,,Rockingham,NC
+3739700,,37155,County Seat,Lumberton,,Robeson,NC
+3757260,,37153,County Seat,Rockingham,,Richmond,NC
+3702080,,37151,County Seat,Asheboro,,Randolph,NC
+3713980,,37149,County Seat,Columbus,,Polk,NC
+3728080,,37147,County Seat,Greenville,,Pitt,NC
+3758160,,37145,County Seat,Roxboro,,Person,NC
+3730900,,37143,County Seat,Hertford,,Perquimans,NC
+3708960,,37141,County Seat,Burgaw,,Pender,NC
+3720580,,37139,County Seat,Elizabeth City,,Pasquotank,NC
+3703960,,37137,County Seat,Bayboro,,Pamlico,NC
+3731620,,37135,County Seat,Hillsborough,,Orange,NC
+3734200,,37133,County Seat,Jacksonville,,Onslow,NC
+3734000,,37131,County Seat,Jackson,,Northampton,NC
+3774440,,37129,County Seat,Wilmington,,New Hanover,NC
+3746000,,37127,County Seat,Nashville,,Nash,NC
+3710680,,37125,County Seat,Carthage,,Moore,NC
+3768520,,37123,County Seat,Troy,,Montgomery,NC
+3703100,,37121,County Seat,Bakersville,,Mitchell,NC
+3712000,,37119,County Seat,Charlotte,,Mecklenburg,NC
+3774220,,37117,County Seat,Williamston,,Martin,NC
+3741580,,37115,County Seat,Marshall,,Madison,NC
+3724640,,37113,County Seat,Franklin,,Macon,NC
+3741420,,37111,County Seat,Marion,,McDowell,NC
+3738320,,37109,County Seat,Lincolnton,,Lincoln,NC
+3735920,,37107,County Seat,Kinston,,Lenoir,NC
+3759280,,37105,County Seat,Sanford,,Lee,NC
+3768320,,37103,County Seat,Trenton,,Jones,NC
+3762520,,37101,County Seat,Smithfield,,Johnston,NC
+3766500,,37099,County Seat,Sylva,,Jackson,NC
+3764740,,37097,County Seat,Statesville,,Iredell,NC
+3766340,,37095,County Seat,Swanquarter,,Hyde,NC
+3754580,,37093,County Seat,Raeford,,Hoke,NC
+3775080,,37091,County Seat,Winton,,Hertford,NC
+3730720,,37089,County Seat,Hendersonville,,Henderson,NC
+3771500,,37087,County Seat,Waynesville,,Haywood,NC
+3738220,,37085,County Seat,Lillington,,Harnett,NC
+3728920,,37083,County Seat,Halifax,,Halifax,NC
+3728000,,37081,County Seat,Greensboro,,Guilford,NC
+3762760,,37079,County Seat,Snow Hill,,Greene,NC
+3749800,,37077,County Seat,Oxford,,Granville,NC
+3757020,,37075,County Seat,Robbinsville,,Graham,NC
+3725680,,37073,County Seat,Gatesville,,Gates,NC
+3725580,,37071,County Seat,Gastonia,,Gaston,NC
+3739360,,37069,County Seat,Louisburg,,Franklin,NC
+3775000,,37067,County Seat,Winston-Salem,,Forsyth,NC
+3766700,,37065,County Seat,Tarboro,,Edgecombe,NC
+3719000,,37063,County Seat,Durham,,Durham,NC
+3735460,,37061,County Seat,Kenansville,,Duplin,NC
+3743720,,37059,County Seat,Mocksville,,Davie,NC
+3738060,,37057,County Seat,Lexington,,Davidson,NC
+3741060,,37055,County Seat,Manteo,,Dare,NC
+3716000,,37053,County Seat,Currituck,,Currituck,NC
+3722920,,37051,County Seat,Fayetteville,,Cumberland,NC
+3746340,,37049,County Seat,New Bern,,Craven,NC
+3773660,,37047,County Seat,Whiteville,,Columbus,NC
+3761200,,37045,County Seat,Shelby,,Cleveland,NC
+3730280,,37043,County Seat,Hayesville,,Clay,NC
+3720120,,37041,County Seat,Edenton,,Chowan,NC
+3745660,,37039,County Seat,Murphy,,Cherokee,NC
+3752660,,37037,County Seat,Pittsboro,,Chatham,NC
+3747000,,37035,County Seat,Newton,,Catawba,NC
+3776000,,37033,County Seat,Yanceyville,,Caswell,NC
+3704260,,37031,County Seat,Beaufort,,Carteret,NC
+3709780,,37029,County Seat,Camden,,Camden,NC
+3737760,,37027,County Seat,Lenoir,,Caldwell,NC
+3714100,,37025,County Seat,Concord,,Cabarrus,NC
+3744400,,37023,County Seat,Morganton,,Burke,NC
+3702140,,37021,County Seat,Asheville,,Buncombe,NC
+3763400,,37019,County Seat,Southport,,Brunswick,NC
+3720600,,37017,County Seat,Elizabethtown,,Bladen,NC
+3774680,,37015,County Seat,Windsor,,Bertie,NC
+3771220,,37013,County Seat,Washington,,Beaufort,NC
+3746740,,37011,County Seat,Newland,,Avery,NC
+3734440,,37009,County Seat,Jefferson,,Ashe,NC
+3770380,,37007,County Seat,Wadesboro,,Anson,NC
+3763680,,37005,County Seat,Sparta,,Alleghany,NC
+3766960,,37003,County Seat,Taylorsville,,Alexander,NC
+3727280,,37001,County Seat,Graham,,Alamance,NC
+3657177,,36123,County Seat,Penn Yan,,Yates,NY
+3678333,,36121,County Seat,Warsaw,,Wyoming,NY
+3681677,,36119,County Seat,White Plains,,Westchester,NY
+3643962,,36117,County Seat,Lyons,,Wayne,NY
+3635980,,36115,County Seat,Hudson Falls,,Washington,NY
+3640508,,36113,County Seat,Lake George,,Warren,NY
+3639727,,36111,County Seat,Kingston,,Ulster,NY
+3638077,,36109,County Seat,Ithaca,,Tompkins,NY
+3655882,,36107,County Seat,Owego,,Tioga,NY
+3648175,,36105,County Seat,Monticello,,Sullivan,NY
+3661973,,36103,County Seat,Riverhead,,Suffolk,NY
+3604759,,36101,County Seat,Bath,,Steuben,NY
+3678553,,36099,County Seat,Waterloo,,Seneca,NY
+3678696,,36097,County Seat,Watkins Glen,,Schuyler,NY
+3665585,,36095,County Seat,Schoharie,,Schoharie,NY
+3665508,,36093,County Seat,Schenectady,,Schenectady,NY
+3604253,,36091,County Seat,Ballston Spa,,Saratoga,NY
+3612331,,36089,County Seat,Canton,,Saint Lawrence,NY
+3650100,,36087,County Seat,New City,,Rockland,NY
+3651000,,36085,,New York,,Richmond,NY
+3675484,,36083,County Seat,Troy,,Rensselaer,NY
+3651000,,36081,,New York,,Queens,NY
+3612518,,36079,County Seat,Carmel,,Putnam,NY
+3618047,,36077,County Seat,Cooperstown,,Otsego,NY
+3655574,,36075,County Seat,Oswego,,Oswego,NY
+3601033,,36073,County Seat,Albion,,Orleans,NY
+3629542,,36071,County Seat,Goshen,,Orange,NY
+3612144,,36069,County Seat,Canandaigua,,Ontario,NY
+3673000,,36067,County Seat,Syracuse,,Onondaga,NY
+3676540,,36065,County Seat,Utica,,Oneida,NY
+3643082,,36063,County Seat,Lockport,,Niagara,NY
+3651000,,36061,County Seat,New York,,New York,NY
+3647636,,36059,County Seat,Mineola,,Nassau,NY
+3626462,,36057,County Seat,Fonda,,Montgomery,NY
+3663000,,36055,County Seat,Rochester,,Monroe,NY
+3678113,,36053,County Seat,Wampsville,,Madison,NY
+3628618,,36051,County Seat,Geneseo,,Livingston,NY
+3643720,,36049,County Seat,Lowville,,Lewis,NY
+3651000,,36047,,New York,,Kings,NY
+3678608,,36045,County Seat,Watertown,,Jefferson,NY
+3634121,,36043,County Seat,Herkimer,,Herkimer,NY
+3640783,,36041,County Seat,Lake Pleasant,,Hamilton,NY
+3613002,,36039,County Seat,Catskill,,Greene,NY
+3604715,,36037,County Seat,Batavia,,Genesee,NY
+3638781,,36035,County Seat,Johnstown,,Fulton,NY
+3644710,,36033,County Seat,Malone,,Franklin,NY
+3623822,,36031,County Seat,Elizabethtown,,Essex,NY
+3611000,,36029,County Seat,Buffalo,,Erie,NY
+3659641,,36027,County Seat,Poughkeepsie,,Dutchess,NY
+3620126,,36025,County Seat,Delhi,,Delaware,NY
+3618388,,36023,County Seat,Cortland,,Cortland,NY
+3635969,,36021,County Seat,Hudson,,Columbia,NY
+3658574,,36019,County Seat,Plattsburgh,,Clinton,NY
+3653979,,36017,County Seat,Norwich,,Chenango,NY
+3624229,,36015,County Seat,Elmira,,Chemung,NY
+3646239,,36013,County Seat,Mayville,,Chautauqua,NY
+3603078,,36011,County Seat,Auburn,,Cayuga,NY
+3642829,,36009,County Seat,Little Valley,,Cattaraugus,NY
+3606607,,36007,County Seat,Binghamton,,Broome,NY
+3651000,,36005,,New York,,Bronx,NY
+3605815,,36003,County Seat,Belmont,,Allegany,NY
+3601000,,36001,State Capital   County Seat,Albany,,Albany,NY
+3543370,,35061,County Seat,Los Lunas,,Valencia,NM
+3515720,,35059,County Seat,Clayton,,Union,NM
+3525380,,35057,County Seat,Estancia,,Torrance,NM
+3576200,,35055,County Seat,Taos,,Taos,NM
+3573540,,35053,County Seat,Socorro,,Socorro,NM
+3579840,,35051,County Seat,Truth or Consequences,,Sierra,NM
+3570500,,35049,State Capital   County Seat,Santa Fe,,Santa Fe,NM
+3539940,,35047,County Seat,Las Vegas,,San Miguel,NM
+3505780,,35045,County Seat,Aztec,,San Juan,NM
+3506970,,35043,County Seat,Bernalillo,,Sandoval,NM
+3559260,,35041,County Seat,Portales,,Roosevelt,NM
+3577670,,35039,County Seat,Tierra Amarilla,,Rio Arriba,NM
+3579910,,35037,County Seat,Tucumcari,,Quay,NM
+3501780,,35035,County Seat,Alamogordo,,Otero,NM
+3550090,,35033,County Seat,Mora,,Mora,NM
+3528460,,35031,County Seat,Gallup,,McKinley,NM
+3520270,,35029,County Seat,Deming,,Luna,NM
+3542320,,35028,County Seat,Los Alamos,,Los Alamos,NM
+3512500,,35027,County Seat,Carrizozo,,Lincoln,NM
+3544490,,35025,County Seat,Lovington,,Lea,NM
+3542180,,35023,County Seat,Lordsburg,,Hidalgo,NM
+3550300,,35021,County Seat,Mosquero,,Harding,NM
+3570670,,35019,County Seat,Santa Rosa,,Guadalupe,NM
+3573260,,35017,County Seat,Silver City,,Grant,NM
+3512150,,35015,County Seat,Carlsbad,,Eddy,NM
+3539380,,35013,County Seat,Las Cruces,,Dona Ana,NM
+3527340,,35011,County Seat,Fort Sumner,,DeBaca,NM
+3516420,,35009,County Seat,Clovis,,Curry,NM
+3562060,,35007,County Seat,Raton,,Colfax,NM
+3530490,,35006,County Seat,Grants,,Cibola,NM
+3564930,,35005,County Seat,Roswell,,Chaves,NM
+3562620,,35003,County Seat,Reserve,,Catron,NM
+3502000,,35001,County Seat,Albuquerque,,Bernalillo,NM
+3404990,,34041,County Seat,Belvidere,,Warren,NJ
+3421000,,34039,County Seat,Elizabeth,,Union,NJ
+3451930,,34037,County Seat,Newton,,Sussex,NJ
+3468460,,34035,County Seat,Somerville,,Somerset,NJ
+3465490,,34033,County Seat,Salem,,Salem,NJ
+3457000,,34031,County Seat,Paterson,,Passaic,NJ
+3473110,,34029,County Seat,Toms River,,Ocean,NJ
+3448300,,34027,County Seat,Morristown,,Morris,NJ
+3425200,,34025,County Seat,Freehold,,Monmouth,NJ
+3451210,,34023,County Seat,New Brunswick,,Middlesex,NJ
+3474000,,34021,State Capital   County Seat,Trenton,,Mercer,NJ
+3423700,,34019,County Seat,Flemington,,Hunterdon,NJ
+3436000,,34017,County Seat,Jersey City,,Hudson,NJ
+3482120,,34015,County Seat,Woodbury,,Gloucester,NJ
+3451000,,34013,County Seat,Newark,,Essex,NJ
+3407600,,34011,County Seat,Bridgeton,,Cumberland,NJ
+3410300,,34009,County Seat,Cape May Court House,,Cape May,NJ
+3410000,,34007,County Seat,Camden,,Camden,NJ
+3448870,,34005,County Seat,Mount Holly,,Burlington,NJ
+3428680,,34003,County Seat,Hackensack,,Bergen,NJ
+3444820,,34001,County Seat,Mays Landing,,Atlantic,NJ
+3352500,,33019,County Seat,Newport,,Sullivan,NH
+3318820,,33017,County Seat,Dover,,Strafford,NH
+3325300,,33015,County Seat,Exeter,,Rockingham,NH
+3314200,,33013,State Capital   County Seat,Concord,,Merrimack,NH
+3350260,,33011,County Seat,Nashua,,Hillsborough,NH
+3387140,,33009,County Seat,Woodsville,,Grafton,NH
+3340340,,33007,County Seat,Lancaster,,Coos,NH
+3339300,,33005,County Seat,Keene,,Cheshire,NH
+3358660,,33003,County Seat,Ossipee,,Carroll,NH
+3340180,,33001,County Seat,Laconia,,Belknap,NH
+3209700,,32510,State Capital   County Seat,Carson City,,Carson City,NV
+3223500,,32033,County Seat,Ely,,White Pine,NV
+3260600,,32031,County Seat,Reno,,Washoe,NV
+3280000,,32029,County Seat,Virginia City,,Storey,NV
+3243000,,32027,County Seat,Lovelock,,Pershing,NV
+3273600,,32023,County Seat,Tonopah,,Nye,NV
+3231300,,32021,County Seat,Hawthorne,,Mineral,NV
+3285400,,32019,County Seat,Yerington,,Lyon,NV
+3257400,,32017,County Seat,Pioche,,Lincoln,NV
+3203700,,32015,County Seat,Austin,,Lander,NV
+3284800,,32013,County Seat,Winnemucca,,Humboldt,NV
+3223900,,32011,County Seat,Eureka,,Eureka,NV
+3228900,,32009,County Seat,Goldfield,,Esmeralda,NV
+3222500,,32007,County Seat,Elko,,Elko,NV
+3247000,,32005,County Seat,Minden,,Douglas,NV
+3240000,,32003,County Seat,Las Vegas,,Clark,NV
+3224100,,32001,County Seat,Fallon,,Churchill,NV
+3154045,,31185,County Seat,York,,York,NE
+3103145,,31183,County Seat,Bartlett,,Wheeler,NE
+3140920,,31181,County Seat,Red Cloud,,Webster,NE
+3151840,,31179,County Seat,Wayne,,Wayne,NE
+3105350,,31177,County Seat,Blair,,Washington,NE
+3137280,,31175,County Seat,Ord,,Valley,NE
+3138750,,31173,County Seat,Pender,,Thurston,NE
+3148760,,31171,County Seat,Thedford,,Thomas,NE
+3121905,,31169,County Seat,Hebron,,Thayer,NE
+3146800,,31167,County Seat,Stanton,,Stanton,NE
+3121240,,31165,County Seat,Harrison,,Sioux,NE
+3129470,,31163,County Seat,Loup City,,Sherman,NE
+3142775,,31161,County Seat,Rushville,,Sheridan,NE
+3144420,,31159,County Seat,Seward,,Seward,NE
+3118580,,31157,County Seat,Gering,,Scotts Bluff,NE
+3150965,,31155,County Seat,Wahoo,,Saunders,NE
+3138295,,31153,County Seat,Papillion,,Sarpy,NE
+3152960,,31151,County Seat,Wilber,,Saline,NE
+3103215,,31149,County Seat,Bassett,,Rock,NE
+3116655,,31147,County Seat,Falls City,,Richardson,NE
+3129925,,31145,County Seat,McCook,,Red Willow,NE
+3137525,,31143,County Seat,Osceola,,Polk,NE
+3110110,,31141,County Seat,Columbus,,Platte,NE
+3139100,,31139,County Seat,Pierce,,Pierce,NE
+3122640,,31137,County Seat,Holdrege,,Phelps,NE
+3119910,,31135,County Seat,Grant,,Perkins,NE
+3138575,,31133,County Seat,Pawnee City,,Pawnee,NE
+3133705,,31131,County Seat,Nebraska City,,Otoe,NE
+3133880,,31129,County Seat,Nelson,,Nuckolls,NE
+3102655,,31127,County Seat,Auburn,,Nemaha,NE
+3117810,,31125,County Seat,Fullerton,,Nance,NE
+3106295,,31123,County Seat,Bridgeport,,Morrill,NE
+3108535,,31121,County Seat,Central City,,Merrick,NE
+3130240,,31119,County Seat,Madison,,Madison,NE
+3149320,,31117,County Seat,Tryon,,McPherson,NE
+3148445,,31115,County Seat,Taylor,,Loup,NE
+3146870,,31113,County Seat,Stapleton,,Logan,NE
+3135000,,31111,County Seat,North Platte,,Lincoln,NE
+3128000,,31109,State Capital   County Seat,Lincoln,,Lancaster,NE
+3108360,,31107,County Seat,Center,,Knox,NE
+3125475,,31105,County Seat,Kimball,,Kimball,NE
+3146625,,31103,County Seat,Springview,,Keya Paha,NE
+3135980,,31101,County Seat,Ogallala,,Keith,NE
+3132340,,31099,County Seat,Minden,,Kearney,NE
+3148480,,31097,County Seat,Tecumseh,,Johnson,NE
+3116410,,31095,County Seat,Fairbury,,Jefferson,NE
+3143265,,31093,County Seat,Saint Paul,,Howard,NE
+3133250,,31091,County Seat,Mullen,,Hooker,NE
+3137105,,31089,County Seat,O'Neill,,Holt,NE
+3149145,,31087,County Seat,Trenton,,Hitchcock,NE
+3121660,,31085,County Seat,Hayes Center,,Hayes,NE
+3100975,,31083,County Seat,Alma,,Harlan,NE
+3102690,,31081,County Seat,Aurora,,Hamilton,NE
+3119595,,31079,County Seat,Grand Island,,Hall,NE
+3120050,,31077,County Seat,Greely Center,,Greeley,NE
+3123655,,31075,County Seat,Hyannis,,Grant,NE
+3115570,,31073,County Seat,Elwood,,Gosper,NE
+3107345,,31071,County Seat,Burwell,,Garfield,NE
+3137560,,31069,County Seat,Oshkosh,,Garden,NE
+3103390,,31067,County Seat,Beatrice,,Gage,NE
+3103495,,31065,County Seat,Beaver City,,Furnas,NE
+3147290,,31063,County Seat,Stockville,,Frontier,NE
+3117530,,31061,County Seat,Franklin,,Franklin,NE
+3118405,,31059,County Seat,Geneva,,Fillmore,NE
+3104230,,31057,County Seat,Benkelman,,Dundy,NE
+3137000,,31055,County Seat,Omaha,,Douglas,NE
+3117670,,31053,County Seat,Fremont,,Dodge,NE
+3139695,,31051,County Seat,Ponca,,Dixon,NE
+3108885,,31049,County Seat,Chappell,,Deuel,NE
+3126910,,31047,County Seat,Lexington,,Dawson,NE
+3108605,,31045,County Seat,Chadron,,Dawes,NE
+3112000,,31043,County Seat,Dakota City,,Dakota,NE
+3106610,,31041,County Seat,Broken Bow,,Custer,NE
+3152575,,31039,County Seat,West Point,,Cuming,NE
+3144035,,31037,County Seat,Schuyler,,Colfax,NE
+3109375,,31035,County Seat,Clay Center,,Clay,NE
+3145295,,31033,County Seat,Sidney,,Cheyenne,NE
+3149950,,31031,County Seat,Valentine,,Cherry,NE
+3123690,,31029,County Seat,Imperial,,Chase,NE
+3121275,,31027,County Seat,Hartington,,Cedar,NE
+3139345,,31025,County Seat,Plattsmouth,,Cass,NE
+3112315,,31023,County Seat,David City,,Butler,NE
+3148515,,31021,County Seat,Tekamah,,Burt,NE
+3125055,,31019,County Seat,Kearney,,Buffalo,NE
+3100415,,31017,County Seat,Ainsworth,,Brown,NE
+3107485,,31015,County Seat,Butte,,Boyd,NE
+3100905,,31013,County Seat,Alliance,,Box Butte,NE
+3100555,,31011,County Seat,Albion,,Boone,NE
+3106260,,31009,County Seat,Brewster,,Blaine,NE
+3121030,,31007,County Seat,Harrisburg,,Banner,NE
+3102200,,31005,County Seat,Arthur,,Arthur,NE
+3133775,,31003,County Seat,Neligh,,Antelope,NE
+3121415,,31001,County Seat,Hastings,,Adams,NE
+3006550,,30111,County Seat,Billings,,Yellowstone,MT
+3080350,,30109,County Seat,Wibaux,,Wibaux,MT
+3034450,,30107,County Seat,Harlowton,,Wheatland,MT
+3031075,,30105,County Seat,Glasgow,,Valley,MT
+3038350,,30103,County Seat,Hysham,,Treasure,MT
+3067450,,30101,County Seat,Shelby,,Toole,MT
+3014650,,30099,County Seat,Choteau,,Teton,MT
+3006475,,30097,County Seat,Big Timber,,Sweet Grass,MT
+3016825,,30095,County Seat,Columbus,,Stillwater,MT
+3011397,,30093,County Seat,Butte,,Silver Bow,MT
+3058375,,30091,County Seat,Plentywood,,Sheridan,MT
+3073825,,30089,County Seat,Thompson Falls,,Sanders,MT
+3027700,,30087,County Seat,Forsyth,,Rosebud,MT
+3081475,,30085,County Seat,Wolf Point,,Roosevelt,MT
+3067900,,30083,County Seat,Sidney,,Richland,MT
+3033775,,30081,County Seat,Hamilton,,Ravalli,MT
+3073675,,30079,County Seat,Terry,,Prairie,MT
+3019825,,30077,County Seat,Deer Lodge,,Powell,MT
+3009700,,30075,County Seat,Broadus,,Powder River,MT
+3017275,,30073,County Seat,Conrad,,Pondera,MT
+3047425,,30071,County Seat,Malta,,Phillips,MT
+3081100,,30069,County Seat,Winnett,,Petroleum,MT
+3043975,,30067,County Seat,Livingston,,Park,MT
+3064525,,30065,County Seat,Roundup,,Musselshell,MT
+3050200,,30063,County Seat,Missoula,,Missoula,MT
+3072625,,30061,County Seat,Superior,,Mineral,MT
+3080050,,30059,County Seat,White Sulphur Springs,,Meagher,MT
+3077125,,30057,County Seat,Virginia City,,Madison,MT
+3014950,,30055,County Seat,Circle,,McCone,MT
+3043450,,30053,County Seat,Libby,,Lincoln,MT
+3014200,,30051,County Seat,Chester,,Liberty,MT
+3035600,,30049,State Capital   County Seat,Helena,,Lewis and Clark,MT
+3058750,,30047,County Seat,Polson,,Lake,MT
+3070675,,30045,County Seat,Stanford,,Judith Basin,MT
+3008575,,30043,County Seat,Boulder,,Jefferson,MT
+3035050,,30041,County Seat,Havre,,Hill,MT
+3057175,,30039,County Seat,Philipsburg,,Granite,MT
+3064975,,30037,County Seat,Ryegate,,Golden Valley,MT
+3018775,,30035,County Seat,Cut Bank,,Glacier,MT
+3039925,,30033,County Seat,Jordan,,Garfield,MT
+3008950,,30031,County Seat,Bozeman,,Gallatin,MT
+3040075,,30029,County Seat,Kalispell,,Flathead,MT
+3043375,,30027,County Seat,Lewistown,,Fergus,MT
+3003475,,30025,County Seat,Baker,,Fallon,MT
+3001675,,30023,County Seat,Anaconda-Deer Lodge County,,Deer Lodge,MT
+3031450,,30021,County Seat,Glendive,,Dawson,MT
+3066925,,30019,County Seat,Scobey,,Daniels,MT
+3049525,,30017,County Seat,Miles City,,Custer,MT
+3028000,,30015,County Seat,Fort Benton,,Chouteau,MT
+3032800,,30013,County Seat,Great Falls,,Cascade,MT
+3023650,,30011,County Seat,Ekalaka,,Carter,MT
+3061525,,30009,County Seat,Red Lodge,,Carbon,MT
+3074575,,30007,County Seat,Townsend,,Broadwater,MT
+3014575,,30005,County Seat,Chinook,,Blaine,MT
+3034225,,30003,County Seat,Hardin,,Big Horn,MT
+3020800,,30001,County Seat,Dillon,,Beaverhead,MT
+2965000,,29510,County Seat,Saint Louis,,St. Louis City,MO
+2930754,,29229,County Seat,Hartville,,Wright,MO
+2928594,,29227,County Seat,Grant City,,Worth,MO
+2946388,,29225,County Seat,Marshfield,,Webster,MO
+2929476,,29223,County Seat,Greenville,,Wayne,MO
+2959330,,29221,County Seat,Potosi,,Washington,MO
+2977128,,29219,County Seat,Warrenton,,Warren,MO
+2951644,,29217,County Seat,Nevada,,Vernon,MO
+2933238,,29215,County Seat,Houston,,Texas,MO
+2925192,,29213,County Seat,Forsyth,,Taney,MO
+2948062,,29211,County Seat,Milan,,Sullivan,MO
+2926254,,29209,County Seat,Galena,,Stone,MO
+2906382,,29207,County Seat,Bloomfield,,Stoddard,MO
+2967196,,29205,County Seat,Shelbyville,,Shelby,MO
+2922276,,29203,County Seat,Eminence,,Shannon,MO
+2904798,,29201,County Seat,Benton,,Scott,MO
+2947270,,29199,County Seat,Memphis,,Scotland,MO
+2940610,,29197,County Seat,Lancaster,,Schuyler,MO
+2946316,,29195,County Seat,Marshall,,Saline,MO
+2914572,,29189,County Seat,Clayton,,Saint Louis,MO
+2923752,,29187,County Seat,Farmington,,Saint Francois,MO
+2964180,,29186,County Seat,Sainte Genevieve,,Sainte Genevieve,MO
+2955388,,29185,County Seat,Osceola,,Saint Clair,MO
+2964082,,29183,County Seat,Saint Charles,,Saint Charles,MO
+2919792,,29181,County Seat,Doniphan,,Ripley,MO
+2912718,,29179,County Seat,Centerville,,Reynolds,MO
+2961670,,29177,County Seat,Richmond,,Ray,MO
+2933886,,29175,County Seat,Huntsville,,Randolph,MO
+2952058,,29173,County Seat,New London,,Ralls,MO
+2975166,,29171,County Seat,Unionville,,Putnam,MO
+2977992,,29169,County Seat,Waynesville,,Pulaski,MO
+2906976,,29167,County Seat,Bolivar,,Polk,MO
+2958178,,29165,County Seat,Platte City,,Platte,MO
+2907660,,29163,County Seat,Bowling Green,,Pike,MO
+2962912,,29161,County Seat,Rolla,,Phelps,MO
+2966440,,29159,County Seat,Sedalia,,Pettis,MO
+2957116,,29157,County Seat,Perryville,,Perry,MO
+2911692,,29155,County Seat,Caruthersville,,Pemiscot,MO
+2926218,,29153,County Seat,Gainesville,,Ozark,MO
+2943238,,29151,County Seat,Linn,,Osage,MO
+2900964,,29149,County Seat,Alton,,Oregon,MO
+2946640,,29147,County Seat,Maryville,,Nodaway,MO
+2951572,,29145,County Seat,Neosho,,Newton,MO
+2952076,,29143,County Seat,New Madrid,,New Madrid,MO
+2975922,,29141,County Seat,Versailles,,Morgan,MO
+2949574,,29139,County Seat,Montgomery City,,Montgomery,MO
+2956144,,29137,County Seat,Paris,,Monroe,MO
+2910468,,29135,County Seat,California,,Moniteau,MO
+2913366,,29133,County Seat,Charleston,,Mississippi,MO
+2974194,,29131,County Seat,Tuscumbia,,Miller,MO
+2959942,,29129,County Seat,Princeton,,Mercer,MO
+2956036,,29127,County Seat,Palmyra,,Marion,MO
+2976102,,29125,County Seat,Vienna,,Maries,MO
+2925768,,29123,County Seat,Fredericktown,,Madison,MO
+2945326,,29121,County Seat,Macon,,Macon,MO
+2957818,,29119,County Seat,Pineville,,McDonald,MO
+2913690,,29117,County Seat,Chillicothe,,Livingston,MO
+2943292,,29115,County Seat,Linneus,,Linn,MO
+2973942,,29113,County Seat,Troy,,Lincoln,MO
+2949592,,29111,County Seat,Monticello,,Lewis,MO
+2950672,,29109,County Seat,Mount Vernon,,Lawrence,MO
+2941870,,29107,County Seat,Lexington,,Lafayette,MO
+2941168,,29105,County Seat,Lebanon,,Laclede,MO
+2921322,,29103,County Seat,Edina,,Knox,MO
+2977092,,29101,County Seat,Warrensburg,,Johnson,MO
+2932248,,29099,County Seat,Hillsboro,,Jefferson,MO
+2911656,,29097,County Seat,Carthage,,Jasper,MO
+2935000,,29095,County Seat,Independence,,Jackson,MO
+2935468,,29093,County Seat,Ironton,,Iron,MO
+2978928,,29091,County Seat,West Plains,,Howell,MO
+2923842,,29089,County Seat,Fayette,,Howard,MO
+2954848,,29087,County Seat,Oregon,,Holt,MO
+2931780,,29085,County Seat,Hermitage,,Hickory,MO
+2914986,,29083,County Seat,Clinton,,Henry,MO
+2905068,,29081,County Seat,Bethany,,Harrison,MO
+2973816,,29079,County Seat,Trenton,,Grundy,MO
+2970000,,29077,County Seat,Springfield,,Greene,MO
+2900514,,29075,County Seat,Albany,,Gentry,MO
+2931762,,29073,County Seat,Hermann,,Gasconade,MO
+2974626,,29071,County Seat,Union,,Franklin,MO
+2938306,,29069,County Seat,Kennett,,Dunklin,MO
+2902674,,29067,County Seat,Ava,,Douglas,MO
+2965234,,29065,County Seat,Salem,,Dent,MO
+2946946,,29063,County Seat,Maysville,,DeKalb,MO
+2926308,,29061,County Seat,Gallatin,,Daviess,MO
+2909514,,29059,County Seat,Buffalo,,Dallas,MO
+2929206,,29057,County Seat,Greenfield,,Dade,MO
+2970576,,29055,County Seat,Steelville,,Crawford,MO
+2907318,,29053,County Seat,Boonville,,Cooper,MO
+2937000,,29051,State Capital   County Seat,Jefferson City,,Cole,MO
+2958250,,29049,County Seat,Plattsburg,,Clinton,MO
+2942032,,29047,County Seat,Liberty,,Clay,MO
+2937790,,29045,County Seat,Kahoka,,Clark,MO
+2955766,,29043,County Seat,Ozark,,Christian,MO
+2938468,,29041,County Seat,Keytesville,,Chariton,MO
+2970828,,29039,County Seat,Stockton,,Cedar,MO
+2930610,,29037,County Seat,Harrisonville,,Cass,MO
+2975580,,29035,County Seat,Van Buren,,Carter,MO
+2911566,,29033,County Seat,Carrollton,,Carroll,MO
+2935648,,29031,County Seat,Jackson,,Cape Girardeau,MO
+2910810,,29029,County Seat,Camdenton,,Camden,MO
+2926182,,29027,County Seat,Fulton,,Callaway,MO
+2938846,,29025,County Seat,Kingston,,Caldwell,MO
+2959096,,29023,County Seat,Poplar Bluff,,Butler,MO
+2964550,,29021,County Seat,Saint Joseph,,Buchanan,MO
+2915670,,29019,County Seat,Columbia,,Boone,MO
+2945848,,29017,County Seat,Marble Hill,,Bollinger,MO
+2977146,,29015,County Seat,Warsaw,,Benton,MO
+2910054,,29013,County Seat,Butler,,Bates,MO
+2940376,,29011,County Seat,Lamar,,Barton,MO
+2911890,,29009,County Seat,Cassville,,Barry,MO
+2947648,,29007,County Seat,Mexico,,Audrain,MO
+2962696,,29005,County Seat,Rock Port,,Atchison,MO
+2966044,,29003,County Seat,Savannah,,Andrew,MO
+2939026,,29001,County Seat,Kirksville,,Adair,MO
+2881520,,28163,County Seat,Yazoo City,,Yazoo,MS
+2842280,,28159,County Seat,Louisville,,Winston,MS
+2881120,,28157,County Seat,Woodville,,Wilkinson,MS
+2877640,,28155,County Seat,Walthall,,Webster,MS
+2878360,,28153,County Seat,Waynesboro,,Wayne,MS
+2829180,,28151,County Seat,Greenville,,Washington,MS
+2876720,,28149,County Seat,Vicksburg,,Warren,MS
+2875160,,28147,County Seat,Tylertown,,Walthall,MS
+2851000,,28145,County Seat,New Albany,,Union,MS
+2874760,,28143,County Seat,Tunica,,Tunica,MS
+2835300,,28141,County Seat,Iuka,,Tishomingo,MS
+2862600,,28139,County Seat,Ripley,,Tippah,MS
+2866440,,28137,County Seat,Senatobia,,Tate,MS
+2834740,,28133,County Seat,Indianola,,Sunflower,MS
+2880160,,28131,County Seat,Wiggins,,Stone,MS
+2860840,,28129,County Seat,Raleigh,,Smith,MS
+2846600,,28127,County Seat,Mendenhall,,Simpson,MS
+2863560,,28125,County Seat,Rolling Fork,,Sharkey,MS
+2825340,,28123,County Seat,Forest,,Scott,MS
+2808300,,28121,County Seat,Brandon,,Rankin,MS
+2845240,,28119,County Seat,Marks,,Quitman,MS
+2807780,,28117,County Seat,Booneville,,Prentiss,MS
+2859160,,28115,County Seat,Pontotoc,,Pontotoc,MS
+2844680,,28113,County Seat,Magnolia,,Pike,MS
+2851040,,28111,County Seat,New Augusta,,Perry,MS
+2859480,,28109,County Seat,Poplarville,,Pearl River,MS
+2870240,,28105,County Seat,Starkville,,Oktibbeha,MS
+2844240,,28103,County Seat,Macon,,Noxubee,MS
+2818180,,28101,County Seat,Decatur,,Newton,MS
+2856960,,28099,County Seat,Philadelphia,,Neshoba,MS
+2880760,,28097,County Seat,Winona,,Montgomery,MS
+2800180,,28095,County Seat,Aberdeen,,Monroe,MS
+2833100,,28093,County Seat,Holly Springs,,Marshall,MS
+2815340,,28091,County Seat,Columbia,,Marion,MS
+2811100,,28089,County Seat,Canton,,Madison,MS
+2815380,,28087,County Seat,Columbus,,Lowndes,MS
+2808820,,28085,County Seat,Brookhaven,,Lincoln,MS
+2829340,,28083,County Seat,Greenwood,,Leflore,MS
+2874840,,28081,County Seat,Tupelo,,Lee,MS
+2811780,,28079,County Seat,Carthage,,Leake,MS
+2848560,,28077,County Seat,Monticello,,Lawrence,MS
+2846640,,28075,County Seat,Meridian,,Lauderdale,MS
+2860480,,28073,County Seat,Purvis,,Lamar,MS
+2854840,,28071,County Seat,Oxford,,Lafayette,MS
+2818340,,28069,County Seat,De Kalb,,Kemper,MS
+2859920,,28065,County Seat,Prentiss,,Jefferson Davis,MS
+2824500,,28063,County Seat,Fayette,,Jefferson,MS
+2855360,,28059,County Seat,Pascagoula,,Jackson,MS
+2826300,,28057,County Seat,Fulton,,Itawamba,MS
+2846000,,28055,County Seat,Mayersville,,Issaquena,MS
+2805140,,28053,County Seat,Belzoni,,Humphreys,MS
+2840600,,28051,County Seat,Lexington,,Holmes,MS
+2861160,,28049,County Seat,Raymond,,Hinds,MS
+2829700,,28047,County Seat,Gulfport,,Harrison,MS
+2803980,,28045,County Seat,Bay Saint Louis,,Hancock,MS
+2829460,,28043,County Seat,Grenada,,Grenada,MS
+2839840,,28041,County Seat,Leakesville,,Greene,MS
+2842440,,28039,County Seat,Lucedale,,George,MS
+2846200,,28037,County Seat,Meadville,,Franklin,MS
+2831020,,28035,County Seat,Hattiesburg,,Forrest,MS
+2831780,,28033,County Seat,Hernando,,DeSoto,MS
+2815140,,28031,County Seat,Collins,,Covington,MS
+2831220,,28029,County Seat,Hazlehurst,,Copiah,MS
+2813820,,28027,County Seat,Clarksdale,,Coahoma,MS
+2879120,,28025,County Seat,West Point,,Clay,MS
+2860720,,28023,County Seat,Quitman,,Clarke,MS
+2859560,,28021,County Seat,Port Gibson,,Claiborne,MS
+2800300,,28019,County Seat,Ackerman,,Choctaw,MS
+2858360,,28013,County Seat,Pittsboro,,Calhoun,MS
+2802140,,28009,County Seat,Ashland,,Benton,MS
+2838320,,28007,County Seat,Kosciusko,,Attala,MS
+2840640,,28005,County Seat,Liberty,,Amite,MS
+2815700,,28003,County Seat,Corinth,,Alcorn,MS
+2850440,,28001,County Seat,Natchez,,Adams,MS
+2725280,,27173,County Seat,Granite Falls,,Yellow Medicine,MN
+2708452,,27171,County Seat,Buffalo,,Wright,MN
+2771032,,27169,County Seat,Winona,,Winona,MN
+2707462,,27167,County Seat,Breckenridge,,Wilkin,MN
+2757040,,27165,County Seat,Saint James,,Watonwan,MN
+2762824,,27163,County Seat,Stillwater,,Washington,MN
+2768296,,27161,County Seat,Waseca,,Waseca,MN
+2767504,,27159,County Seat,Wadena,,Wadena,MN
+2767378,,27157,County Seat,Wabasha,,Wabasha,MN
+2769844,,27155,County Seat,Wheaton,,Traverse,MN
+2738060,,27153,County Seat,Long Prairie,,Todd,MN
+2705212,,27151,County Seat,Benson,,Swift,MN
+2744242,,27149,County Seat,Morris,,Stevens,MN
+2749300,,27147,County Seat,Owatonna,,Steele,MN
+2756896,,27145,County Seat,Saint Cloud,,Stearns,MN
+2723300,,27143,County Seat,Gaylord,,Sibley,MN
+2718674,,27141,County Seat,Elk River,,Sherburne,MN
+2759350,,27139,County Seat,Shakopee,,Scott,MN
+2717000,,27137,County Seat,Duluth,,Saint Louis,MN
+2755546,,27135,County Seat,Roseau,,Roseau,MN
+2738564,,27133,County Seat,Luverne,,Rock,MN
+2720546,,27131,County Seat,Faribault,,Rice,MN
+2748256,,27129,County Seat,Olivia,,Renville,MN
+2753656,,27127,County Seat,Redwood Falls,,Redwood,MN
+2753476,,27125,County Seat,Red Lake Falls,,Red Lake,MN
+2758000,,27123,State Capital   County Seat,Saint Paul,,Ramsey,MN
+2724074,,27121,County Seat,Glenwood,,Pope,MN
+2713870,,27119,County Seat,Crookston,,Polk,MN
+2751388,,27117,County Seat,Pipestone,,Pipestone,MN
+2751064,,27115,County Seat,Pine City,,Pine,MN
+2764570,,27113,County Seat,Thief River Falls,,Pennington,MN
+2720906,,27111,County Seat,Fergus Falls,,Otter Tail,MN
+2754880,,27109,County Seat 2,Rochester,,Olmsted,MN
+2700172,,27107,County Seat,Ada,,Norman,MN
+2771734,,27105,County Seat,Worthington,,Nobles,MN
+2758036,,27103,County Seat,Saint Peter,,Nicollet,MN
+2760808,,27101,County Seat,Slayton,,Murray,MN
+2702908,,27099,County Seat,Austin,,Mower,MN
+2737556,,27097,County Seat,Little Falls,,Morrison,MN
+2742110,,27095,County Seat,Milaca,,Mille Lacs,MN
+2737448,,27093,County Seat,Litchfield,,Meeker,MN
+2720330,,27091,County Seat,Fairmont,,Martin,MN
+2768170,,27089,County Seat,Warren,,Marshall,MN
+2739392,,27087,County Seat,Mahnomen,,Mahnomen,MN
+2723948,,27085,County Seat,Glencoe,,McLeod,MN
+2740688,,27083,County Seat,Marshall,,Lyon,MN
+2731526,,27081,County Seat,Ivanhoe,,Lincoln,MN
+2736134,,27079,County Seat,Le Center,,Le Sueur,MN
+2704024,,27077,County Seat,Baudette,,Lake of the Woods,MN
+2765956,,27075,County Seat,Two Harbors,,Lake,MN
+2739266,,27073,County Seat,Madison,,Lac qui Parle,MN
+2731040,,27071,County Seat,International Falls,,Koochiching,MN
+2726576,,27069,County Seat,Hallock,,Kittson,MN
+2770420,,27067,County Seat,Willmar,,Kandiyohi,MN
+2744044,,27065,County Seat,Mora,,Kanabec,MN
+2731562,,27063,County Seat,Jackson,,Jackson,MN
+2725118,,27061,County Seat,Grand Rapids,,Itasca,MN
+2709370,,27059,County Seat,Cambridge,,Isanti,MN
+2749768,,27057,County Seat,Park Rapids,,Hubbard,MN
+2709226,,27055,County Seat,Caledonia,,Houston,MN
+2743000,,27053,County Seat,Minneapolis,,Hennepin,MN
+2718458,,27051,County Seat,Elbow Lake,,Grant,MN
+2753620,,27049,County Seat,Red Wing,,Goodhue,MN
+2700694,,27047,County Seat,Albert Lea,,Freeborn,MN
+2752450,,27045,County Seat,Preston,,Fillmore,MN
+2706688,,27043,County Seat,Blue Earth,,Faribault,MN
+2700928,,27041,County Seat,Alexandria,,Douglas,MN
+2739986,,27039,County Seat,Mantorville,,Dodge,MN
+2727530,,27037,County Seat,Hastings,,Dakota,MN
+2707300,,27035,County Seat,Brainerd,,Crow Wing,MN
+2770798,,27033,County Seat,Windom,,Cottonwood,MN
+2724992,,27031,County Seat,Grand Marais,,Cook,MN
+2703196,,27029,County Seat,Bagley,,Clearwater,MN
+2743864,,27027,County Seat,Moorhead,,Clay,MN
+2710576,,27025,County Seat,Center City,,Chisago,MN
+2743720,,27023,County Seat,Montevideo,,Chippewa,MN
+2767792,,27021,County Seat,Walker,,Cass,MN
+2710972,,27019,County Seat,Chaska,,Carver,MN
+2710018,,27017,County Seat,Carlton,,Carlton,MN
+2746042,,27015,County Seat,New Ulm,,Brown,MN
+2739878,,27013,County Seat,Mankato,,Blue Earth,MN
+2748706,,27011,County Seat,Ortonville,,Big Stone,MN
+2721536,,27009,County Seat,Foley,,Benton,MN
+2705068,,27007,County Seat,Bemidji,,Beltrami,MN
+2715832,,27005,County Seat,Detroit Lakes,,Becker,MN
+2701720,,27003,County Seat,Anoka,,Anoka,MN
+2700460,,27001,County Seat,Aitkin,,Aitkin,MN
+2612320,,26165,County Seat,Cadillac,,Wexford,MI
+2622000,,26163,County Seat,Detroit,,Wayne,MI
+2603000,,26161,County Seat,Ann Arbor,,Washtenaw,MI
+2662980,,26159,County Seat,Paw Paw,,Van Buren,MI
+2613420,,26157,County Seat,Caro,,Tuscola,MI
+2618300,,26155,County Seat,Corunna,,Shiawassee,MI
+2650760,,26153,County Seat,Manistique,,Schoolcraft,MI
+2671540,,26151,County Seat,Sandusky,,Sanilac,MI
+2614460,,26149,County Seat,Centreville,,Saint Joseph,MI
+2665820,,26147,County Seat,Port Huron,,Saint Clair,MI
+2670520,,26145,County Seat,Saginaw,,Saginaw,MI
+2669540,,26143,County Seat,Roscommon,,Roscommon,MI
+2669260,,26141,County Seat,Rogers City,,Presque Isle,MI
+2633340,,26139,County Seat,Grand Haven,,Ottawa,MI
+2631720,,26137,County Seat,Gaylord,,Otsego,MI
+2654660,,26135,County Seat,Mio,,Oscoda,MI
+2667820,,26133,County Seat,Reed City,,Osceola,MI
+2660860,,26131,County Seat,Ontonagon,,Ontonagon,MI
+2685580,,26129,County Seat,West Branch,,Ogemaw,MI
+2636920,,26127,County Seat,Hart,,Oceana,MI
+2665440,,26125,County Seat,Pontiac,,Oakland,MI
+2686680,,26123,County Seat,White Cloud,,Newaygo,MI
+2656320,,26121,County Seat,Muskegon,,Muskegon,MI
+2603920,,26119,County Seat,Atlanta,,Montmorency,MI
+2676220,,26117,County Seat,Stanton,,Montcalm,MI
+2655020,,26115,County Seat,Monroe,,Monroe,MI
+2644480,,26113,County Seat,Lake City,,Missaukee,MI
+2653780,,26111,County Seat,Midland,,Midland,MI
+2653020,,26109,County Seat,Menominee,,Menominee,MI
+2608300,,26107,County Seat,Big Rapids,,Mecosta,MI
+2649640,,26105,County Seat,Ludington,,Mason,MI
+2651900,,26103,County Seat,Marquette,,Marquette,MI
+2650720,,26101,County Seat,Manistee,,Manistee,MI
+2655820,,26099,County Seat,Mount Clemens,,Macomb,MI
+2670840,,26097,County Seat,Saint Ignace,,Mackinac,MI
+2657140,,26095,County Seat,Newberry,,Luce,MI
+2639540,,26093,County Seat,Howell,,Livingston,MI
+2600440,,26091,County Seat,Adrian,,Lenawee,MI
+2646800,,26089,County Seat,Leland,,Leelanau,MI
+2646040,,26087,County Seat,Lapeer,,Lapeer,MI
+2604940,,26085,County Seat,Baldwin,,Lake,MI
+2623740,,26083,County Seat,Eagle River,,Keweenaw,MI
+2634000,,26081,County Seat,Grand Rapids,,Kent,MI
+2642260,,26079,County Seat,Kalkaska,,Kalkaska,MI
+2642160,,26077,County Seat,Kalamazoo,,Kalamazoo,MI
+2641420,,26075,County Seat,Jackson,,Jackson,MI
+2656020,,26073,County Seat,Mount Pleasant,,Isabella,MI
+2619140,,26071,County Seat,Crystal Falls,,Iron,MI
+2678140,,26069,County Seat,Tawas City,,Iosco,MI
+2640860,,26067,County Seat,Ionia,,Ionia,MI
+2652180,,26065,County Seat,Mason,,Ingham,MI
+2604740,,26063,County Seat,Bad Axe,,Huron,MI
+2639360,,26061,County Seat,Houghton,,Houghton,MI
+2638460,,26059,County Seat,Hillsdale,,Hillsdale,MI
+2641340,,26057,County Seat,Ithaca,,Gratiot,MI
+2680340,,26055,County Seat,Traverse City,,Grand Traverse,MI
+2607960,,26053,County Seat,Bessemer,,Gogebic,MI
+2632320,,26051,County Seat,Gladwin,,Gladwin,MI
+2629000,,26049,County Seat,Flint,,Genesee,MI
+2663820,,26047,County Seat,Petoskey,,Emmet,MI
+2614820,,26045,County Seat,Charlotte,,Eaton,MI
+2640960,,26043,County Seat,Iron Mountain,,Dickinson,MI
+2626360,,26041,County Seat,Escanaba,,Delta,MI
+2634640,,26039,County Seat,Grayling,,Crawford,MI
+2670940,,26037,County Seat,Saint Johns,,Clinton,MI
+2636800,,26035,County Seat,Harrison,,Clare,MI
+2671740,,26033,County Seat,Sault Sainte Marie,,Chippewa,MI
+2615000,,26031,County Seat,Cheboygan,,Cheboygan,MI
+2614780,,26029,County Seat,Charlevoix,,Charlevoix,MI
+2613900,,26027,County Seat,Cassopolis,,Cass,MI
+2651940,,26025,County Seat,Marshall,,Calhoun,MI
+2617020,,26023,County Seat,Coldwater,,Branch,MI
+2670960,,26021,County Seat,Saint Joseph,,Berrien,MI
+2608100,,26019,County Seat,Beulah,,Benzie,MI
+2606020,,26017,County Seat,Bay City,,Bay,MI
+2637120,,26015,County Seat,Hastings,,Barry,MI
+2645540,,26013,County Seat,L'Anse,,Baraga,MI
+2676120,,26011,County Seat,Standish,,Arenac,MI
+2606980,,26009,County Seat,Bellaire,,Antrim,MI
+2601740,,26007,County Seat,Alpena,,Alpena,MI
+2601260,,26005,County Seat,Allegan,,Allegan,MI
+2656200,,26003,County Seat,Munising,,Alger,MI
+2636860,,26001,County Seat,Harrisville,,Alcona,MI
+2582000,,25027,County Seat,Worcester,,Worcester,MA
+2507000,,25025,State Capital   County Seat,Boston,,Suffolk,MA
+2554275,,25023,County Seat,Plymouth,,Plymouth,MA
+2516530,,25021,County Seat,Dedham,,Norfolk,MA
+2543755,,25019,County Seat,Nantucket,,Nantucket,MA
+2511000,,25017,County Seat,Cambridge,,Middlesex,MA
+2546330,,25015,County Seat,Northampton,,Hampshire,MA
+2567000,,25013,County Seat,Springfield,,Hampden,MA
+2527060,,25011,County Seat,Greenfield,,Franklin,MA
+2559105,,25009,County Seat,Salem,,Essex,MA
+2521115,,25007,County Seat,Edgartown,,Dukes,MA
+2569170,,25005,County Seat,Taunton,,Bristol,MA
+2553960,,25003,County Seat,Pittsfield,,Berkshire,MA
+2503600,,25001,County Seat,Barnstable,,Barnstable,MA
+2404000,,24510,County Seat,Baltimore,,Baltimore City,MD
+2473075,,24047,County Seat,Snow Hill,,Worcester,MD
+2469925,,24045,County Seat,Salisbury,,Wicomico,MD
+2436075,,24043,County Seat,Hagerstown,,Washington,MD
+2424475,,24041,County Seat,Easton,,Talbot,MD
+2464000,,24039,County Seat,Princess Anne,,Somerset,MD
+2446475,,24037,County Seat,Leonardtown,,Saint Mary's,MD
+2414950,,24035,County Seat,Centreville,,Queen Anne's,MD
+2479875,,24033,County Seat,Upper Marlboro,,Prince George's,MD
+2467675,,24031,County Seat,Rockville,,Montgomery,MD
+2416225,,24029,County Seat,Chestertown,,Kent,MD
+2426000,,24027,County Seat,Ellicott City,,Howard,MD
+2405550,,24025,County Seat,Bel Air,,Harford,MD
+2457650,,24023,County Seat,Oakland,,Garrett,MD
+2430325,,24021,County Seat,Frederick,,Frederick,MD
+2412400,,24019,County Seat,Cambridge,,Dorchester,MD
+2445750,,24017,County Seat,La Plata,,Charles,MD
+2425800,,24015,County Seat,Elkton,,Cecil,MD
+2483100,,24013,County Seat,Westminster,,Carroll,MD
+2422725,,24011,County Seat 2,Denton,,Caroline,MD
+2463950,,24009,County Seat,Prince Frederick,,Calvert,MD
+2478425,,24005,County Seat,Towson,,Baltimore,MD
+2401600,,24003,State Capital   County Seat,Annapolis,,Anne Arundel,MD
+2421325,,24001,County Seat,Cumberland,,Allegany,MD
+2300695,,23031,County Seat,Alfred,,York,ME
+2341925,,23029,County Seat,Machias,,Washington,ME
+2303950,,23027,County Seat,Belfast,,Waldo,ME
+2368875,,23025,County Seat,Skowhegan,,Somerset,ME
+2303355,,23023,County Seat,Bath,,Sagadahoc,ME
+2318230,,23021,County Seat,Dover-Foxcroft,,Piscataquis,ME
+2302795,,23019,County Seat,Bangor,,Penobscot,ME
+2371780,,23017,County Seat,South Paris,,Oxford,ME
+2387040,,23015,County Seat,Wiscasset,,Lincoln,ME
+2363590,,23013,County Seat,Rockland,,Knox,ME
+2302100,,23011,State Capital   County Seat,Augusta,,Kennebec,ME
+2323200,,23009,County Seat,Ellsworth,,Hancock,ME
+2324740,,23007,County Seat,Farmington,,Franklin,ME
+2360545,,23005,County Seat,Portland,,Cumberland,ME
+2333945,,23003,County Seat,Houlton,,Aroostook,ME
+2302060,,23001,County Seat,Auburn,,Androscoggin,ME
+2282460,,22127,County Seat,Winnfield,,Winn Parish,LA
+2267215,,22125,County Seat,Saint Francisville,,West Feliciana Parish,LA
+2256820,,22123,County Seat,Oak Grove,,West Carroll Parish,LA
+2261790,,22121,County Seat,Port Allen,,West Baton Rouge Parish,LA
+2250885,,22119,County Seat,Minden,,Webster Parish,LA
+2227190,,22117,County Seat,Franklinton,,Washington Parish,LA
+2243010,,22115,County Seat,Leesville,,Vernon Parish,LA
+2200100,,22113,County Seat,Abbeville,,Vermilion Parish,LA
+2225160,,22111,County Seat,Farmerville,,Union Parish,LA
+2236255,,22109,County Seat,Houma,,Terrebonne Parish,LA
+2267495,,22107,County Seat,Saint Joseph,,Tensas Parish,LA
+2201885,,22105,County Seat,Amite,,Tangipahoa Parish,LA
+2218125,,22103,County Seat,Covington,,Saint Tammany Parish,LA
+2227155,,22101,County Seat,Franklin,,Saint Mary Parish,LA
+2267600,,22099,County Seat,Saint Martinville,,Saint Martin Parish,LA
+2258045,,22097,County Seat,Opelousas,,Saint Landry Parish,LA
+2222815,,22095,County Seat,Edgard,,Saint John the Baptist Parish,LA
+2217180,,22093,County Seat,Convent,,Saint James Parish,LA
+2231565,,22091,County Seat,Greensburg,,Saint Helena Parish,LA
+2232510,,22089,County Seat,Hahnville,,Saint Charles Parish,LA
+2214135,,22087,County Seat,Chalmette,,Saint Bernard Parish,LA
+2248470,,22085,County Seat,Many,,Sabine Parish,LA
+2263680,,22083,County Seat,Rayville,,Richland Parish,LA
+2218055,,22081,County Seat,Coushatta,,Red River Parish,LA
+2200975,,22079,County Seat,Alexandria,,Rapides Parish,LA
+2255105,,22077,County Seat,New Roads,,Pointe Coupee Parish,LA
+2261440,,22075,County Seat,Pointe a la Hache,,Plaquemines Parish,LA
+2251410,,22073,County Seat,Monroe,,Ouachita Parish,LA
+2255000,,22071,County Seat,New Orleans,,Orleans Parish,LA
+2253545,,22069,County Seat,Natchitoches,,Natchitoches Parish,LA
+2204685,,22067,County Seat,Bastrop,,Morehouse Parish,LA
+2274690,,22065,County Seat,Tallulah,,Madison Parish,LA
+2244655,,22063,County Seat,Livingston,,Livingston Parish,LA
+2266655,,22061,County Seat,Ruston,,Lincoln Parish,LA
+2238285,,22059,County Seat,Jena,,La Salle Parish,LA
+2275425,,22057,County Seat,Thibodaux,,Lafourche Parish,LA
+2240735,,22055,County Seat,Lafayette,,Lafayette Parish,LA
+2238355,,22053,County Seat,Jennings,,Jefferson Davis Parish,LA
+2231915,,22051,County Seat,Gretna,,Jefferson Parish,LA
+2238670,,22049,County Seat,Jonesboro,,Jackson Parish,LA
+2260880,,22047,County Seat,Plaquemine,,Iberville Parish,LA
+2254035,,22045,County Seat,New Iberia,,Iberia Parish,LA
+2216375,,22043,County Seat,Colfax,,Grant Parish,LA
+2282495,,22041,County Seat,Winnsboro,,Franklin Parish,LA
+2278715,,22039,County Seat,Ville Platte,,Evangeline Parish,LA
+2215990,,22037,County Seat,Clinton,,East Feliciana Parish,LA
+2241400,,22035,County Seat,Lake Providence,,East Carroll Parish,LA
+2205000,,22033,State Capital   County Seat,Baton Rouge,,East Baton Rouge Parish,LA
+2248365,,22031,County Seat,Mansfield,,De Soto Parish,LA
+2278470,,22029,County Seat,Vidalia,,Concordia Parish,LA
+2235870,,22027,County Seat,Homer,,Claiborne Parish,LA
+2233210,,22025,County Seat,Harrisonburg,,Catahoula Parish,LA
+2212000,,22023,County Seat,Cameron,,Cameron Parish,LA
+2216830,,22021,County Seat,Columbia,,Caldwell Parish,LA
+2241155,,22019,County Seat,Lake Charles,,Calcasieu Parish,LA
+2270000,,22017,County Seat,Shreveport,,Caddo Parish,LA
+2206925,,22015,County Seat,Benton,,Bossier Parish,LA
+2202655,,22013,County Seat,Arcadia,,Bienville Parish,LA
+2220610,,22011,County Seat,De Ridder,,Beauregard Parish,LA
+2248750,,22009,County Seat,Marksville,,Avoyelles Parish,LA
+2253370,,22007,County Seat,Napoleonville,,Assumption Parish,LA
+2221240,,22005,County Seat,Donaldsonville,,Ascension Parish,LA
+2257450,,22003,County Seat,Oberlin,,Allen Parish,LA
+2218650,,22001,County Seat,Crowley,,Acadia Parish,LA
+2179482,,21239,County Seat,Versailles,,Woodford,KY
+2112358,,21237,County Seat,Campton,,Wolfe,KY
+2183334,,21235,County Seat,Williamsburg,,Whitley,KY
+2121682,,21233,County Seat,Dixon,,Webster,KY
+2153130,,21231,County Seat,Monticello,,Wayne,KY
+2172660,,21229,County Seat,Springfield,,Washington,KY
+2108902,,21227,County Seat,Bowling Green,,Warren,KY
+2153472,,21225,County Seat,Morganfield,,Union,KY
+2104816,,21223,County Seat,Bedford,,Trimble,KY
+2111692,,21221,County Seat,Cadiz,,Trigg,KY
+2124400,,21219,County Seat,Elkton,,Todd,KY
+2112160,,21217,County Seat,Campbellsville,,Taylor,KY
+2175810,,21215,County Seat,Taylorsville,,Spencer,KY
+2128918,,21213,County Seat,Franklin,,Simpson,KY
+2170050,,21211,County Seat,Shelbyville,,Shelby,KY
+2130700,,21209,County Seat,Georgetown,,Scott,KY
+2140114,,21207,County Seat,Jamestown,,Russell,KY
+2153418,,21205,County Seat,Morehead,,Rowan,KY
+2154174,,21203,County Seat,Mount Vernon,,Rockcastle,KY
+2153976,,21201,County Seat,Mount Olivet,,Robertson,KY
+2171688,,21199,County Seat,Somerset,,Pulaski,KY
+2173164,,21197,County Seat,Stanton,,Powell,KY
+2160852,,21195,County Seat,Pikeville,,Pike,KY
+2135362,,21193,County Seat,Hazard,,Perry,KY
+2126434,,21191,County Seat,Falmouth,,Pendleton,KY
+2108614,,21189,County Seat,Booneville,,Owsley,KY
+2158692,,21187,County Seat,Owenton,,Owen,KY
+2143480,,21185,County Seat,La Grange,,Oldham,KY
+2135020,,21183,County Seat,Hartford,,Ohio,KY
+2112898,,21181,County Seat,Carlisle,,Nicholas,KY
+2103628,,21179,County Seat,Bardstown,,Nelson,KY
+2133022,,21177,County Seat,Greenville,,Muhlenberg,KY
+2181858,,21175,County Seat,West Liberty,,Morgan,KY
+2154084,,21173,County Seat,Mount Sterling,,Montgomery,KY
+2177160,,21171,County Seat,Tompkinsville,,Monroe,KY
+2123968,,21169,County Seat,Edmonton,,Metcalfe,KY
+2134966,,21167,County Seat,Harrodsburg,,Mercer,KY
+2129260,,21165,County Seat,Frenchburg,,Menifee,KY
+2109226,,21163,County Seat,Brandenburg,,Meade,KY
+2151024,,21161,County Seat,Maysville,,Mason,KY
+2139430,,21159,County Seat,Inez,,Martin,KY
+2105824,,21157,County Seat,Benton,,Marshall,KY
+2144344,,21155,County Seat,Lebanon,,Marion,KY
+2168232,,21153,County Seat,Salyersville,,Magoffin,KY
+2165226,,21151,County Seat,Richmond,,Madison,KY
+2111854,,21149,County Seat,Calhoun,,McLean,KY
+2182938,,21147,County Seat,Whitley City,,McCreary,KY
+2158836,,21145,County Seat,Paducah,,McCracken,KY
+2123824,,21143,County Seat,Eddyville,,Lyon,KY
+2167512,,21141,County Seat,Russellville,,Logan,KY
+2171382,,21139,County Seat,Smithland,,Livingston,KY
+2173110,,21137,County Seat,Stanford,,Lincoln,KY
+2179068,,21135,County Seat,Vanceburg,,Lewis,KY
+2182776,,21133,County Seat,Whitesburg,,Letcher,KY
+2138908,,21131,County Seat,Hyden,,Leslie,KY
+2104546,,21129,County Seat,Beattyville,,Lee,KY
+2147854,,21127,County Seat,Louisa,,Lawrence,KY
+2147476,,21125,County Seat,London,,Laurel,KY
+2137396,,21123,County Seat,Hodgenville,,Larue,KY
+2103574,,21121,County Seat,Barbourville,,Knox,KY
+2137108,,21119,County Seat,Hindman,,Knott,KY
+2139142,,21117,County Seat,Independence,,Kenton,KY
+2158962,,21115,County Seat,Paintsville,,Johnson,KY
+2156136,,21113,County Seat,Nicholasville,,Jessamine,KY
+2148000,,21111,County Seat,Louisville,,Jefferson,KY
+2149116,,21109,County Seat,McKee,,Jackson,KY
+2149368,,21107,County Seat,Madisonville,,Hopkins,KY
+2115742,,21105,County Seat,Clinton,,Hickman,KY
+2155596,,21103,County Seat,New Castle,,Henry,KY
+2135866,,21101,County Seat,Henderson,,Henderson,KY
+2154570,,21099,County Seat,Munfordville,,Hart,KY
+2119432,,21097,County Seat,Cynthiana,,Harrison,KY
+2134732,,21095,County Seat,Harlan,,Harlan,KY
+2124274,,21093,County Seat,Elizabethtown,,Hardin,KY
+2135200,,21091,County Seat,Hawesville,,Hancock,KY
+2133004,,21089,County Seat,Greenup,,Greenup,KY
+2132968,,21087,County Seat,Greensburg,,Green,KY
+2144686,,21085,County Seat,Leitchfield,,Grayson,KY
+2150898,,21083,County Seat,Mayfield,,Graves,KY
+2183406,,21081,County Seat,Williamstown,,Grant,KY
+2143840,,21079,County Seat,Lancaster,,Garrard,KY
+2180706,,21077,County Seat,Warsaw,,Gallatin,KY
+2136298,,21075,County Seat,Hickman,,Fulton,KY
+2128900,,21073,State Capital   County Seat,Frankfort,,Franklin,KY
+2162940,,21071,County Seat,Prestonsburg,,Floyd,KY
+2127856,,21069,County Seat,Flemingsburg,,Fleming,KY
+2146027,,21067,County Seat,Lexington-Fayette,,Fayette,KY
+2139646,,21065,County Seat,Irvine,,Estill,KY
+2168556,,21063,County Seat,Sandy Hook,,Elliott,KY
+2110324,,21061,County Seat,Brownsville,,Edmonson,KY
+2158620,,21059,County Seat,Owensboro,,Daviess,KY
+2111098,,21057,County Seat,Burkesville,,Cumberland,KY
+2150034,,21055,County Seat,Marion,,Crittenden,KY
+2100694,,21053,County Seat,Albany,,Clinton,KY
+2149656,,21051,County Seat,Manchester,,Clay,KY
+2183676,,21049,County Seat,Winchester,,Clark,KY
+2137918,,21047,County Seat,Hopkinsville,,Christian,KY
+2146072,,21045,County Seat,Liberty,,Casey,KY
+2132572,,21043,County Seat,Grayson,,Carter,KY
+2113024,,21041,County Seat,Carrollton,,Carroll,KY
+2103664,,21039,County Seat,Bardwell,,Carlisle,KY
+2100802,,21037,County Seat,Alexandria,,Campbell,KY
+2154642,,21035,County Seat,Murray,,Calloway,KY
+2163138,,21033,County Seat,Princeton,,Caldwell,KY
+2153490,,21031,County Seat,Morgantown,,Butler,KY
+2170086,,21029,County Seat,Shepherdsville,,Bullitt,KY
+2134552,,21027,County Seat,Hardinsburg,,Breckinridge,KY
+2139952,,21025,County Seat,Jackson,,Breathitt,KY
+2110000,,21023,County Seat,Brooksville,,Bracken,KY
+2119882,,21021,County Seat,Danville,,Boyle,KY
+2113420,,21019,County Seat,Catlettsburg,,Boyd,KY
+2159196,,21017,County Seat,Paris,,Bourbon,KY
+2111170,,21015,County Seat,Burlington,,Boone,KY
+2161248,,21013,County Seat,Pineville,,Bell,KY
+2158710,,21011,County Seat,Owingsville,,Bath,KY
+2131114,,21009,County Seat,Glasgow,,Barren,KY
+2183064,,21007,County Seat,Wickliffe,,Ballard,KY
+2144146,,21005,County Seat,Lawrenceburg,,Anderson,KY
+2169114,,21003,County Seat,Scottsville,,Allen,KY
+2116750,,21001,County Seat,Columbia,,Adair,KY
+2036000,,20209,County Seat,Kansas City,,Wyandotte,KS
+2080700,,20207,County Seat,Yates Center,,Woodson,KS
+2024575,,20205,County Seat,Fredonia,,Wilson,KS
+2039550,,20203,County Seat,Leoti,,Wichita,KS
+2075825,,20201,County Seat,Washington,,Washington,KS
+2064375,,20199,County Seat,Sharon Springs,,Wallace,KS
+2001350,,20197,County Seat,Alma,,Wabaunsee,KS
+2074450,,20195,County Seat,WaKeeney,,Trego,KS
+2014650,,20193,County Seat,Colby,,Thomas,KS
+2076475,,20191,County Seat,Wellington,,Sumner,KS
+2033425,,20189,County Seat,Hugoton,,Stevens,KS
+2035600,,20187,County Seat,Johnson,,Stanton,KS
+2062275,,20185,County Seat,Saint John,,Stafford,KS
+2065925,,20183,County Seat,Smith Center,,Smith,KS
+2026875,,20181,County Seat,Goodland,,Sherman,KS
+2033350,,20179,County Seat,Hoxie,,Sheridan,KS
+2071000,,20177,State Capital   County Seat,Topeka,,Shawnee,KS
+2039825,,20175,County Seat,Liberal,,Seward,KS
+2079000,,20173,County Seat,Wichita,,Sedgwick,KS
+2063600,,20171,County Seat,Scott City,,Scott,KS
+2062700,,20169,County Seat,Salina,,Saline,KS
+2061825,,20167,County Seat,Russell,,Russell,KS
+2037500,,20165,County Seat,La Crosse,,Rush,KS
+2068350,,20163,County Seat,Stockton,,Rooks,KS
+2044250,,20161,County Seat,Manhattan,,Riley,KS
+2043525,,20159,County Seat,Lyons,,Rice,KS
+2005600,,20157,County Seat,Belleville,,Republic,KS
+2033625,,20155,County Seat,Hutchinson,,Reno,KS
+2003150,,20153,County Seat,Atwood,,Rawlins,KS
+2057625,,20151,County Seat,Pratt,,Pratt,KS
+2077200,,20149,County Seat,Westmoreland,,Pottawatomie,KS
+2055675,,20147,County Seat,Phillipsburg,,Phillips,KS
+2038700,,20145,County Seat,Larned,,Pawnee,KS
+2047075,,20143,County Seat,Minneapolis,,Ottawa,KS
+2053325,,20141,County Seat,Osborne,,Osborne,KS
+2043350,,20139,County Seat,Lyndon,,Osage,KS
+2051500,,20137,County Seat,Norton,,Norton,KS
+2049925,,20135,County Seat,Ness City,,Ness,KS
+2021500,,20133,County Seat,Erie,,Neosho,KS
+2063950,,20131,County Seat,Seneca,,Nemaha,KS
+2020350,,20129,County Seat,Elkhart,,Morton,KS
+2015925,,20127,County Seat,Council Grove,,Morris,KS
+2033875,,20125,County Seat,Independence,,Montgomery,KS
+2005775,,20123,County Seat,Beloit,,Mitchell,KS
+2054250,,20121,County Seat,Paola,,Miami,KS
+2045325,,20119,County Seat,Meade,,Meade,KS
+2045050,,20117,County Seat,Marysville,,Marshall,KS
+2044750,,20115,County Seat,Marion,,Marion,KS
+2043950,,20113,County Seat,McPherson,,McPherson,KS
+2021275,,20111,County Seat,Emporia,,Lyon,KS
+2051825,,20109,County Seat,Oakley,,Logan,KS
+2048750,,20107,County Seat,Mound City,,Linn,KS
+2041300,,20105,County Seat,Lincoln,,Lincoln,KS
+2039000,,20103,County Seat,Leavenworth,,Leavenworth,KS
+2018050,,20101,County Seat,Dighton,,Lane,KS
+2053450,,20099,County Seat,Oswego,,Labette,KS
+2028675,,20097,County Seat,Greensburg,,Kiowa,KS
+2036950,,20095,County Seat,Kingman,,Kingman,KS
+2038175,,20093,County Seat,Lakin,,Kearny,KS
+2052575,,20091,County Seat,Olathe,,Johnson,KS
+2044300,,20089,County Seat,Mankato,,Jewell,KS
+2053375,,20087,County Seat,Oskaloosa,,Jefferson,KS
+2032825,,20085,County Seat,Holton,,Jackson,KS
+2035450,,20083,County Seat,Jetmore,,Hodgeman,KS
+2068775,,20081,County Seat,Sublette,,Haskell,KS
+2050475,,20079,County Seat,Newton,,Harvey,KS
+2001975,,20077,County Seat,Anthony,,Harper,KS
+2069850,,20075,County Seat,Syracuse,,Hamilton,KS
+2021800,,20073,County Seat,Eureka,,Greenwood,KS
+2071450,,20071,County Seat,Tribune,,Greeley,KS
+2013275,,20069,County Seat,Cimarron,,Gray,KS
+2071975,,20067,County Seat,Ulysses,,Grant,KS
+2032175,,20065,County Seat,Hill City,,Graham,KS
+2027125,,20063,County Seat,Gove City,,Gove,KS
+2035750,,20061,County Seat,Junction City,,Geary,KS
+2053550,,20059,County Seat,Ottawa,,Franklin,KS
+2018250,,20057,County Seat,Dodge City,,Ford,KS
+2025325,,20055,County Seat,Garden City,,Finney,KS
+2020500,,20053,County Seat,Ellsworth,,Ellsworth,KS
+2031100,,20051,County Seat,Hays,,Ellis,KS
+2033250,,20049,County Seat,Howard,,Elk,KS
+2037075,,20047,County Seat,Kinsley,,Edwards,KS
+2038900,,20045,County Seat,Lawrence,,Douglas,KS
+2071575,,20043,County Seat,Troy,,Doniphan,KS
+2000125,,20041,County Seat,Abilene,,Dickinson,KS
+2052000,,20039,County Seat,Oberlin,,Decatur,KS
+2026300,,20037,County Seat,Girard,,Crawford,KS
+2079950,,20035,County Seat,Winfield,,Cowley,KS
+2014700,,20033,County Seat,Coldwater,,Comanche,KS
+2009400,,20031,County Seat,Burlington,,Coffey,KS
+2015200,,20029,County Seat,Concordia,,Cloud,KS
+2013625,,20027,County Seat,Clay Center,,Clay,KS
+2002675,,20025,County Seat,Ashland,,Clark,KS
+2062175,,20023,County Seat,Saint Francis,,Cheyenne,KS
+2015075,,20021,County Seat,Columbus,,Cherokee,KS
+2063750,,20019,County Seat,Sedan,,Chautauqua,KS
+2015900,,20017,County Seat,Cottonwood Falls,,Chase,KS
+2020075,,20015,County Seat,El Dorado,,Butler,KS
+2031675,,20013,County Seat,Hiawatha,,Brown,KS
+2024000,,20011,County Seat,Fort Scott,,Bourbon,KS
+2028300,,20009,County Seat,Great Bend,,Barton,KS
+2045500,,20007,County Seat,Medicine Lodge,,Barber,KS
+2002900,,20005,County Seat,Atchison,,Atchison,KS
+2025925,,20003,County Seat,Garnett,,Anderson,KS
+2034300,,20001,County Seat,Iola,,Allen,KS
+1913620,,19197,County Seat,Clarion,,Wright,IA
+1957630,,19195,County Seat,Northwood,,Worth,IA
+1973335,,19193,County Seat,Sioux City,,Woodbury,IA
+1919405,,19191,County Seat,Decorah,,Winneshiek,IA
+1928380,,19189,County Seat,Forest City,,Winnebago,IA
+1928515,,19187,County Seat,Fort Dodge,,Webster,IA
+1916635,,19185,County Seat,Corydon,,Wayne,IA
+1982335,,19183,County Seat,Washington,,Washington,IA
+1938280,,19181,County Seat,Indianola,,Warren,IA
+1960465,,19179,County Seat,Ottumwa,,Wapello,IA
+1940935,,19177,County Seat,Keosauqua,,Van Buren,IA
+1917265,,19175,County Seat,Creston,,Union,IA
+1905365,,19173,County Seat,Bedford,,Taylor,IA
+1978510,,19171,County Seat,Toledo,,Tama,IA
+1955695,,19169,County Seat,Nevada,,Story,IA
+1959475,,19167,County Seat,Orange City,,Sioux,IA
+1934500,,19165,County Seat,Harlan,,Shelby,IA
+1919000,,19163,County Seat,Davenport,,Scott,IA
+1969645,,19161,County Seat,Sac City,,Sac,IA
+1954480,,19159,County Seat,Mount Ayr,,Ringgold,IA
+1953490,,19157,County Seat,Montezuma,,Poweshiek,IA
+1916860,,19155,County Seat,Council Bluffs,,Pottawattamie,IA
+1921000,,19153,State Capital   County Seat,Des Moines,,Polk,IA
+1963975,,19151,County Seat,Pocahontas,,Pocahontas,IA
+1944400,,19149,County Seat,Le Mars,,Plymouth,IA
+1925590,,19147,County Seat,Emmetsburg,,Palo Alto,IA
+1913575,,19145,County Seat,Clarinda,,Page,IA
+1972975,,19143,County Seat,Sibley,,Osceola,IA
+1964650,,19141,County Seat,Primghar,,O'Brien,IA
+1955110,,19139,County Seat,Muscatine,,Muscatine,IA
+1966135,,19137,County Seat,Red Oak,,Montgomery,IA
+1900910,,19135,County Seat,Albia,,Monroe,IA
+1959115,,19133,County Seat,Onawa,,Monona,IA
+1959745,,19131,County Seat,Osage,,Mitchell,IA
+1931350,,19129,County Seat,Glenwood,,Mills,IA
+1949755,,19127,County Seat,Marshalltown,,Marshall,IA
+1942015,,19125,County Seat,Knoxville,,Marion,IA
+1959925,,19123,County Seat,Oskaloosa,,Mahaska,IA
+1986520,,19121,County Seat,Winterset,,Madison,IA
+1968160,,19119,County Seat,Rock Rapids,,Lyon,IA
+1912720,,19117,County Seat,Chariton,,Lucas,IA
+1982200,,19115,County Seat,Wapello,,Louisa,IA
+1912000,,19113,County Seat,Cedar Rapids,,Linn,IA
+1928605,,19111,County Seat,Fort Madison,,Lee,IA
+1901135,,19109,County Seat,Algona,,Kossuth,IA
+1973110,,19107,County Seat,Sigourney,,Keokuk,IA
+1901990,,19105,County Seat,Anamosa,,Jones,IA
+1938595,,19103,County Seat,Iowa City,,Johnson,IA
+1926445,,19101,County Seat,Fairfield,,Jefferson,IA
+1956505,,19099,County Seat,Newton,,Jasper,IA
+1949215,,19097,County Seat,Maquoketa,,Jackson,IA
+1949395,,19095,County Seat,Marengo,,Iowa,IA
+1938010,,19093,County Seat,Ida Grove,,Ida,IA
+1918075,,19091,County Seat,Dakota City,,Humboldt,IA
+1917220,,19089,County Seat,Cresco,,Howard,IA
+1954705,,19087,County Seat,Mount Pleasant,,Henry,IA
+1946155,,19085,County Seat,Logan,,Harrison,IA
+1924465,,19083,County Seat,Eldora,,Hardin,IA
+1929955,,19081,County Seat,Garner,,Hancock,IA
+1983145,,19079,County Seat,Webster City,,Hamilton,IA
+1933420,,19077,County Seat,Guthrie Center,,Guthrie,IA
+1933195,,19075,County Seat,Grundy Center,,Grundy,IA
+1939450,,19073,County Seat,Jefferson,,Greene,IA
+1973065,,19071,County Seat,Sidney,,Fremont,IA
+1933960,,19069,County Seat,Hampton,,Franklin,IA
+1912765,,19067,County Seat,Charles City,,Floyd,IA
+1984765,,19065,County Seat,West Union,,Fayette,IA
+1925860,,19063,County Seat,Estherville,,Emmet,IA
+1922395,,19061,County Seat,Dubuque,,Dubuque,IA
+1974415,,19059,County Seat,Spirit Lake,,Dickinson,IA
+1909550,,19057,County Seat,Burlington,,Des Moines,IA
+1948810,,19055,County Seat,Manchester,,Delaware,IA
+1944535,,19053,County Seat,Leon,,Decatur,IA
+1907030,,19051,County Seat,Bloomfield,,Davis,IA
+1900505,,19049,County Seat,Adel,,Dallas,IA
+1919945,,19047,County Seat,Denison,,Crawford,IA
+1914430,,19045,County Seat,Clinton,,Clinton,IA
+1924690,,19043,County Seat,Elkader,,Clayton,IA
+1974280,,19041,County Seat,Spencer,,Clay,IA
+1959835,,19039,County Seat,Osceola,,Clarke,IA
+1956100,,19037,County Seat,New Hampton,,Chickasaw,IA
+1913080,,19035,County Seat,Cherokee,,Cherokee,IA
+1950160,,19033,County Seat,Mason City,,Cerro Gordo,IA
+1978285,,19031,County Seat,Tipton,,Cedar,IA
+1903520,,19029,County Seat,Atlantic,,Cass,IA
+1911080,,19027,County Seat,Carroll,,Carroll,IA
+1968295,,19025,County Seat,Rockwell City,,Calhoun,IA
+1901315,,19023,County Seat,Allison,,Butler,IA
+1975630,,19021,County Seat,Storm Lake,,Buena Vista,IA
+1938100,,19019,County Seat,Independence,,Buchanan,IA
+1982875,,19017,County Seat,Waverly,,Bremer,IA
+1907480,,19015,County Seat,Boone,,Boone,IA
+1982425,,19013,County Seat,Waterloo,,Black Hawk,IA
+1981210,,19011,County Seat,Vinton,,Benton,IA
+1903655,,19009,County Seat,Audubon,,Audubon,IA
+1912315,,19007,County Seat,Centerville,,Appanoose,IA
+1982740,,19005,County Seat,Waukon,,Allamakee,IA
+1916500,,19003,County Seat,Corning,,Adams,IA
+1932790,,19001,County Seat,Greenfield,,Adair,IA
+1814716,,18183,County Seat,Columbia City,,Whitley,IN
+1850760,,18181,County Seat,Monticello,,White,IN
+1806220,,18179,County Seat,Bluffton,,Wells,IN
+1864260,,18177,County Seat,Richmond,,Wayne,IN
+1867464,,18175,County Seat,Salem,,Washington,IN
+1806616,,18173,County Seat,Boonville,,Warrick,IN
+1884410,,18171,County Seat,Williamsport,,Warren,IN
+1879370,,18169,County Seat,Wabash,,Wabash,IN
+1875428,,18167,County Seat,Terre Haute,,Vigo,IN
+1853496,,18165,County Seat,Newport,,Vermillion,IN
+1822000,,18163,County Seat,Evansville,,Vanderburgh,IN
+1843434,,18161,County Seat,Liberty,,Union,IN
+1875986,,18159,County Seat,Tipton,,Tipton,IN
+1840788,,18157,County Seat,Lafayette,,Tippecanoe,IN
+1879010,,18155,County Seat,Vevay,,Switzerland,IN
+1874006,,18153,County Seat,Sullivan,,Sullivan,IN
+1801666,,18151,County Seat,Angola,,Steuben,IN
+1840374,,18149,County Seat,Knox,,Starke,IN
+1865484,,18147,County Seat,Rockport,,Spencer,IN
+1869318,,18145,County Seat,Shelbyville,,Shelby,IN
+1868526,,18143,County Seat,Scottsburg,,Scott,IN
+1871000,,18141,County Seat,South Bend,,Saint Joseph,IN
+1866438,,18139,County Seat,Rushville,,Rush,IN
+1878974,,18137,County Seat,Versailles,,Ripley,IN
+1884752,,18135,County Seat,Winchester,,Randolph,IN
+1829358,,18133,County Seat,Greencastle,,Putnam,IN
+1884734,,18131,County Seat,Winamac,,Pulaski,IN
+1851732,,18129,County Seat,Mount Vernon,,Posey,IN
+1878326,,18127,County Seat,Valparaiso,,Porter,IN
+1859364,,18125,County Seat,Petersburg,,Pike,IN
+1810108,,18123,County Seat,Cannelton,,Perry,IN
+1865520,,18121,County Seat,Rockville,,Parke,IN
+1871972,,18119,County Seat,Spencer,,Owen,IN
+1857780,,18117,County Seat,Paoli,,Orange,IN
+1864674,,18115,County Seat,Rising Sun,,Ohio,IN
+1800820,,18113,County Seat,Albion,,Noble,IN
+1839546,,18111,County Seat,Kentland,,Newton,IN
+1847448,,18109,County Seat,Martinsville,,Morgan,IN
+1815742,,18107,County Seat,Crawfordsville,,Montgomery,IN
+1805860,,18105,County Seat,Bloomington,,Monroe,IN
+1859328,,18103,County Seat,Peru,,Miami,IN
+1869552,,18101,County Seat,Shoals,,Martin,IN
+1860822,,18099,County Seat,Plymouth,,Marshall,IN
+1836003,,18097,State Capital   County Seat,Indianapolis,,Marion,IN
+1801468,,18095,County Seat,Anderson,,Madison,IN
+1804114,,18093,County Seat,Bedford,,Lawrence,IN
+1842246,,18091,County Seat,La Porte,,La Porte,IN
+1816138,,18089,County Seat,Crown Point,,Lake,IN
+1840860,,18087,County Seat,Lagrange,,Lagrange,IN
+1880306,,18085,County Seat,Warsaw,,Kosciusko,IN
+1879208,,18083,County Seat,Vincennes,,Knox,IN
+1825450,,18081,County Seat,Franklin,,Johnson,IN
+1878902,,18079,County Seat,Vernon,,Jennings,IN
+1845990,,18077,County Seat,Madison,,Jefferson,IN
+1861236,,18075,County Seat,Portland,,Jay,IN
+1863792,,18073,County Seat,Rensselaer,,Jasper,IN
+1808470,,18071,County Seat,Brownstown,,Jackson,IN
+1835302,,18069,County Seat,Huntington,,Huntington,IN
+1840392,,18067,County Seat,Kokomo,,Howard,IN
+1852740,,18065,County Seat,New Castle,,Henry,IN
+1816804,,18063,County Seat,Danville,,Hendricks,IN
+1815256,,18061,County Seat,Corydon,,Harrison,IN
+1829520,,18059,County Seat,Greenfield,,Hancock,IN
+1854180,,18057,County Seat,Noblesville,,Hamilton,IN
+1805716,,18055,County Seat,Bloomfield,,Greene,IN
+1846908,,18053,County Seat,Marion,,Grant,IN
+1862046,,18051,County Seat,Princeton,,Gibson,IN
+1865214,,18049,County Seat,Rochester,,Fulton,IN
+1808182,,18047,County Seat,Brookville,,Franklin,IN
+1815490,,18045,County Seat,Covington,,Fountain,IN
+1852326,,18043,County Seat,New Albany,,Floyd,IN
+1814932,,18041,County Seat,Connersville,,Fayette,IN
+1828386,,18039,County Seat,Goshen,,Elkhart,IN
+1837782,,18037,County Seat,Jasper,,Dubois,IN
+1851876,,18035,County Seat,Muncie,,Delaware,IN
+1802674,,18033,County Seat,Auburn,,De Kalb,IN
+1829718,,18031,County Seat,Greensburg,,Decatur,IN
+1842462,,18029,County Seat,Lawrenceburg,,Dearborn,IN
+1880504,,18027,County Seat,Washington,,Daviess,IN
+1821214,,18025,County Seat,English,,Crawford,IN
+1825324,,18023,County Seat,Frankfort,,Clinton,IN
+1807174,,18021,County Seat,Brazil,,Clay,IN
+1838358,,18019,County Seat,Jeffersonville,,Clark,IN
+1844658,,18017,County Seat,Logansport,,Cass,IN
+1817614,,18015,County Seat,Delphi,,Carroll,IN
+1852038,,18013,County Seat,Nashville,,Brown,IN
+1842624,,18011,County Seat,Lebanon,,Boone,IN
+1832242,,18009,County Seat,Hartford City,,Blackford,IN
+1825180,,18007,County Seat,Fowler,,Benton,IN
+1814734,,18005,County Seat,Columbus,,Bartholomew,IN
+1825000,,18003,County Seat,Fort Wayne,,Allen,IN
+1817074,,18001,County Seat,Decatur,,Adams,IN
+1724543,,17203,County Seat,Eureka,,Woodford,IL
+1765000,,17201,County Seat,Rockford,,Winnebago,IL
+1746916,,17199,County Seat,Marion,,Williamson,IL
+1738570,,17197,County Seat,Joliet,,Will,IL
+1750530,,17195,County Seat,Morrison,,Whiteside,IL
+1711293,,17193,County Seat,Carmi,,White,IL
+1724816,,17191,County Seat,Fairfield,,Wayne,IL
+1751700,,17189,County Seat,Nashville,,Washington,IL
+1750010,,17187,County Seat,Monmouth,,Warren,IL
+1750868,,17185,County Seat,Mount Carmel,,Wabash,IL
+1718563,,17183,County Seat,Danville,,Vermilion,IL
+1738635,,17181,County Seat,Jonesboro,,Union,IL
+1758447,,17179,County Seat,Pekin,,Tazewell,IL
+1727884,,17177,County Seat,Freeport,,Stephenson,IL
+1775783,,17175,County Seat,Toulon,,Stark,IL
+1769186,,17173,County Seat,Shelbyville,,Shelby,IL
+1782270,,17171,County Seat,Winchester,,Scott,IL
+1766339,,17169,County Seat,Rushville,,Schuyler,IL
+1772000,,17167,State Capital   County Seat,Springfield,,Sangamon,IL
+1733136,,17165,County Seat,Harrisburg,,Saline,IL
+1704845,,17163,County Seat,Belleville,,Saint Clair,IL
+1765078,,17161,County Seat,Rock Island,,Rock Island,IL
+1755912,,17159,County Seat,Olney,,Richland,IL
+1713139,,17157,County Seat,Chester,,Randolph,IL
+1734098,,17155,County Seat,Hennepin,,Putnam,IL
+1750751,,17153,County Seat,Mound City,,Pulaski,IL
+1730133,,17151,County Seat,Golconda,,Pope,IL
+1760222,,17149,County Seat,Pittsfield,,Pike,IL
+1750244,,17147,County Seat,Monticello,,Piatt,IL
+1759884,,17145,County Seat,Pinckneyville,,Perry,IL
+1759000,,17143,County Seat,Peoria,,Peoria,IL
+1756484,,17141,County Seat,Oregon,,Ogle,IL
+1773495,,17139,County Seat,Sullivan,,Moultrie,IL
+1738115,,17137,County Seat,Jacksonville,,Morgan,IL
+1735047,,17135,County Seat,Hillsboro,,Montgomery,IL
+1779150,,17133,County Seat,Waterloo,,Monroe,IL
+1700646,,17131,County Seat,Aledo,,Mercer,IL
+1759312,,17129,County Seat,Petersburg,,Menard,IL
+1748645,,17127,County Seat,Metropolis,,Massac,IL
+1733513,,17125,County Seat,Havana,,Mason,IL
+1740559,,17123,County Seat,Lacon,,Marshall,IL
+1767236,,17121,County Seat,Salem,,Marion,IL
+1722697,,17119,County Seat,Edwardsville,,Madison,IL
+1711202,,17117,County Seat,Carlinville,,Macoupin,IL
+1718823,,17115,County Seat,Decatur,,Macon,IL
+1706613,,17113,County Seat,Bloomington,,McLean,IL
+1783349,,17111,County Seat,Woodstock,,McHenry,IL
+1745889,,17109,County Seat,Macomb,,McDonough,IL
+1743536,,17107,County Seat,Lincoln,,Logan,IL
+1761015,,17105,County Seat,Pontiac,,Livingston,IL
+1720162,,17103,County Seat,Dixon,,Lee,IL
+1742405,,17101,County Seat,Lawrenceville,,Lawrence,IL
+1756926,,17099,County Seat,Ottawa,,La Salle,IL
+1779293,,17097,County Seat,Waukegan,,Lake,IL
+1728326,,17095,County Seat,Galesburg,,Knox,IL
+1784038,,17093,County Seat,Yorkville,,Kendall,IL
+1738934,,17091,County Seat,Kankakee,,Kankakee,IL
+1728872,,17089,County Seat,Geneva,,Kane,IL
+1777863,,17087,County Seat,Vienna,,Johnson,IL
+1728300,,17085,County Seat,Galena,,Jo Daviess,IL
+1738414,,17083,County Seat,Jerseyville,,Jersey,IL
+1751180,,17081,County Seat,Mount Vernon,,Jefferson,IL
+1752844,,17079,County Seat,Newton,,Jasper,IL
+1751453,,17077,County Seat,Murphysboro,,Jackson,IL
+1779228,,17075,County Seat,Watseka,,Iroquois,IL
+1710643,,17073,County Seat,Cambridge,,Henry,IL
+1756237,,17071,County Seat,Oquawka,,Henderson,IL
+1723191,,17069,County Seat,Elizabethtown,,Hardin,IL
+1711527,,17067,County Seat,Carthage,,Hancock,IL
+1745824,,17065,County Seat,McLeansboro,,Hamilton,IL
+1750491,,17063,County Seat,Morris,,Grundy,IL
+1711462,,17061,County Seat,Carrollton,,Greene,IL
+1769082,,17059,County Seat,Shawneetown,,Gallatin,IL
+1743055,,17057,County Seat,Lewistown,,Fulton,IL
+1705300,,17055,County Seat,Benton,,Franklin,IL
+1758239,,17053,County Seat,Paxton,,Ford,IL
+1777317,,17051,County Seat,Vandalia,,Fayette,IL
+1722736,,17049,County Seat,Effingham,,Effingham,IL
+1700568,,17047,County Seat,Albion,,Edwards,IL
+1757628,,17045,County Seat,Paris,,Edgar,IL
+1781048,,17043,County Seat,Wheaton,,DuPage,IL
+1776407,,17041,County Seat,Tuscola,,Douglas,IL
+1715001,,17039,County Seat,Clinton,,De Witt,IL
+1774223,,17037,County Seat,Sycamore,,DeKalb,IL
+1775601,,17035,County Seat,Toledo,,Cumberland,IL
+1764707,,17033,County Seat,Robinson,,Crawford,IL
+1714000,,17031,County Seat,Chicago,,Cook,IL
+1712567,,17029,County Seat,Charleston,,Coles,IL
+1711228,,17027,County Seat,Carlyle,,Clinton,IL
+1744927,,17025,County Seat,Louisville,,Clay,IL
+1747163,,17023,County Seat,Marshall,,Clark,IL
+1774574,,17021,County Seat,Taylorville,,Christian,IL
+1777005,,17019,County Seat,Urbana,,Champaign,IL
+1778201,,17017,County Seat,Virginia,,Cass,IL
+1750881,,17015,County Seat,Mount Carroll,,Carroll,IL
+1732850,,17013,County Seat,Hardin,,Calhoun,IL
+1761899,,17011,County Seat,Princeton,,Bureau,IL
+1751154,,17009,County Seat,Mount Sterling,,Brown,IL
+1705092,,17007,County Seat,Belvidere,,Boone,IL
+1731589,,17005,County Seat,Greenville,,Bond,IL
+1710383,,17003,County Seat,Cairo,,Alexander,IL
+1762367,,17001,County Seat,Quincy,,Adams,IL
+1686140,,16087,County Seat,Weiser,,Washington,ID
+1613150,,16085,County Seat,Cascade,,Valley,ID
+1682810,,16083,County Seat,Twin Falls,,Twin Falls,ID
+1622690,,16081,County Seat,Driggs,,Teton,ID
+1684790,,16079,County Seat,Wallace,,Shoshone,ID
+1601900,,16077,County Seat,American Falls,,Power,ID
+1661300,,16075,County Seat,Payette,,Payette,ID
+1655720,,16073,County Seat,Murphy,,Owyhee,ID
+1650140,,16071,County Seat,Malad City,,Oneida,ID
+1646540,,16069,County Seat,Lewiston,,Nez Perce,ID
+1670660,,16067,County Seat,Rupert,,Minidoka,ID
+1667420,,16065,County Seat,Rexburg,,Madison,ID
+1673900,,16063,County Seat,Shoshone,,Lincoln,ID
+1657250,,16061,County Seat,Nezperce,,Lewis,ID
+1671650,,16059,County Seat,Salmon,,Lemhi,ID
+1654550,,16057,County Seat,Moscow,,Latah,ID
+1616750,,16055,County Seat,Coeur d'Alene,,Kootenai,ID
+1641320,,16053,County Seat,Jerome,,Jerome,ID
+1667780,,16051,County Seat,Rigby,,Jefferson,ID
+1632950,,16049,County Seat,Grangeville,,Idaho,ID
+1632140,,16047,County Seat,Gooding,,Gooding,ID
+1625570,,16045,County Seat,Emmett,,Gem,ID
+1671020,,16043,County Seat,Saint Anthony,,Fremont,ID
+1665260,,16041,County Seat,Preston,,Franklin,ID
+1654730,,16039,County Seat,Mountain Home,,Elmore,ID
+1613780,,16037,County Seat,Challis,,Custer,ID
+1659320,,16035,County Seat,Orofino,,Clearwater,ID
+1622960,,16033,County Seat,Dubois,,Clark,ID
+1611260,,16031,County Seat,Burley,,Cassia,ID
+1675195,,16029,County Seat,Soda Springs,,Caribou,ID
+1612250,,16027,County Seat,Caldwell,,Canyon,ID
+1626290,,16025,County Seat,Fairfield,,Camas,ID
+1603160,,16023,County Seat,Arco,,Butte,ID
+1609370,,16021,County Seat,Bonners Ferry,,Boundary,ID
+1639700,,16019,County Seat,Idaho Falls,,Bonneville,ID
+1672100,,16017,County Seat,Sandpoint,,Bonner,ID
+1639610,,16015,County Seat,Idaho City,,Boise,ID
+1634390,,16013,County Seat,Hailey,,Blaine,ID
+1607840,,16011,County Seat,Blackfoot,,Bingham,ID
+1671470,,16009,County Seat,Saint Maries,,Benewah,ID
+1660580,,16007,County Seat,Paris,,Bear Lake,ID
+1664090,,16005,County Seat,Pocatello,,Bannock,ID
+1618820,,16003,County Seat,Council,,Adams,ID
+1608830,,16001,State Capital   County Seat,Boise,,Ada,ID
+1375188,,13321,County Seat,Sylvester,,Worth,GA
+1341400,,13319,County Seat,Irwinton,,Wilkinson,GA
+1380704,,13317,County Seat,Washington,,Wilkes,GA
+1300184,,13315,County Seat,Abbeville,,Wilcox,GA
+1321380,,13313,County Seat,Dalton,,Whitfield,GA
+1316824,,13311,County Seat,Cleveland,,White,GA
+1300996,,13309,County Seat,Alamo,,Wheeler,GA
+1362720,,13307,County Seat,Preston,,Webster,GA
+1342268,,13305,County Seat,Jesup,,Wayne,GA
+1368208,,13303,County Seat,Sandersville,,Washington,GA
+1380592,,13301,County Seat,Warrenton,,Warren,GA
+1380956,,13299,County Seat,Waycross,,Ware,GA
+1352192,,13297,County Seat,Monroe,,Walton,GA
+1344312,,13295,County Seat,La Fayette,,Walker,GA
+1376168,,13293,County Seat,Thomaston,,Upson,GA
+1308480,,13291,County Seat,Blairsville,,Union,GA
+1342100,,13289,County Seat,Jeffersonville,,Twiggs,GA
+1303236,,13287,County Seat,Ashburn,,Turner,GA
+1344340,,13285,County Seat,La Grange,,Troup,GA
+1371772,,13283,County Seat,Soperton,,Treutlen,GA
+1338124,,13281,County Seat,Hiawassee,,Towns,GA
+1348232,,13279,County Seat,Lyons,,Toombs,GA
+1376476,,13277,County Seat,Tifton,,Tift,GA
+1376224,,13275,County Seat,Thomasville,,Thomas,GA
+1321912,,13273,County Seat,Dawson,,Terrell,GA
+1349084,,13271,County Seat,McRae,,Telfair,GA
+1312120,,13269,County Seat,Butler,,Taylor,GA
+1364512,,13267,County Seat,Reidsville,,Tattnall,GA
+1320316,,13265,County Seat,Crawfordville,,Taliaferro,GA
+1375244,,13263,County Seat,Talbotton,,Talbot,GA
+1302116,,13261,County Seat,Americus,,Sumter,GA
+1347980,,13259,County Seat,Lumpkin,,Stewart,GA
+1376756,,13257,County Seat,Toccoa,,Stephens,GA
+1335324,,13255,County Seat,Griffin,,Spalding,GA
+1323368,,13253,County Seat,Donalsonville,,Seminole,GA
+1375160,,13251,County Seat,Sylvania,,Screven,GA
+1326980,,13249,County Seat,Ellaville,,Schley,GA
+1319336,,13247,County Seat,Conyers,,Rockdale,GA
+1304204,,13245,County Seat,Augusta,,Richmond,GA
+1321072,,13243,County Seat,Cuthbert,,Randolph,GA
+1316656,,13241,County Seat,Clayton,,Rabun,GA
+1332524,,13239,County Seat,Georgetown,,Quitman,GA
+1326084,,13237,County Seat,Eatonton,,Putnam,GA
+1337396,,13235,County Seat,Hawkinsville,,Pulaski,GA
+1314500,,13233,County Seat,Cedartown,,Polk,GA
+1385128,,13231,County Seat,Zebulon,,Pike,GA
+1308284,,13229,County Seat,Blackshear,,Pierce,GA
+1341932,,13227,County Seat,Jasper,,Pickens,GA
+1331096,,13225,County Seat,Fort Valley,,Peach,GA
+1321324,,13223,County Seat,Dallas,,Paulding,GA
+1346188,,13221,County Seat,Lexington,,Oglethorpe,GA
+1380788,,13219,County Seat,Watkinsville,,Oconee,GA
+1320064,,13217,County Seat,Covington,,Newton,GA
+1319007,,13215,County Seat,Columbus,,Muscogee,GA
+1315508,,13213,County Seat,Chatsworth,,Murray,GA
+1349196,,13211,County Seat,Madison,,Morgan,GA
+1353508,,13209,County Seat,Mount Vernon,,Montgomery,GA
+1330732,,13207,County Seat,Forsyth,,Monroe,GA
+1312624,,13205,County Seat,Camilla,,Mitchell,GA
+1318000,,13201,County Seat,Colquitt,,Miller,GA
+1335016,,13199,County Seat,Greenville,,Meriwether,GA
+1311728,,13197,County Seat,Buena Vista,,Marion,GA
+1321632,,13195,County Seat,Danielsville,,Madison,GA
+1357736,,13193,County Seat,Oglethorpe,,Macon,GA
+1321716,,13191,County Seat,Darien,,McIntosh,GA
+1376280,,13189,County Seat,Thomson,,McDuffie,GA
+1321240,,13187,County Seat,Dahlonega,,Lumpkin,GA
+1378800,,13185,County Seat,Valdosta,,Lowndes,GA
+1347784,,13183,County Seat,Ludowici,,Long,GA
+1346552,,13181,County Seat,Lincolnton,,Lincoln,GA
+1338964,,13179,County Seat,Hinesville,,Liberty,GA
+1345768,,13177,County Seat,Leesburg,,Lee,GA
+1324376,,13175,County Seat,Dublin,,Laurens,GA
+1344592,,13173,County Seat,Lakeland,,Lanier,GA
+1305344,,13171,County Seat,Barnesville,,Lamar,GA
+1334512,,13169,County Seat,Gray,,Jones,GA
+1384512,,13167,County Seat,Wrightsville,,Johnson,GA
+1351520,,13165,County Seat,Millen,,Jenkins,GA
+1347560,,13163,County Seat,Louisville,,Jefferson,GA
+1337564,,13161,County Seat,Hazlehurst,,Jeff Davis,GA
+1352416,,13159,County Seat,Monticello,,Jasper,GA
+1341988,,13157,County Seat,Jefferson,,Jackson,GA
+1357428,,13155,County Seat,Ocilla,,Irwin,GA
+1360340,,13153,County Seat,Perry,,Houston,GA
+1348624,,13151,County Seat,McDonough,,Henry,GA
+1331292,,13149,County Seat,Franklin,,Heard,GA
+1337144,,13147,County Seat,Hartwell,,Hart,GA
+1336220,,13145,County Seat,Hamilton,,Harris,GA
+1311616,,13143,County Seat,Buchanan,,Haralson,GA
+1372584,,13141,County Seat,Sparta,,Hancock,GA
+1331908,,13139,County Seat,Gainesville,,Hall,GA
+1316460,,13137,County Seat,Clarkesville,,Habersham,GA
+1345488,,13135,County Seat,Lawrenceville,,Gwinnett,GA
+1334876,,13133,County Seat,Greensboro,,Greene,GA
+1312400,,13131,County Seat,Cairo,,Grady,GA
+1312456,,13129,County Seat,Calhoun,,Gordon,GA
+1311560,,13127,County Seat,Brunswick,,Glynn,GA
+1332748,,13125,County Seat,Gibson,,Glascock,GA
+1327092,,13123,County Seat,Ellijay,,Gilmer,GA
+1304000,,13121,State Capital   County Seat,Atlanta,,Fulton,GA
+1313352,,13119,County Seat,Carnesville,,Franklin,GA
+1320932,,13117,County Seat,Cumming,,Forsyth,GA
+1366668,,13115,County Seat,Rome,,Floyd,GA
+1328968,,13113,County Seat,Fayetteville,,Fayette,GA
+1308928,,13111,County Seat,Blue Ridge,,Fannin,GA
+1316600,,13109,County Seat,Claxton,,Evans,GA
+1374964,,13107,County Seat,Swainsboro,,Emanuel,GA
+1326616,,13105,County Seat,Elberton,,Elbert,GA
+1372780,,13103,County Seat,Springfield,,Effingham,GA
+1373200,,13101,County Seat,Statenville,,Echols,GA
+1308536,,13099,County Seat,Blakely,,Early,GA
+1323900,,13097,County Seat,Douglasville,,Douglas,GA
+1301052,,13095,County Seat,Albany,,Dougherty,GA
+1379444,,13093,County Seat,Vienna,,Dooly,GA
+1325552,,13091,County Seat,Eastman,,Dodge,GA
+1322052,,13089,County Seat,Decatur,,DeKalb,GA
+1304896,,13087,County Seat,Bainbridge,,Decatur,GA
+1321940,,13085,County Seat,Dawsonville,,Dawson,GA
+1377372,,13083,County Seat,Trenton,,Dade,GA
+1319616,,13081,County Seat,Cordele,,Crisp,GA
+1344060,,13079,County Seat,Knoxville,,Crawford,GA
+1355020,,13077,County Seat,Newnan,,Coweta,GA
+1300576,,13075,County Seat,Adel,,Cook,GA
+1302536,,13073,County Seat,Appling,,Columbia,GA
+1353060,,13071,County Seat,Moultrie,,Colquitt,GA
+1323872,,13069,County Seat,Douglas,,Coffee,GA
+1349756,,13067,County Seat,Marietta,,Cobb,GA
+1339748,,13065,County Seat,Homerville,,Clinch,GA
+1342604,,13063,County Seat,Jonesboro,,Clayton,GA
+1330816,,13061,County Seat,Fort Gaines,,Clay,GA
+1303440,,13059,County Seat,Athens,,Clarke,GA
+1312988,,13057,County Seat,Canton,,Cherokee,GA
+1374376,,13055,County Seat,Summerville,,Chattooga,GA
+1321016,,13053,County Seat,Cusseta,,Chattahoochee,GA
+1369000,,13051,County Seat,Savannah,,Chatham,GA
+1330424,,13049,County Seat,Folkston,,Charlton,GA
+1365324,,13047,County Seat,Ringgold,,Catoosa,GA
+1313492,,13045,County Seat,Carrollton,,Carroll,GA
+1351072,,13043,County Seat,Metter,,Candler,GA
+1383868,,13039,County Seat,Woodbine,,Camden,GA
+1352696,,13037,County Seat,Morgan,,Calhoun,GA
+1341596,,13035,County Seat,Jackson,,Butts,GA
+1380984,,13033,County Seat,Waynesboro,,Burke,GA
+1373256,,13031,County Seat,Statesboro,,Bulloch,GA
+1360004,,13029,County Seat,Pembroke,,Bryan,GA
+1363224,,13027,County Seat,Quitman,,Brooks,GA
+1354124,,13025,County Seat,Nahunta,,Brantley,GA
+1317328,,13023,County Seat,Cochran,,Bleckley,GA
+1349000,,13021,County Seat,Macon,,Bibb,GA
+1354264,,13019,County Seat,Nashville,,Berrien,GA
+1329528,,13017,County Seat,Fitzgerald,,Ben Hill,GA
+1313688,,13015,County Seat,Cartersville,,Bartow,GA
+1383420,,13013,County Seat,Winder,,Barrow,GA
+1339720,,13011,County Seat,Homer,,Banks,GA
+1351492,,13009,County Seat,Milledgeville,,Baldwin,GA
+1355244,,13007,County Seat,Newton,,Baker,GA
+1301612,,13005,County Seat,Alma,,Bacon,GA
+1359808,,13003,County Seat,Pearson,,Atkinson,GA
+1306016,,13001,County Seat,Baxley,,Appling,GA
+1211975,,12133,County Seat,Chipley,,Washington,FL
+1216800,,12131,County Seat,De Funiak Springs,,Walton,FL
+1215300,,12129,County Seat,Crawfordville,,Wakulla,FL
+1216875,,12127,County Seat,De Land,,Volusia,FL
+1237650,,12125,County Seat,Lake Butler,,Union,FL
+1256150,,12123,County Seat,Perry,,Taylor,FL
+1240875,,12121,County Seat,Live Oak,,Suwannee,FL
+1209625,,12119,County Seat,Bushnell,,Sumter,FL
+1263650,,12117,County Seat,Sanford,,Seminole,FL
+1264175,,12115,County Seat,Sarasota,,Sarasota,FL
+1245750,,12113,County Seat,Milton,,Santa Rosa,FL
+1224300,,12111,County Seat,Fort Pierce,,Saint Lucie,FL
+1262500,,12109,County Seat,Saint Augustine,,Saint Johns,FL
+1253875,,12107,County Seat,Palatka,,Putnam,FL
+1203675,,12105,County Seat,Bartow,,Polk,FL
+1212875,,12103,County Seat,Clearwater,,Pinellas,FL
+1216125,,12101,County Seat,Dade City,,Pasco,FL
+1276600,,12099,County Seat,West Palm Beach,,Palm Beach,FL
+1236950,,12097,County Seat,Kissimmee,,Osceola,FL
+1253000,,12095,County Seat,Orlando,,Orange,FL
+1251200,,12093,County Seat,Okeechobee,,Okeechobee,FL
+1215475,,12091,County Seat,Crestview,,Okaloosa,FL
+1222175,,12089,County Seat,Fernandina Beach,,Nassau,FL
+1236550,,12087,County Seat,Key West,,Monroe,FL
+1245000,,12086,County Seat,Miami,,Miami-Dade,FL
+1268875,,12085,County Seat,Stuart,,Martin,FL
+1250750,,12083,County Seat,Ocala,,Marion,FL
+1207950,,12081,County Seat,Bradenton,,Manatee,FL
+1242425,,12079,County Seat,Madison,,Madison,FL
+1208600,,12077,County Seat,Bristol,,Liberty,FL
+1208700,,12075,County Seat,Bronson,,Levy,FL
+1270600,,12073,State Capital   County Seat,Tallahassee,,Leon,FL
+1224125,,12071,County Seat,Fort Myers,,Lee,FL
+1271225,,12069,County Seat,Tavares,,Lake,FL
+1243575,,12067,County Seat,Mayo,,Lafayette,FL
+1246500,,12065,County Seat,Monticello,,Jefferson,FL
+1243175,,12063,County Seat,Marianna,,Jackson,FL
+1274150,,12061,County Seat,Vero Beach,,Indian River,FL
+1207450,,12059,County Seat,Bonifay,,Holmes,FL
+1271000,,12057,County Seat,Tampa,,Hillsborough,FL
+1264875,,12055,County Seat,Sebring,,Highlands,FL
+1208800,,12053,County Seat,Brooksville,,Hernando,FL
+1237225,,12051,County Seat,La Belle,,Hendry,FL
+1275375,,12049,County Seat,Wauchula,,Hardee,FL
+1235375,,12047,County Seat,Jasper,,Hamilton,FL
+1258675,,12045,County Seat 2,Port Saint Joe,,Gulf,FL
+1246550,,12043,County Seat,Moore Haven,,Glades,FL
+1272350,,12041,County Seat,Trenton,,Gilchrist,FL
+1259325,,12039,County Seat,Quincy,,Gadsden,FL
+1201625,,12037,County Seat,Apalachicola,,Franklin,FL
+1209550,,12035,County Seat,Bunnell,,Flagler,FL
+1255925,,12033,County Seat,Pensacola,,Escambia,FL
+1235000,,12031,County Seat,Jacksonville,,Duval,FL
+1215575,,12029,County Seat,Cross City,,Dixie,FL
+1201750,,12027,County Seat,Arcadia,,DeSoto,FL
+1237775,,12023,County Seat,Lake City,,Columbia,FL
+1247625,,12021,County Seat,Naples,,Collier,FL
+1227400,,12019,County Seat,Green Cove Springs,,Clay,FL
+1233950,,12017,County Seat,Inverness,,Citrus,FL
+1259200,,12015,County Seat,Punta Gorda,,Charlotte,FL
+1206925,,12013,County Seat,Blountstown,,Calhoun,FL
+1224000,,12011,County Seat,Fort Lauderdale,,Broward,FL
+1271900,,12009,County Seat,Titusville,,Brevard,FL
+1268525,,12007,County Seat,Starke,,Bradford,FL
+1254700,,12005,County Seat,Panama City,,Bay,FL
+1241950,,12003,County Seat,Macclenny,,Baker,FL
+1225175,,12001,County Seat,Gainesville,,Alachua,FL
+1150000,,11001,National Capitol,Washington,,The District,DC
+1029090,,10005,County Seat,Georgetown,,Sussex,DE
+1077580,,10003,County Seat,Wilmington,,New Castle,DE
+1021200,,10001,State Capital   County Seat,Dover,,Kent,DE
+962640,,9015,County Seat,Putnam,,Windham,CT
+965230,,9013,County Seat,Rockville,,Tolland,CT
+956200,,9011,County Seat,Norwich,,New London,CT
+952000,,9009,County Seat,New Haven,,New Haven,CT
+947290,,9007,County Seat,Middletown,,Middlesex,CT
+943300,,9005,County Seat,Litchfield,,Litchfield,CT
+937000,,9003,State Capital   County Seat,Hartford,,Hartford,CT
+908000,,9001,County Seat,Bridgeport,,Fairfield,CT
+886310,,8125,County Seat,Wray,,Yuma,CO
+832155,,8123,County Seat,Greeley,,Weld,CO
+800925,,8121,County Seat,Akron,,Washington,CO
+818530,,8119,County Seat,Cripple Creek,,Teller,CO
+808400,,8117,County Seat,Breckenridge,,Summit,CO
+839965,,8115,County Seat,Julesburg,,Sedgwick,CO
+876795,,8113,County Seat,Telluride,,San Miguel,CO
+870580,,8111,County Seat,Silverton,,San Juan,CO
+867005,,8109,County Seat,Saguache,,Saguache,CO
+873825,,8107,County Seat,Steamboat Springs,,Routt,CO
+819795,,8105,County Seat,Del Norte,,Rio Grande,CO
+849875,,8103,County Seat,Meeker,,Rio Blanco,CO
+862000,,8101,County Seat,Pueblo,,Pueblo,CO
+843110,,8099,County Seat,Lamar,,Prowers,CO
+803620,,8097,County Seat,Aspen,,Pitkin,CO
+837270,,8095,County Seat,Holyoke,,Phillips,CO
+825610,,8093,County Seat,Fairplay,,Park,CO
+856420,,8091,County Seat,Ouray,,Ouray,CO
+842110,,8089,County Seat,La Junta,,Otero,CO
+827810,,8087,County Seat,Fort Morgan,,Morgan,CO
+851745,,8085,County Seat,Montrose,,Montrose,CO
+817375,,8083,County Seat,Cortez,,Montezuma,CO
+817760,,8081,County Seat,Craig,,Moffat,CO
+817980,,8079,County Seat,Creede,,Mineral,CO
+831660,,8077,County Seat,Grand Junction,,Mesa,CO
+873935,,8075,County Seat,Sterling,,Logan,CO
+837875,,8073,County Seat,Hugo,,Lincoln,CO
+878610,,8071,County Seat,Trinidad,,Las Animas,CO
+827425,,8069,County Seat,Fort Collins,,Larimer,CO
+822035,,8067,County Seat,Durango,,La Plata,CO
+844320,,8065,County Seat,Leadville,,Lake,CO
+810600,,8063,County Seat,Burlington,,Kit Carson,CO
+822145,,8061,County Seat,Eads,,Kiowa,CO
+830835,,8059,County Seat,Golden,,Jefferson,CO
+882130,,8057,County Seat,Walden,,Jackson,CO
+882350,,8055,County Seat,Walsenburg,,Huerfano,CO
+842330,,8053,County Seat,Lake City,,Hinsdale,CO
+833640,,8051,County Seat,Gunnison,,Gunnison,CO
+837600,,8049,County Seat,Hot Sulphur Springs,,Grand,CO
+812910,,8047,County Seat,Central City,,Gilpin,CO
+830780,,8045,County Seat,Glenwood Springs,,Garfield,CO
+811810,,8043,County Seat,Canon City,,Fremont,CO
+816000,,8041,County Seat,Colorado Springs,,El Paso,CO
+840790,,8039,County Seat,Kiowa,,Elbert,CO
+822200,,8037,County Seat,Eagle,,Eagle,CO
+812415,,8035,County Seat,Castle Rock,,Douglas,CO
+821265,,8033,County Seat,Dove Creek,,Dolores,CO
+820000,,8031,State Capital   County Seat,Denver,,Denver,CO
+819850,,8029,County Seat,Delta,,Delta,CO
+883450,,8027,County Seat,Westcliffe,,Custer,CO
+856145,,8025,County Seat,Ordway,,Crowley,CO
+868105,,8023,County Seat,San Luis,,Costilla,CO
+816715,,8021,County Seat,Conejos,,Conejos,CO
+829735,,8019,County Seat,Georgetown,,Clear Creek,CO
+814175,,8017,County Seat,Cheyenne Wells,,Cheyenne,CO
+867280,,8015,County Seat,Salida,,Chaffee,CO
+809280,,8014,County Seat,Broomfield,,Broomfield,CO
+807850,,8013,County Seat,Boulder,,Boulder,CO
+843660,,8011,County Seat,Las Animas,,Bent,CO
+873330,,8009,County Seat,Springfield,,Baca,CO
+856860,,8007,County Seat,Pagosa Springs,,Archuleta,CO
+845255,,8005,County Seat,Littleton,,Arapahoe,CO
+801090,,8003,County Seat,Alamosa,,Alamosa,CO
+808675,,8001,County Seat,Brighton,,Adams,CO
+646170,,6115,County Seat,Marysville,,Yuba,CA
+686328,,6113,County Seat,Woodland,,Yolo,CA
+665042,,6111,County Seat,San Buenaventura,,Ventura,CA
+672674,,6109,County Seat,Sonora,,Tuolumne,CA
+682954,,6107,County Seat,Visalia,,Tulare,CA
+683794,,6105,County Seat,Weaverville,,Trinity,CA
+659892,,6103,County Seat,Red Bluff,,Tehama,CA
+686972,,6101,County Seat,Yuba City,,Sutter,CA
+648354,,6099,County Seat,Modesto,,Stanislaus,CA
+670098,,6097,County Seat,Santa Rosa,,Sonoma,CA
+623182,,6095,County Seat,Fairfield,,Solano,CA
+686944,,6093,County Seat,Yreka,,Siskiyou,CA
+619794,,6091,County Seat,Downieville,,Sierra,CA
+659920,,6089,County Seat,Redding,,Shasta,CA
+669112,,6087,County Seat,Santa Cruz,,Santa Cruz,CA
+668000,,6085,County Seat,San Jose,,Santa Clara,CA
+669070,,6083,County Seat,Santa Barbara,,Santa Barbara,CA
+660102,,6081,County Seat,Redwood City,,San Mateo,CA
+668154,,6079,County Seat,San Luis Obispo,,San Luis Obispo,CA
+675000,,6077,County Seat,Stockton,,San Joaquin,CA
+667000,,6075,County Seat,San Francisco,,San Francisco,CA
+666000,,6073,County Seat,San Diego,,San Diego,CA
+665000,,6071,County Seat,San Bernardino,,San Bernardino,CA
+634120,,6069,County Seat,Hollister,,San Benito,CA
+664000,,6067,State Capital   County Seat,Sacramento,,Sacramento,CA
+662000,,6065,County Seat,Riverside,,Riverside,CA
+659080,,6063,County Seat,Quincy,,Plumas,CA
+603204,,6061,County Seat,Auburn,,Placer,CA
+669000,,6059,County Seat,Santa Ana,,Orange,CA
+650874,,6057,County Seat,Nevada City,,Nevada,CA
+650258,,6055,County Seat,Napa,,Napa,CA
+664224,,6053,County Seat,Salinas,,Monterey,CA
+608240,,6051,County Seat,Bridgeport,,Mono,CA
+601444,,6049,County Seat,Alturas,,Modoc,CA
+646898,,6047,County Seat,Merced,,Merced,CA
+681134,,6045,County Seat,Ukiah,,Mendocino,CA
+645932,,6043,County Seat,Mariposa,,Mariposa,CA
+668364,,6041,County Seat,San Rafael,,Marin,CA
+645022,,6039,County Seat,Madera,,Madera,CA
+644000,,6037,County Seat,Los Angeles,,Los Angeles,CA
+677364,,6035,County Seat,Susanville,,Lassen,CA
+639710,,6033,County Seat,Lakeport,,Lake,CA
+631960,,6031,County Seat,Hanford,,Kings,CA
+603526,,6029,County Seat,Bakersfield,,Kern,CA
+636350,,6027,County Seat,Independence,,Inyo,CA
+621782,,6025,County Seat,El Centro,,Imperial,CA
+623042,,6023,County Seat,Eureka,,Humboldt,CA
+685684,,6021,County Seat,Willows,,Glenn,CA
+627000,,6019,County Seat,Fresno,,Fresno,CA
+657540,,6017,County Seat,Placerville,,El Dorado,CA
+617022,,6015,County Seat,Crescent City,,Del Norte,CA
+646114,,6013,County Seat,Martinez,,Contra Costa,CA
+614946,,6011,County Seat,Colusa,,Colusa,CA
+664420,,6009,County Seat,San Andreas,,Calaveras,CA
+654386,,6007,County Seat,Oroville,,Butte,CA
+636980,,6005,County Seat,Jackson,,Amador,CA
+645988,,6003,County Seat,Markleeville,,Alpine,CA
+653000,,6001,County Seat,Oakland,,Alameda,CA
+502740,,5147,County Seat,Augusta,,Woodruff,AR
+563020,,5145,County Seat,Searcy,,White,AR
+523290,,5143,County Seat,Fayetteville,,Washington,AR
+514260,,5141,County Seat,Clinton,,Van Buren,AR
+521070,,5139,County Seat,El Dorado,,Union,AR
+547540,,5137,County Seat,Mountain View,,Stone,AR
+502470,,5135,County Seat,Ash Flat,,Sharp,AR
+518490,,5133,County Seat,De Queen,,Sevier,AR
+544300,,5129,County Seat,Marshall,,Searcy,AR
+572380,,5127,County Seat,Waldron,,Scott,AR
+505290,,5125,County Seat,Benton,,Saline,AR
+524430,,5123,County Seat,Forrest City,,Saint Francis,AR
+556540,,5121,County Seat,Pocahontas,,Randolph,AR
+541000,,5119,State Capital   County Seat,Little Rock,,Pulaski,AR
+561670,,5115,County Seat,Russellville,,Pope,AR
+545170,,5113,County Seat,Mena,,Polk,AR
+530400,,5111,County Seat,Harrisburg,,Poinsett,AR
+548290,,5109,County Seat,Murfreesboro,,Pike,AR
+531180,,5107,County Seat,Helena,,Phillips,AR
+554710,,5105,County Seat,Perryville,,Perry,AR
+510720,,5103,County Seat,Camden,,Ouachita,AR
+534900,,5101,County Seat,Jasper,,Newton,AR
+557260,,5099,County Seat,Prescott,,Nevada,AR
+547690,,5097,County Seat,Mount Ida,,Montgomery,AR
+513990,,5095,County Seat,Clarendon,,Monroe,AR
+568810,,5091,County Seat,Texarkana,,Miller,AR
+577330,,5089,County Seat,Yellville,,Marion,AR
+533970,,5087,County Seat,Huntsville,,Madison,AR
+541420,,5085,County Seat,Lonoke,,Lonoke,AR
+502380,,5081,County Seat,Ashdown,,Little River,AR
+566440,,5079,County Seat,Star City,,Lincoln,AR
+544120,,5077,County Seat,Marianna,,Lee,AR
+572890,,5075,County Seat,Walnut Ridge,,Lawrence,AR
+539640,,5073,County Seat,Lewisville,,Lafayette,AR
+514140,,5071,County Seat,Clarksville,,Johnson,AR
+555310,,5069,County Seat,Pine Bluff,,Jefferson,AR
+549580,,5067,County Seat,Newport,,Jackson,AR
+545080,,5065,County Seat,Melbourne,,Izard,AR
+504030,,5063,County Seat,Batesville,,Independence,AR
+548560,,5061,County Seat,Nashville,,Howard,AR
+543610,,5059,County Seat,Malvern,,Hot Spring,AR
+533190,,5057,County Seat,Hope,,Hempstead,AR
+553390,,5055,County Seat,Paragould,,Greene,AR
+563710,,5053,County Seat,Sheridan,,Grant,AR
+533400,,5051,County Seat,Hot Springs,,Garland,AR
+562150,,5049,County Seat,Salem,,Fulton,AR
+515190,,5045,County Seat,Conway,,Faulkner,AR
+546580,,5043,County Seat,Monticello,,Drew,AR
+501990,,5041,County Seat,Arkansas City,,Desha,AR
+524220,,5039,County Seat,Fordyce,,Dallas,AR
+577090,,5037,County Seat,Wynne,,Cross,AR
+544180,,5035,County Seat,Marion,,Crittenden,AR
+571480,,5033,County Seat,Van Buren,,Crawford,AR
+546970,,5029,County Seat,Morrilton,,Conway,AR
+543460,,5027,County Seat,Magnolia,,Columbia,AR
+559480,,5025,County Seat,Rison,,Cleveland,AR
+531090,,5023,County Seat,Heber Springs,,Cleburne,AR
+501870,,5019,County Seat,Arkadelphia,,Clark,AR
+538170,,5017,County Seat,Lake Village,,Chicot,AR
+529650,,5013,County Seat,Hampton,,Calhoun,AR
+573310,,5011,County Seat,Warren,,Bradley,AR
+530460,,5009,County Seat,Harrison,,Boone,AR
+505320,,5007,County Seat,Bentonville,,Benton,AR
+547390,,5005,County Seat,Mountain Home,,Baxter,AR
+529500,,5003,County Seat,Hamburg,,Ashley,AR
+485540,,4027,County Seat,Yuma,,Yuma,AZ
+457380,,4025,County Seat,Prescott,,Yavapai,AZ
+449640,,4023,County Seat,Nogales,,Santa Cruz,AZ
+423760,,4021,County Seat,Florence,,Pinal,AZ
+477000,,4019,County Seat,Tucson,,Pima,AZ
+433280,,4017,County Seat,Holbrook,,Navajo,AZ
+437620,,4015,County Seat,Kingman,,Mohave,AZ
+455000,,4013,State Capital   County Seat,Phoenix,,Maricopa,AZ
+453070,,4012,County Seat,Parker,,La Paz,AZ
+414380,,4011,County Seat,Clifton,,Greenlee,AZ
+462000,,4009,County Seat,Safford,,Graham,AZ
+428030,,4007,County Seat,Globe,,Gila,AZ
+423620,,4005,County Seat,Flagstaff,,Coconino,AZ
+406260,,4003,County Seat,Bisbee,,Cochise,AZ
+462350,,4001,County Seat,Saint Johns,,Apache,AZ
+121280,,1133,County Seat,Double Springs,,Winston,AL
+111512,,1131,County Seat,Camden,,Wilcox,AL
+114008,,1129,County Seat,Chatom,,Washington,AL
+138416,,1127,County Seat,Jasper,,Walker,AL
+177256,,1125,County Seat,Tuscaloosa,,Tuscaloosa,AL
+119336,,1123,County Seat,Dadeville,,Tallapoosa,AL
+174592,,1121,County Seat,Talladega,,Talladega,AL
+143720,,1119,County Seat,Livingston,,Sumter,AL
+116768,,1117,County Seat,Columbiana,,Shelby,AL
+102908,,1115,County Seat,Ashville,,Saint Clair,AL
+159472,,1113,County Seat,Phenix City,,Russell,AL
+180496,,1111,County Seat,Wedowee,,Randolph,AL
+176920,,1109,County Seat,Troy,,Pike,AL
+112304,,1107,County Seat,Carrollton,,Pickens,AL
+146768,,1105,County Seat,Marion,,Perry,AL
+120104,,1103,County Seat,Decatur,,Morgan,AL
+151000,,1101,State Capital   County Seat,Montgomery,,Montgomery,AL
+150192,,1099,County Seat,Monroeville,,Monroe,AL
+150000,,1097,County Seat,Mobile,,Mobile,AL
+132416,,1095,County Seat,Guntersville,,Marshall,AL
+132848,,1093,County Seat,Hamilton,,Marion,AL
+143240,,1091,County Seat,Linden,,Marengo,AL
+137000,,1089,County Seat,Huntsville,,Madison,AL
+177304,,1087,County Seat,Tuskegee,,Macon,AL
+133712,,1085,County Seat,Hayneville,,Lowndes,AL
+102956,,1083,County Seat,Athens,,Limestone,AL
+157048,,1081,County Seat,Opelika,,Lee,AL
+151600,,1079,County Seat,Moulton,,Lawrence,AL
+126896,,1077,County Seat,Florence,,Lauderdale,AL
+178480,,1075,County Seat,Vernon,,Lamar,AL
+107000,,1073,County Seat,Birmingham,,Jefferson,AL
+168736,,1071,County Seat,Scottsboro,,Jackson,AL
+121184,,1069,County Seat,Dothan,,Houston,AL
+100124,,1067,County Seat,Abbeville,,Henry,AL
+131720,,1065,County Seat,Greensboro,,Hale,AL
+124664,,1063,County Seat,Eutaw,,Greene,AL
+129464,,1061,County Seat,Geneva,,Geneva,AL
+167056,,1059,County Seat,Russellville,,Franklin,AL
+125840,,1057,County Seat,Fayette,,Fayette,AL
+128696,,1055,County Seat,Gadsden,,Etowah,AL
+109208,,1053,County Seat,Brewton,,Escambia,AL
+181720,,1051,County Seat,Wetumpka,,Elmore,AL
+127616,,1049,County Seat,Fort Payne,,DeKalb,AL
+169120,,1047,County Seat,Selma,,Dallas,AL
+157648,,1045,County Seat,Ozark,,Dale,AL
+118976,,1043,County Seat,Cullman,,Cullman,AL
+144728,,1041,County Seat,Luverne,,Crenshaw,AL
+101708,,1039,County Seat,Andalusia,,Covington,AL
+165472,,1037,County Seat,Rockford,,Coosa,AL
+124808,,1035,County Seat,Evergreen,,Conecuh,AL
+177280,,1033,County Seat,Tuscumbia,,Colbert,AL
+123296,,1031,County Seat,Elba,,Coffee,AL
+133976,,1029,County Seat,Heflin,,Cleburne,AL
+102860,,1027,County Seat,Ashland,,Clay,AL
+132080,,1025,County Seat,Grove Hill,,Clarke,AL
+111032,,1023,County Seat,Butler,,Choctaw,AL
+115136,,1021,County Seat,Clanton,,Chilton,AL
+113648,,1019,County Seat,Centre,,Cherokee,AL
+140672,,1017,County Seat,Lafayette,,Chambers,AL
+101852,,1015,County Seat,Anniston,,Calhoun,AL
+131912,,1013,County Seat,Greenville,,Butler,AL
+177880,,1011,County Seat,Union Springs,,Bullock,AL
+157000,,1009,County Seat,Oneonta,,Blount,AL
+113672,,1007,County Seat,Centreville,,Bibb,AL
+115376,,1005,County Seat,Clayton,,Barbour,AL
+104660,,1003,County Seat,Bay Minette,,Baldwin,AL
+162328,,1001,County Seat,Prattville,,Autauga,AL

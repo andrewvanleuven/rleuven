@@ -51,14 +51,35 @@ cty_pop <- get_decennial(geography = "county", variables = "P001001", year = 201
   select(GEOID,value) %>%
   rename(cty_fips = GEOID,
          cty_pop_10 = value)
+cty_seats <- read_csv("data-raw/county_seats.csv") %>%
+  mutate(cty_seat = ifelse(grepl("County Seat", feature), 1,0),
+         st_captl = ifelse(grepl("State Capital", feature), 1,0),
+         #second_cty_seat = ifelse(grepl("2", feature), 1,0),
+         city_fips = as.character(str_pad(city_fips, 7, pad = "0")),
+         city_fips2 = as.character(str_pad(city_fips2, 7, pad = "0")),
+         cty_fips = as.character(str_pad(cty_fips, 5, pad = "0"))) %>%
+  select(-feature,-city_fips2,-city2) %>% arrange(cty_fips)
+
+seats <- cty_seats %>% filter(cty_seat == 1) %>%
+  select(-county,-state,-cty_seat) %>%
+  rename(seat_fips = city_fips,
+         seat = city, seat_st_cap = st_captl)
+
+cities_inc <- city_pop %>% left_join(.,cty_seats) %>%
+  select(city_fips:cty_fips,county,cty_seat,st_captl) %>%
+  arrange(city_fips)
 
 cbsaxw <- left_join(xw,ctyxw) %>%
   left_join(.,rucc) %>%
   left_join(.,cz) %>%
   left_join(.,cty_pop) %>%
+  left_join(.,seats) %>%
   rename_all(tolower) %>%
-  select(cty_fips,county,cbsa_main_city,state,city_fips,rucc:cty_pop_10,cbsa_fips:csa) %>%
+  select(cty_fips,county,cbsa_main_city,state,city_fips,
+         rucc:cty_pop_10,seat,seat_fips,cbsa_fips:csa) %>%
+  filter(!state %in% c("AK","HI")) %>%
   arrange(cty_fips)
 
 usethis::use_data(cbsaxw, overwrite = TRUE)
-usethis::use_data(city_pop, overwrite = TRUE)
+usethis::use_data(cities_inc, overwrite = TRUE)
+
