@@ -29,6 +29,13 @@ cfbplayr_receive <- bind_rows(lapply((ls(pattern='rec*')), get))
 for (i in 2001:2015) {for (j in stats) {rm(list=paste0(j,i))}}
 rm(i,j,nam,stats)
 
-usethis::use_data(cfbplayr_pass)
-usethis::use_data(cfbplayr_rush)
-usethis::use_data(cfbplayr_receive)
+
+# Combine School and Conference -------------------------------------------
+fbs <- read_csv("data-raw/fbs.csv") %>%
+  rename_all(tolower)
+
+# Use Data ----------------------------------------------------------------
+usethis::use_data(cfbplayr_pass, overwrite = TRUE)
+usethis::use_data(cfbplayr_rush, overwrite = TRUE)
+usethis::use_data(cfbplayr_receive, overwrite = TRUE)
+usethis::use_data(fbs, overwrite = TRUE)
