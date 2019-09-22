@@ -6,7 +6,7 @@
 
 This is a package that contains several functions and frequently-used datasets that make my life easier.
 
-### Packages I Use:
+### Functions I Use:
 
 * [**Frequency Table**](https://github.com/andrewvanleuven/rleuven/blob/master/R/freqTab.R): Create a frequency table of unique values in a data column.
 * [**Number of NAs**](https://github.com/andrewvanleuven/rleuven/blob/master/R/num_of_NAs.R): Create a table displaying the number of "NA" values in each column.
