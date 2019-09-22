@@ -1,6 +1,9 @@
 ## code to prepare `cbsaxw` dataset goes here
 library(tidyverse)
 library(tidycensus)
+library(rleuven)
+library(tigris)
+library(sf)
 
 xw <- read_csv("data-raw/xw.csv") %>%
   select(-ssacounty,-ssast) %>% distinct() %>%
@@ -71,11 +74,19 @@ city_xw <- read_csv("data-raw/city_xw.csv") %>%
   #filter(afact > 0.5) %>%
   select(city_fips,city,cty_fips,county,city_pop_00)
 
+st_list <- xw %>% select(state) %>% distinct() %>% pull()
+cities_xy <- places(state = st_list, cb = T)
+xy_coords <- cities_xy %>% st_as_sf() %>%
+  rename(city_fips = GEOID) %>%
+  select(city_fips,geometry) %>%
+  st_centroid_xy() %>% st_drop_geometry()
+
 cities_inc <- city_pop %>% left_join(.,city_xw, by = "city_fips") %>% select(-city) %>%
   left_join(.,(cty_seats %>% select(city_fips,cty_seat,st_captl)), by = "city_fips") %>%
   filter(city_pop_10 > 99) %>% arrange(city_fips) %>%
   mutate(cty_seat = replace_na(cty_seat, 0),
-         st_captl = replace_na(st_captl, 0))
+         st_captl = replace_na(st_captl, 0)) %>%
+  left_join(.,xy_coords) %>% filter(!is.na(x))
 
 cbsaxw <- left_join(xw,ctyxw) %>%
   left_join(.,rucc) %>%
