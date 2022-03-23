@@ -23,9 +23,9 @@ theme_icon <- function () {
 #  lat=c(43.521076, 43.521076, 38.531213, 38.531213, 43.521076)
 #  )
 #poly <- st_sf(st_sfc(st_polygon(list(as.matrix(df)))), crs = 4326)
-midwest <- counties(state = c("OH","IN","MI","IL","WI"), cb = T) %>%
+midwest <- counties(state = c("OH","IN","MI","IL","WI"), cb = T) |>
   filter(NAME != "Keweenaw")
-  #st_transform(crs = 4326) %>%
+  #st_transform(crs = 4326) |>
   #st_intersection(poly,.)
 midw_st <- st_dissolve(midwest,STATEFP)
 

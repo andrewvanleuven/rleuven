@@ -5,10 +5,10 @@ ncaa_hex <- function(university,secondary=c('TRUE','FALSE')){
     secondary=F
   }
   search_key <- str_to_lower(university)
-  first_run <- df %>%
+  first_run <- df |>
     filter(str_detect(hex_color,search_key))
-  if (secondary==FALSE) return({first_run %>%
+  if (secondary==FALSE) return({first_run |>
       filter(str_detect(hex_color,"_1"))})
-  if (secondary==TRUE) return({first_run %>%
+  if (secondary==TRUE) return({first_run |>
       filter(str_detect(hex_color,"_2"))})
 }

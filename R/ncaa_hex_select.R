@@ -5,14 +5,14 @@ ncaa_hex_select <- function(university,row_number,secondary=c('TRUE','FALSE')){
     secondary=F
   }
   search_key <- str_to_lower(university)
-  first_run <- df %>%
+  first_run <- df |>
     filter(str_detect(hex_color,search_key))
-  if (secondary==FALSE) return({first_run %>%
-      filter(str_detect(hex_color,"_1")) %>%
-      slice(row_number) %>%
+  if (secondary==FALSE) return({first_run |>
+      filter(str_detect(hex_color,"_1")) |>
+      slice(row_number) |>
       pull(value)})
-  if (secondary==TRUE) return({first_run %>%
-      filter(str_detect(hex_color,"_2")) %>%
-      slice(row_number) %>%
+  if (secondary==TRUE) return({first_run |>
+      filter(str_detect(hex_color,"_2")) |>
+      slice(row_number) |>
       pull(value)})
 }

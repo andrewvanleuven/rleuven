@@ -4,14 +4,14 @@ library(rvest)
 
 cfbplayr_scrape <- function(year,type){
   url <- sprintf("https://www.sports-reference.com/cfb/years/%s-%s.html",year,type)
-  read_html(url) %>%
-    html_table(fill = T) %>%
-    as.data.frame() %>%
-    janitor::row_to_names(1) %>%
-    janitor::clean_names() %>%
-    mutate(player = str_replace_all(player,'\\*', '')) %>%
-    filter(rk != "Rk") %>% select(-rk) %>% arrange(player) %>%
-    mutate(yr = year) %>% select(player,yr,everything())
+  read_html(url) |>
+    html_table(fill = T) |>
+    as.data.frame() |>
+    janitor::row_to_names(1) |>
+    janitor::clean_names() |>
+    mutate(player = str_replace_all(player,'\\*', '')) |>
+    filter(rk != "Rk") |> select(-rk) |> arrange(player) |>
+    mutate(yr = year) |> select(player,yr,everything())
 }
 
 stats <- c("passing","rushing","receiving")
@@ -31,7 +31,7 @@ rm(i,j,nam,stats)
 
 
 # Combine School and Conference -------------------------------------------
-fbs <- read_csv("data-raw/fbs.csv") %>%
+fbs <- read_csv("data-raw/fbs.csv") |>
   rename_all(tolower)
 
 # Use Data ----------------------------------------------------------------
