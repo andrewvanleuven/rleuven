@@ -1,0 +1,851 @@
+"state","placefp","county","stab","cntyname","placenm","pop10","afact"
+"State code","Place code","County code","State abbreviation","County name","Place name","Population (2010)","placefp to county allocation factor"
+"40","00100","40013","OK","Bryan OK","Achille town, OK",492,1 
+"40","00200","40123","OK","Pontotoc OK","Ada city, OK",16810,1 
+"40","00250","40097","OK","Mayes OK","Adair town, OK",790,1 
+"40","00450","40067","OK","Jefferson OK","Addington town, OK",114,1 
+"40","00600","40115","OK","Ottawa OK","Afton town, OK",1049,1 
+"40","00700","40081","OK","Lincoln OK","Agra town, OK",339,1 
+"40","00900","40135","OK","Sequoyah OK","Akins CDP, OK",493,1 
+"40","00950","40013","OK","Bryan OK","Albany CDP, OK",143,1 
+"40","01050","40127","OK","Pushmataha OK","Albion town, OK",106,1 
+"40","01150","40121","OK","Pittsburg OK","Alderson town, OK",304,1 
+"40","01250","40051","OK","Grady OK","Alex town, OK",550,1 
+"40","01350","40003","OK","Alfalfa OK","Aline town, OK",207,1 
+"40","01400","40063","OK","Hughes OK","Allen town, OK",139,0.1491 
+"40","01400","40123","OK","Pontotoc OK","Allen town, OK",793,0.8509 
+"40","01700","40065","OK","Jackson OK","Altus city, OK",19813,1 
+"40","01800","40151","OK","Woods OK","Alva city, OK",4945,1 
+"40","01900","40051","OK","Grady OK","Amber town, OK",419,1 
+"40","01950","40093","OK","Major OK","Ames town, OK",239,1 
+"40","02000","40003","OK","Alfalfa OK","Amorita town, OK",37,1 
+"40","02050","40015","OK","Caddo OK","Anadarko city, OK",6762,1 
+"40","02250","40127","OK","Pushmataha OK","Antlers city, OK",2453,1 
+"40","02300","40015","OK","Caddo OK","Apache town, OK",1444,1 
+"40","02500","40039","OK","Custer OK","Arapaho town, OK",796,1 
+"40","02550","40109","OK","Oklahoma OK","Arcadia town, OK",247,1 
+"40","02600","40019","OK","Carter OK","Ardmore city, OK",24283,1 
+"40","02650","40079","OK","Le Flore OK","Arkoma town, OK",1989,1 
+"40","02750","40013","OK","Bryan OK","Armstrong town, OK",105,1 
+"40","02800","40045","OK","Ellis OK","Arnett town, OK",524,1 
+"40","02900","40121","OK","Pittsburg OK","Arpelar CDP, OK",272,1 
+"40","03000","40125","OK","Pottawatomie OK","Asher town, OK",393,1 
+"40","03050","40121","OK","Pittsburg OK","Ashland town, OK",66,1 
+"40","03300","40005","OK","Atoka OK","Atoka city, OK",3107,1 
+"40","03350","40063","OK","Hughes OK","Atwood town, OK",74,1 
+"40","03500","40113","OK","Osage OK","Avant town, OK",320,1 
+"40","03815","40135","OK","Sequoyah OK","Badger Lee CDP, OK",76,1 
+"40","04075","40097","OK","Mayes OK","Ballou CDP, OK",176,1 
+"40","04250","40113","OK","Osage OK","Barnsdall city, OK",1243,1 
+"40","04450","40113","OK","Osage OK","Bartlesville city, OK",3,0.0001 
+"40","04450","40147","OK","Washington OK","Bartlesville city, OK",35747,0.9999 
+"40","04700","40107","OK","Okfuskee OK","Bearden town, OK",133,1 
+"40","04750","40007","OK","Beaver OK","Beaver town, OK",1515,1 
+"40","04950","40069","OK","Johnston OK","Bee CDP, OK",140,1 
+"40","05000","40111","OK","Okmulgee OK","Beggs city, OK",1321,1 
+"40","05070","40135","OK","Sequoyah OK","Belfonte CDP, OK",394,1 
+"40","05090","40001","OK","Adair OK","Bell CDP, OK",535,1 
+"40","05400","40013","OK","Bryan OK","Bennington town, OK",334,1 
+"40","05550","40041","OK","Delaware OK","Bernice town, OK",562,1 
+"40","05650","40149","OK","Washita OK","Bessie town, OK",181,1 
+"40","05700","40109","OK","Oklahoma OK","Bethany city, OK",19051,1 
+"40","05800","40125","OK","Pottawatomie OK","Bethel Acres town, OK",2895,1 
+"40","05900","40035","OK","Craig OK","Big Cabin town, OK",265,1 
+"40","06100","40103","OK","Noble OK","Billings town, OK",509,1 
+"40","06200","40015","OK","Caddo OK","Binger town, OK",672,1 
+"40","06350","40047","OK","Garfield OK","Bison CDP, OK",65,1 
+"40","06400","40143","OK","Tulsa OK","Bixby city, OK",20706,0.9915 
+"40","06400","40145","OK","Wagoner OK","Bixby city, OK",178,0.0085 
+"40","06450","40117","OK","Pawnee OK","Blackburn town, OK",108,1 
+"40","06500","40135","OK","Sequoyah OK","Blackgum CDP, OK",51,1 
+"40","06600","40071","OK","Kay OK","Blackwell city, OK",7092,1 
+"40","06650","40065","OK","Jackson OK","Blair town, OK",818,1 
+"40","06700","40051","OK","Grady OK","Blanchard city, OK",1910,0.249 
+"40","06700","40087","OK","McClain OK","Blanchard city, OK",5760,0.751 
+"40","06900","40013","OK","Bryan OK","Blue CDP, OK",195,1 
+"40","06950","40035","OK","Craig OK","Bluejacket town, OK",339,1 
+"40","07300","40025","OK","Cimarron OK","Boise City city, OK",1266,1 
+"40","07350","40013","OK","Bryan OK","Bokchito town, OK",632,1 
+"40","07450","40079","OK","Le Flore OK","Bokoshe town, OK",512,1 
+"40","07500","40107","OK","Okfuskee OK","Boley town, OK",1184,1 
+"40","07750","40023","OK","Choctaw OK","Boswell town, OK",709,1 
+"40","07950","40133","OK","Seminole OK","Bowlegs town, OK",405,1 
+"40","08050","40135","OK","Sequoyah OK","Box CDP, OK",224,1 
+"40","08150","40101","OK","Muskogee OK","Boynton town, OK",248,1 
+"40","08300","40051","OK","Grady OK","Bradley town, OK",130,1 
+"40","08400","40101","OK","Muskogee OK","Braggs town, OK",259,1 
+"40","08450","40071","OK","Kay OK","Braman town, OK",217,1 
+"40","08550","40137","OK","Stephens OK","Bray town, OK",1209,1 
+"40","08600","40047","OK","Garfield OK","Breckenridge town, OK",245,1 
+"40","08650","40135","OK","Sequoyah OK","Brent CDP, OK",716,1 
+"40","08725","40051","OK","Grady OK","Bridge Creek town, OK",336,1 
+"40","08750","40015","OK","Caddo OK","Bridgeport city, OK",116,1 
+"40","08775","40021","OK","Cherokee OK","Briggs CDP, OK",303,1 
+"40","08900","40037","OK","Creek OK","Bristow city, OK",4222,1 
+"40","09050","40143","OK","Tulsa OK","Broken Arrow city, OK",80634,0.8157 
+"40","09050","40145","OK","Wagoner OK","Broken Arrow city, OK",18216,0.1843 
+"40","09100","40089","OK","McCurtain OK","Broken Bow city, OK",4120,1 
+"40","09150","40029","OK","Coal OK","Bromide town, OK",33,0.2 
+"40","09150","40069","OK","Johnston OK","Bromide town, OK",132,0.8 
+"40","09400","40125","OK","Pottawatomie OK","Brooksville town, OK",63,1 
+"40","09612","40041","OK","Delaware OK","Brush Creek CDP, OK",35,1 
+"40","09650","40135","OK","Sequoyah OK","Brushy CDP, OK",900,1 
+"40","09850","40059","OK","Harper OK","Buffalo town, OK",1299,1 
+"40","09887","40041","OK","Delaware OK","Bull Hollow CDP, OK",67,1 
+"40","09950","40113","OK","Osage OK","Burbank town, OK",141,1 
+"40","10050","40003","OK","Alfalfa OK","Burlington town, OK",152,1 
+"40","10250","40149","OK","Washita OK","Burns Flat town, OK",2057,1 
+"40","10400","40131","OK","Rogers OK","Bushyhead CDP, OK",1314,1 
+"40","10450","40039","OK","Custer OK","Butler town, OK",287,1 
+"40","10460","40041","OK","Delaware OK","Butler CDP, OK",117,1 
+"40","10550","40087","OK","McClain OK","Byars town, OK",255,1 
+"40","10600","40123","OK","Pontotoc OK","Byng town, OK",1175,1 
+"40","10650","40003","OK","Alfalfa OK","Byron town, OK",35,1 
+"40","10700","40031","OK","Comanche OK","Cache city, OK",2796,1 
+"40","10800","40013","OK","Bryan OK","Caddo town, OK",997,1 
+"40","10950","40013","OK","Bryan OK","Calera town, OK",2164,1 
+"40","11050","40017","OK","Canadian OK","Calumet town, OK",507,1 
+"40","11100","40063","OK","Hughes OK","Calvin town, OK",294,1 
+"40","11150","40043","OK","Dewey OK","Camargo town, OK",178,1 
+"40","11300","40079","OK","Le Flore OK","Cameron town, OK",302,1 
+"40","11450","40121","OK","Pittsburg OK","Canadian town, OK",220,1 
+"40","11550","40005","OK","Atoka OK","Caney town, OK",205,1 
+"40","11600","40011","OK","Blaine OK","Canton town, OK",625,1 
+"40","11650","40149","OK","Washita OK","Canute town, OK",541,1 
+"40","11750","40151","OK","Woods OK","Capron town, OK",23,1 
+"40","11900","40115","OK","Ottawa OK","Cardin town, OK",3,1 
+"40","11975","40135","OK","Sequoyah OK","Carlisle CDP, OK",606,1 
+"40","12000","40003","OK","Alfalfa OK","Carmen town, OK",355,1 
+"40","12050","40015","OK","Caddo OK","Carnegie town, OK",1723,1 
+"40","12100","40081","OK","Lincoln OK","Carney town, OK",647,1 
+"40","12200","40047","OK","Garfield OK","Carrier town, OK",85,1 
+"40","12300","40009","OK","Beckham OK","Carter town, OK",256,1 
+"40","12550","40013","OK","Bryan OK","Cartwright CDP, OK",609,1 
+"40","12650","40073","OK","Kingfisher OK","Cashion town, OK",600,0.7481 
+"40","12650","40083","OK","Logan OK","Cashion town, OK",202,0.2519 
+"40","12750","40107","OK","Okfuskee OK","Castle town, OK",106,1 
+"40","12900","40131","OK","Rogers OK","Catoosa city, OK",5487,0.7673 
+"40","12900","40145","OK","Wagoner OK","Catoosa city, OK",1664,0.2327 
+"40","12915","40041","OK","Delaware OK","Cayuga CDP, OK",140,1 
+"40","12930","40097","OK","Mayes OK","Cedar Crest CDP, OK",312,1 
+"40","12960","40083","OK","Logan OK","Cedar Valley city, OK",288,1 
+"40","13000","40015","OK","Caddo OK","Cement town, OK",501,1 
+"40","13100","40029","OK","Coal OK","Centrahoma city, OK",97,1 
+"40","13135","40137","OK","Stephens OK","Central High town, OK",1199,1 
+"40","13500","40081","OK","Lincoln OK","Chandler city, OK",3100,1 
+"40","13600","40031","OK","Comanche OK","Chattanooga town, OK",461,1 
+"40","13650","40091","OK","McIntosh OK","Checotah city, OK",3335,1 
+"40","13700","40131","OK","Rogers OK","Chelsea town, OK",1964,1 
+"40","13750","40003","OK","Alfalfa OK","Cherokee city, OK",1498,1 
+"40","13775","40001","OK","Adair OK","Cherry Tree CDP, OK",883,1 
+"40","13800","40093","OK","Major OK","Chester CDP, OK",117,1 
+"40","13850","40001","OK","Adair OK","Chewey CDP, OK",135,1 
+"40","13900","40129","OK","Roger Mills OK","Cheyenne town, OK",801,1 
+"40","13950","40051","OK","Grady OK","Chickasha city, OK",16036,1 
+"40","14200","40109","OK","Oklahoma OK","Choctaw city, OK",11146,1 
+"40","14300","40097","OK","Mayes OK","Chouteau town, OK",2097,1 
+"40","14350","40001","OK","Adair OK","Christie CDP, OK",218,1 
+"40","14500","40083","OK","Logan OK","Cimarron City town, OK",150,1 
+"40","14700","40131","OK","Rogers OK","Claremore city, OK",18581,1 
+"40","14900","40127","OK","Pushmataha OK","Clayton town, OK",821,1 
+"40","15050","40107","OK","Okfuskee OK","Clearview town, OK",48,1 
+"40","15250","40041","OK","Delaware OK","Cleora CDP, OK",1463,1 
+"40","15300","40093","OK","Major OK","Cleo Springs town, OK",338,1 
+"40","15350","40117","OK","Pawnee OK","Cleveland city, OK",3251,1 
+"40","15400","40039","OK","Custer OK","Clinton city, OK",9029,0.9996 
+"40","15400","40149","OK","Washita OK","Clinton city, OK",4,0.0004 
+"40","15625","40041","OK","Delaware OK","Cloud Creek CDP, OK",121,1 
+"40","15800","40029","OK","Coal OK","Coalgate city, OK",1967,1 
+"40","16050","40013","OK","Bryan OK","Colbert town, OK",1140,1 
+"40","16100","40041","OK","Delaware OK","Colcord town, OK",815,1 
+"40","16200","40087","OK","McClain OK","Cole town, OK",555,1 
+"40","16350","40131","OK","Rogers OK","Collinsville city, OK",7,0.0012 
+"40","16350","40143","OK","Tulsa OK","Collinsville city, OK",5599,0.9988 
+"40","16400","40149","OK","Washita OK","Colony town, OK",136,1 
+"40","16450","40137","OK","Stephens OK","Comanche city, OK",1663,1 
+"40","16500","40115","OK","Ottawa OK","Commerce city, OK",2473,1 
+"40","17050","40075","OK","Kiowa OK","Cooperton town, OK",16,1 
+"40","17100","40147","OK","Washington OK","Copan town, OK",733,1 
+"40","17110","40041","OK","Delaware OK","Copeland CDP, OK",1629,1 
+"40","17300","40149","OK","Washita OK","Corn town, OK",503,1 
+"40","17350","40067","OK","Jefferson OK","Cornish town, OK",163,1 
+"40","17550","40101","OK","Muskogee OK","Council Hill town, OK",158,1 
+"40","17700","40047","OK","Garfield OK","Covington town, OK",527,1 
+"40","17800","40145","OK","Wagoner OK","Coweta city, OK",9943,1 
+"40","17850","40079","OK","Le Flore OK","Cowlington town, OK",155,1 
+"40","17950","40083","OK","Logan OK","Coyle town, OK",325,1 
+"40","18250","40083","OK","Logan OK","Crescent city, OK",1411,1 
+"40","18450","40133","OK","Seminole OK","Cromwell town, OK",286,1 
+"40","18550","40121","OK","Pittsburg OK","Crowder town, OK",430,1 
+"40","18850","40119","OK","Payne OK","Cushing city, OK",7826,1 
+"40","18950","40039","OK","Custer OK","Custer City town, OK",375,1 
+"40","19000","40015","OK","Caddo OK","Cyril town, OK",1059,1 
+"40","19050","40151","OK","Woods OK","Dacoma town, OK",107,1 
+"40","19150","40125","OK","Pottawatomie OK","Dale CDP, OK",181,1 
+"40","19350","40081","OK","Lincoln OK","Davenport town, OK",814,1 
+"40","19400","40141","OK","Tillman OK","Davidson town, OK",315,1 
+"40","19450","40099","OK","Murray OK","Davis city, OK",2683,1 
+"40","19650","40053","OK","Grant OK","Deer Creek town, OK",130,1 
+"40","19665","40041","OK","Delaware OK","Deer Lick CDP, OK",46,1 
+"40","19850","40105","OK","Nowata OK","Delaware town, OK",417,1 
+"40","19900","40109","OK","Oklahoma OK","Del City city, OK",21332,1 
+"40","20100","40041","OK","Delaware OK","Dennis CDP, OK",195,1 
+"40","20300","40037","OK","Creek OK","Depew town, OK",476,1 
+"40","20450","40033","OK","Cotton OK","Devol town, OK",151,1 
+"40","20500","40111","OK","Okmulgee OK","Dewar town, OK",888,1 
+"40","20550","40147","OK","Washington OK","Dewey city, OK",3432,1 
+"40","20650","40087","OK","McClain OK","Dibble town, OK",878,1 
+"40","20700","40019","OK","Carter OK","Dickson town, OK",1207,1 
+"40","20850","40149","OK","Washita OK","Dill City town, OK",562,1 
+"40","20900","40097","OK","Mayes OK","Disney town, OK",311,1 
+"40","21020","40041","OK","Delaware OK","Dodge CDP, OK",115,1 
+"40","21150","40115","OK","Ottawa OK","Dotyville CDP, OK",101,1 
+"40","21200","40099","OK","Murray OK","Dougherty town, OK",215,1 
+"40","21250","40047","OK","Garfield OK","Douglas town, OK",32,1 
+"40","21350","40073","OK","Kingfisher OK","Dover town, OK",464,1 
+"40","21672","40041","OK","Delaware OK","Dripping Springs CDP, OK",50,1 
+"40","21676","40041","OK","Delaware OK","Drowning Creek CDP, OK",155,1 
+"40","21700","40047","OK","Garfield OK","Drummond town, OK",455,1 
+"40","21750","40037","OK","Creek OK","Drumright city, OK",2842,0.9776 
+"40","21750","40119","OK","Payne OK","Drumright city, OK",65,0.0224 
+"40","21755","40021","OK","Cherokee OK","Dry Creek CDP, OK",227,1 
+"40","21760","40091","OK","McIntosh OK","Duchess Landing CDP, OK",114,1 
+"40","21900","40137","OK","Stephens OK","Duncan city, OK",23431,1 
+"40","22050","40013","OK","Bryan OK","Durant city, OK",15856,1 
+"40","22200","40063","OK","Hughes OK","Dustin town, OK",395,1 
+"40","22275","40135","OK","Sequoyah OK","Dwight Mission CDP, OK",55,1 
+"40","22350","40089","OK","McCurtain OK","Eagletown CDP, OK",528,1 
+"40","22400","40015","OK","Caddo OK","Eakly town, OK",338,1 
+"40","22500","40125","OK","Pottawatomie OK","Earlsboro town, OK",628,1 
+"40","22550","40065","OK","Jackson OK","East Duke town, OK",424,1 
+"40","23200","40109","OK","Oklahoma OK","Edmond city, OK",81405,1 
+"40","23300","40021","OK","Cherokee OK","Eldon CDP, OK",368,1 
+"40","23350","40065","OK","Jackson OK","Eldorado town, OK",446,1 
+"40","23450","40031","OK","Comanche OK","Elgin city, OK",2156,1 
+"40","23500","40009","OK","Beckham OK","Elk City city, OK",11693,1 
+"40","23550","40065","OK","Jackson OK","Elmer town, OK",96,1 
+"40","23575","40001","OK","Adair OK","Elm Grove CDP, OK",198,1 
+"40","23600","40049","OK","Garvin OK","Elmore City town, OK",697,1 
+"40","23700","40017","OK","Canadian OK","El Reno city, OK",16749,1 
+"40","23900","40137","OK","Stephens OK","Empire City town, OK",955,1 
+"40","23950","40047","OK","Garfield OK","Enid city, OK",49379,1 
+"40","24200","40009","OK","Beckham OK","Erick city, OK",1052,1 
+"40","24300","40049","OK","Garvin OK","Erin Springs town, OK",87,1 
+"40","24460","40027","OK","Cleveland OK","Etowah town, OK",92,1 
+"40","24650","40091","OK","McIntosh OK","Eufaula city, OK",2813,1 
+"40","24762","40135","OK","Sequoyah OK","Evening Shade CDP, OK",359,1 
+"40","24850","40113","OK","Osage OK","Fairfax town, OK",1380,1 
+"40","24875","40001","OK","Adair OK","Fairfield CDP, OK",584,1 
+"40","24900","40115","OK","Ottawa OK","Fairland town, OK",1057,1 
+"40","24950","40047","OK","Garfield OK","Fairmont town, OK",134,1 
+"40","25000","40145","OK","Wagoner OK","Fair Oaks town, OK",103,1 
+"40","25100","40093","OK","Major OK","Fairview city, OK",2579,1 
+"40","25250","40081","OK","Lincoln OK","Fallis town, OK",27,1 
+"40","25400","40077","OK","Latimer OK","Fanshawe town, OK",5,0.0119 
+"40","25400","40079","OK","Le Flore OK","Fanshawe town, OK",414,0.9881 
+"40","25450","40045","OK","Ellis OK","Fargo town, OK",364,1 
+"40","25650","40031","OK","Comanche OK","Faxon town, OK",136,1 
+"40","25850","40025","OK","Cimarron OK","Felt CDP, OK",93,1 
+"40","26250","40123","OK","Pontotoc OK","Fitzhugh town, OK",230,1 
+"40","26350","40031","OK","Comanche OK","Fletcher town, OK",1177,1 
+"40","26415","40041","OK","Delaware OK","Flint Creek CDP, OK",732,1 
+"40","26525","40135","OK","Sequoyah OK","Flute Springs CDP, OK",130,1 
+"40","26750","40113","OK","Osage OK","Foraker town, OK",19,1 
+"40","26850","40109","OK","Oklahoma OK","Forest Park town, OK",998,1 
+"40","26900","40007","OK","Beaver OK","Forgan town, OK",547,1 
+"40","27100","40015","OK","Caddo OK","Fort Cobb town, OK",634,1 
+"40","27150","40079","OK","Le Flore OK","Fort Coffee town, OK",424,1 
+"40","27200","40021","OK","Cherokee OK","Fort Gibson town, OK",22,0.0053 
+"40","27200","40101","OK","Muskogee OK","Fort Gibson town, OK",4132,0.9947 
+"40","27350","40153","OK","Woodward OK","Fort Supply town, OK",330,1 
+"40","27400","40023","OK","Choctaw OK","Fort Towson town, OK",519,1 
+"40","27450","40149","OK","Washita OK","Foss town, OK",151,1 
+"40","27500","40049","OK","Garvin OK","Foster town, OK",161,1 
+"40","27600","40131","OK","Rogers OK","Foyil town, OK",344,1 
+"40","27650","40123","OK","Pontotoc OK","Francis town, OK",315,1 
+"40","27800","40141","OK","Tillman OK","Frederick city, OK",3940,1 
+"40","27850","40151","OK","Woods OK","Freedom town, OK",289,1 
+"40","27900","40065","OK","Jackson OK","Friendship town, OK",24,1 
+"40","28250","40045","OK","Ellis OK","Gage town, OK",442,1 
+"40","28350","40135","OK","Sequoyah OK","Gans town, OK",312,1 
+"40","28500","40047","OK","Garfield OK","Garber city, OK",822,1 
+"40","28700","40089","OK","McCurtain OK","Garvin town, OK",256,1 
+"40","28800","40007","OK","Beaver OK","Gate town, OK",93,1 
+"40","28900","40011","OK","Blaine OK","Geary city, OK",1077,0.8414 
+"40","28900","40017","OK","Canadian OK","Geary city, OK",203,0.1586 
+"40","28950","40019","OK","Carter OK","Gene Autry town, OK",158,1 
+"40","29100","40031","OK","Comanche OK","Geronimo town, OK",1268,1 
+"40","29150","40063","OK","Hughes OK","Gerty town, OK",118,1 
+"40","29300","40021","OK","Cherokee OK","Gideon CDP, OK",49,1 
+"40","29400","40119","OK","Payne OK","Glencoe town, OK",601,1 
+"40","29600","40143","OK","Tulsa OK","Glenpool city, OK",10808,1 
+"40","29850","40087","OK","McClain OK","Goldsby town, OK",1801,1 
+"40","29900","40003","OK","Alfalfa OK","Goltry town, OK",249,1 
+"40","30200","40139","OK","Texas OK","Goodwell town, OK",1293,1 
+"40","30300","40135","OK","Sequoyah OK","Gore town, OK",977,1 
+"40","30350","40075","OK","Kiowa OK","Gotebo town, OK",226,1 
+"40","30400","40057","OK","Harmon OK","Gould town, OK",141,1 
+"40","30600","40015","OK","Caddo OK","Gracemont town, OK",318,1 
+"40","30750","40113","OK","Osage OK","Grainola town, OK",31,1 
+"40","30850","40141","OK","Tillman OK","Grandfield city, OK",1038,1 
+"40","30900","40097","OK","Mayes OK","Grand Lake Towne town, OK",74,1 
+"40","30915","40021","OK","Cherokee OK","Grandview CDP, OK",394,1 
+"40","30950","40055","OK","Greer OK","Granite town, OK",2065,1 
+"40","31000","40023","OK","Choctaw OK","Grant CDP, OK",289,1 
+"40","31150","40111","OK","Okmulgee OK","Grayson town, OK",159,1 
+"40","31165","40001","OK","Adair OK","Greasy CDP, OK",372,1 
+"40","31250","40011","OK","Blaine OK","Greenfield town, OK",93,1 
+"40","31425","40131","OK","Rogers OK","Gregory CDP, OK",171,1 
+"40","31600","40041","OK","Delaware OK","Grove city, OK",6623,1 
+"40","31700","40083","OK","Logan OK","Guthrie city, OK",10191,1 
+"40","31750","40139","OK","Texas OK","Guymon city, OK",11442,1 
+"40","31900","40121","OK","Pittsburg OK","Haileyville city, OK",813,1 
+"40","32050","40117","OK","Pawnee OK","Hallett town, OK",125,1 
+"40","32250","40039","OK","Custer OK","Hammon town, OK",45,0.0792 
+"40","32250","40129","OK","Roger Mills OK","Hammon town, OK",523,0.9208 
+"40","32350","40091","OK","McIntosh OK","Hanna town, OK",138,1 
+"40","32550","40139","OK","Texas OK","Hardesty town, OK",212,1 
+"40","32750","40109","OK","Oklahoma OK","Harrah city, OK",5095,1 
+"40","32850","40121","OK","Pittsburg OK","Hartshorne city, OK",2125,1 
+"40","32900","40101","OK","Muskogee OK","Haskell town, OK",2007,1 
+"40","33000","40067","OK","Jefferson OK","Hastings town, OK",143,1 
+"40","33150","40089","OK","McCurtain OK","Haworth town, OK",297,1 
+"40","33300","40065","OK","Jackson OK","Headrick town, OK",94,1 
+"40","33350","40019","OK","Carter OK","Healdton city, OK",2788,1 
+"40","33400","40079","OK","Le Flore OK","Heavener city, OK",3414,1 
+"40","33450","40003","OK","Alfalfa OK","Helena town, OK",1403,1 
+"40","33600","40013","OK","Bryan OK","Hendrix town, OK",79,1 
+"40","33700","40073","OK","Kingfisher OK","Hennessey town, OK",2131,1 
+"40","33750","40111","OK","Okmulgee OK","Henryetta city, OK",5927,1 
+"40","34150","40099","OK","Murray OK","Hickory town, OK",71,1 
+"40","34650","40047","OK","Garfield OK","Hillsdale town, OK",121,1 
+"40","34750","40015","OK","Caddo OK","Hinton town, OK",3196,1 
+"40","34850","40011","OK","Blaine OK","Hitchcock town, OK",121,1 
+"40","34900","40091","OK","McIntosh OK","Hitchita town, OK",88,1 
+"40","35000","40075","OK","Kiowa OK","Hobart city, OK",3756,1 
+"40","35300","40111","OK","Okmulgee OK","Hoffman town, OK",127,1 
+"40","35400","40063","OK","Hughes OK","Holdenville city, OK",5771,1 
+"40","35500","40057","OK","Harmon OK","Hollis city, OK",2060,1 
+"40","35550","40141","OK","Tillman OK","Hollister town, OK",50,1 
+"40","35850","40113","OK","Osage OK","Hominy city, OK",3565,1 
+"40","36000","40139","OK","Texas OK","Hooker city, OK",1918,1 
+"40","36020","40097","OK","Mayes OK","Hoot Owl town, OK",4,1 
+"40","36090","40063","OK","Hughes OK","Horntown town, OK",97,1 
+"40","36150","40079","OK","Le Flore OK","Howe town, OK",802,1 
+"40","36300","40023","OK","Choctaw OK","Hugo city, OK",5310,1 
+"40","36400","40021","OK","Cherokee OK","Hulbert town, OK",590,1 
+"40","36600","40047","OK","Garfield OK","Hunter town, OK",165,1 
+"40","36700","40011","OK","Blaine OK","Hydro town, OK",277,0.2859 
+"40","36700","40015","OK","Caddo OK","Hydro town, OK",692,0.7141 
+"40","36750","40089","OK","McCurtain OK","Idabel city, OK",7010,1 
+"40","36850","40031","OK","Comanche OK","Indiahoma town, OK",344,1 
+"40","36945","40041","OK","Delaware OK","Indianola CDP, OK",48,1 
+"40","36950","40121","OK","Pittsburg OK","Indianola town, OK",162,1 
+"40","37100","40131","OK","Rogers OK","Inola town, OK",1788,1 
+"40","37275","40097","OK","Mayes OK","Iron Post CDP, OK",92,1 
+"40","37350","40093","OK","Major OK","Isabella CDP, OK",136,1 
+"40","37410","40107","OK","Okfuskee OK","IXL town, OK",51,1 
+"40","37650","40041","OK","Delaware OK","Jay city, OK",2448,1 
+"40","37750","40053","OK","Grant OK","Jefferson town, OK",12,1 
+"40","37800","40143","OK","Tulsa OK","Jenks city, OK",16924,1 
+"40","37850","40117","OK","Pawnee OK","Jennings town, OK",363,1 
+"40","38000","40003","OK","Alfalfa OK","Jet town, OK",213,1 
+"40","38200","40125","OK","Pottawatomie OK","Johnson town, OK",247,1 
+"40","38350","40109","OK","Oklahoma OK","Jones town, OK",2692,1 
+"40","38475","40131","OK","Rogers OK","Justice CDP, OK",1324,1 
+"40","38600","40041","OK","Delaware OK","Kansas town, OK",802,1 
+"40","38700","40049","OK","Garvin OK","Katie town, OK",348,1 
+"40","38800","40071","OK","Kay OK","Kaw City city, OK",375,1 
+"40","39000","40037","OK","Creek OK","Kellyville town, OK",1150,1 
+"40","39050","40013","OK","Bryan OK","Kemp town, OK",133,1 
+"40","39150","40081","OK","Lincoln OK","Kendrick town, OK",139,1 
+"40","39200","40013","OK","Bryan OK","Kenefic town, OK",196,1 
+"40","39400","40025","OK","Cimarron OK","Kenton CDP, OK",17,1 
+"40","39450","40041","OK","Delaware OK","Kenwood CDP, OK",617,0.5041 
+"40","39450","40097","OK","Mayes OK","Kenwood CDP, OK",607,0.4959 
+"40","39500","40061","OK","Haskell OK","Keota town, OK",564,1 
+"40","39550","40035","OK","Craig OK","Ketchum town, OK",399,0.9027 
+"40","39550","40041","OK","Delaware OK","Ketchum town, OK",20,0.0452 
+"40","39550","40097","OK","Mayes OK","Ketchum town, OK",23,0.052 
+"40","39600","40025","OK","Cimarron OK","Keyes town, OK",324,1 
+"40","39625","40021","OK","Cherokee OK","Keys CDP, OK",565,1 
+"40","39750","40037","OK","Creek OK","Kiefer town, OK",1685,1 
+"40","39800","40071","OK","Kay OK","Kildare town, OK",100,1 
+"40","39850","40073","OK","Kingfisher OK","Kingfisher city, OK",4633,1 
+"40","39900","40095","OK","Marshall OK","Kingston town, OK",1601,1 
+"40","39950","40061","OK","Haskell OK","Kinta town, OK",297,1 
+"40","40000","40121","OK","Pittsburg OK","Kiowa town, OK",731,1 
+"40","40100","40007","OK","Beaver OK","Knowles town, OK",11,1 
+"40","40200","40133","OK","Seminole OK","Konawa city, OK",1298,1 
+"40","40300","40121","OK","Pittsburg OK","Krebs city, OK",2053,1 
+"40","40400","40047","OK","Garfield OK","Kremlin town, OK",255,1 
+"40","40700","40047","OK","Garfield OK","Lahoma town, OK",611,1 
+"40","40800","40109","OK","Oklahoma OK","Lake Aluma town, OK",88,1 
+"40","41250","40063","OK","Hughes OK","Lamar town, OK",158,1 
+"40","41300","40003","OK","Alfalfa OK","Lambert town, OK",6,1 
+"40","41350","40053","OK","Grant OK","Lamont town, OK",417,1 
+"40","41400","40005","OK","Atoka OK","Lane CDP, OK",414,1 
+"40","41500","40097","OK","Mayes OK","Langley town, OK",819,1 
+"40","41550","40083","OK","Logan OK","Langston town, OK",1724,1 
+"40","41700","40059","OK","Harper OK","Laverne town, OK",1344,1 
+"40","41760","40037","OK","Creek OK","Lawrence Creek town, OK",149,1 
+"40","41850","40031","OK","Comanche OK","Lawton city, OK",96867,1 
+"40","41900","40041","OK","Delaware OK","Leach CDP, OK",237,1 
+"40","41950","40095","OK","Marshall OK","Lebanon CDP, OK",303,1 
+"40","42050","40043","OK","Dewey OK","Leedey town, OK",435,1 
+"40","42150","40079","OK","Le Flore OK","Le Flore town, OK",190,1 
+"40","42200","40029","OK","Coal OK","Lehigh city, OK",356,1 
+"40","42300","40105","OK","Nowata OK","Lenapah town, OK",293,1 
+"40","42450","40085","OK","Love OK","Leon town, OK",91,1 
+"40","42700","40027","OK","Cleveland OK","Lexington city, OK",2152,1 
+"40","42855","40135","OK","Sequoyah OK","Liberty CDP, OK",220,1 
+"40","42860","40111","OK","Okmulgee OK","Liberty town, OK",108,0.4909 
+"40","42860","40143","OK","Tulsa OK","Liberty town, OK",112,0.5091 
+"40","43000","40133","OK","Seminole OK","Lima town, OK",53,1 
+"40","43057","40131","OK","Rogers OK","Limestone CDP, OK",629,1 
+"40","43150","40049","OK","Garvin OK","Lindsay city, OK",2840,1 
+"40","43450","40137","OK","Stephens OK","Loco town, OK",122,1 
+"40","43500","40097","OK","Mayes OK","Locust Grove town, OK",1423,1 
+"40","43750","40019","OK","Carter OK","Lone Grove city, OK",5054,1 
+"40","43850","40075","OK","Kiowa OK","Lone Wolf town, OK",438,1 
+"40","43900","40135","OK","Sequoyah OK","Long CDP, OK",370,1 
+"40","43950","40011","OK","Blaine OK","Longdale town, OK",262,1 
+"40","43975","40121","OK","Pittsburg OK","Longtown CDP, OK",2739,1 
+"40","44000","40015","OK","Caddo OK","Lookeba town, OK",166,1 
+"40","44075","40021","OK","Cherokee OK","Lost City CDP, OK",770,1 
+"40","44100","40143","OK","Tulsa OK","Lotsee town, OK",2,1 
+"40","44150","40141","OK","Tillman OK","Loveland town, OK",13,1 
+"40","44300","40073","OK","Kingfisher OK","Loyal town, OK",79,1 
+"40","44350","40103","OK","Noble OK","Lucien CDP, OK",88,1 
+"40","44500","40109","OK","Oklahoma OK","Luther town, OK",1221,1 
+"40","44775","40001","OK","Adair OK","Lyons Switch CDP, OK",288,1 
+"40","44800","40121","OK","Pittsburg OK","McAlester city, OK",18383,1 
+"40","44925","40113","OK","Osage OK","McCord CDP, OK",1440,1 
+"40","44950","40061","OK","Haskell OK","McCurtain town, OK",516,1 
+"40","45350","40125","OK","Pottawatomie OK","McLoud town, OK",4044,1 
+"40","45500","40125","OK","Pottawatomie OK","Macomb town, OK",32,1 
+"40","45750","40095","OK","Marshall OK","Madill city, OK",3770,1 
+"40","46000","40053","OK","Grant OK","Manchester town, OK",103,1 
+"40","46050","40055","OK","Greer OK","Mangum city, OK",3010,1 
+"40","46150","40141","OK","Tillman OK","Manitou town, OK",181,1 
+"40","46200","40037","OK","Creek OK","Mannford town, OK",3045,0.9899 
+"40","46200","40117","OK","Pawnee OK","Mannford town, OK",20,0.0065 
+"40","46200","40143","OK","Tulsa OK","Mannford town, OK",11,0.0036 
+"40","46300","40069","OK","Johnston OK","Mannsville town, OK",863,1 
+"40","46400","40117","OK","Pawnee OK","Maramec town, OK",91,1 
+"40","46450","40135","OK","Sequoyah OK","Marble City town, OK",263,1 
+"40","46488","40001","OK","Adair OK","Marietta CDP, OK",106,1 
+"40","46500","40085","OK","Love OK","Marietta city, OK",2626,1 
+"40","46550","40103","OK","Noble OK","Marland town, OK",225,1 
+"40","46600","40137","OK","Stephens OK","Marlow city, OK",4662,1 
+"40","46650","40083","OK","Logan OK","Marshall town, OK",272,1 
+"40","46700","40065","OK","Jackson OK","Martha town, OK",162,1 
+"40","46900","40125","OK","Pottawatomie OK","Maud city, OK",699,0.667 
+"40","46900","40133","OK","Seminole OK","Maud city, OK",349,0.333 
+"40","47000","40059","OK","Harper OK","May town, OK",39,1 
+"40","47150","40049","OK","Garvin OK","Maysville town, OK",1220,0.9903 
+"40","47150","40087","OK","McClain OK","Maysville town, OK",12,0.0097 
+"40","47200","40097","OK","Mayes OK","Mazie CDP, OK",91,1 
+"40","47250","40013","OK","Bryan OK","Mead town, OK",122,1 
+"40","47300","40053","OK","Grant OK","Medford city, OK",996,1 
+"40","47350","40031","OK","Comanche OK","Medicine Park town, OK",382,1 
+"40","47450","40081","OK","Lincoln OK","Meeker town, OK",1144,1 
+"40","47750","40093","OK","Major OK","Meno town, OK",235,1 
+"40","47800","40083","OK","Logan OK","Meridian town, OK",38,1 
+"40","47810","40137","OK","Stephens OK","Meridian CDP, OK",1493,1 
+"40","48000","40115","OK","Ottawa OK","Miami city, OK",13570,1 
+"40","48350","40109","OK","Oklahoma OK","Midwest City city, OK",54371,1 
+"40","48400","40069","OK","Johnston OK","Milburn town, OK",317,1 
+"40","48500","40069","OK","Johnston OK","Mill Creek town, OK",319,1 
+"40","48600","40089","OK","McCurtain OK","Millerton town, OK",320,1 
+"40","48750","40051","OK","Grady OK","Minco city, OK",1632,1 
+"40","49000","40135","OK","Sequoyah OK","Moffett town, OK",128,1 
+"40","49200","40027","OK","Cleveland OK","Moore city, OK",55081,1 
+"40","49250","40153","OK","Woodward OK","Mooreland town, OK",1190,1 
+"40","49400","40111","OK","Okmulgee OK","Morris city, OK",1479,1 
+"40","49450","40103","OK","Noble OK","Morrison town, OK",733,1 
+"40","49550","40037","OK","Creek OK","Mounds town, OK",1168,1 
+"40","49600","40075","OK","Kiowa OK","Mountain Park town, OK",409,1 
+"40","49650","40075","OK","Kiowa OK","Mountain View town, OK",795,1 
+"40","49825","40001","OK","Adair OK","Mulberry CDP, OK",138,1 
+"40","49850","40135","OK","Sequoyah OK","Muldrow town, OK",3466,1 
+"40","49900","40083","OK","Logan OK","Mulhall town, OK",225,1 
+"40","49950","40097","OK","Mayes OK","Murphy CDP, OK",219,1 
+"40","50050","40101","OK","Muskogee OK","Muskogee city, OK",39223,1 
+"40","50100","40017","OK","Canadian OK","Mustang city, OK",17395,1 
+"40","50150","40153","OK","Woodward OK","Mutual town, OK",61,1 
+"40","50200","40115","OK","Ottawa OK","Narcissa CDP, OK",99,1 
+"40","50250","40071","OK","Kay OK","Nardin CDP, OK",52,1 
+"40","50300","40053","OK","Grant OK","Nash town, OK",204,1 
+"40","50975","40003","OK","Alfalfa OK","Nescatunga CDP, OK",70,1 
+"40","51050","40105","OK","Nowata OK","New Alluwe town, OK",90,1 
+"40","51150","40087","OK","McClain OK","Newcastle city, OK",7685,1 
+"40","51250","40149","OK","Washita OK","New Cordell city, OK",2915,1 
+"40","51275","40041","OK","Delaware OK","New Eucha CDP, OK",405,1 
+"40","51300","40071","OK","Kay OK","Newkirk city, OK",2317,1 
+"40","51750","40095","OK","Marshall OK","New Woodville town, OK",132,1 
+"40","51800","40109","OK","Oklahoma OK","Nichols Hills city, OK",3710,1 
+"40","51850","40109","OK","Oklahoma OK","Nicoma Park city, OK",2393,1 
+"40","51900","40135","OK","Sequoyah OK","Nicut CDP, OK",360,1 
+"40","52100","40051","OK","Grady OK","Ninnekah town, OK",1002,1 
+"40","52150","40027","OK","Cleveland OK","Noble city, OK",6481,1 
+"40","52450","40051","OK","Grady OK","Norge town, OK",145,1 
+"40","52500","40027","OK","Cleveland OK","Norman city, OK",110925,1 
+"40","52600","40047","OK","Garfield OK","North Enid town, OK",860,1 
+"40","52700","40115","OK","Ottawa OK","North Miami town, OK",374,1 
+"40","52862","40135","OK","Sequoyah OK","Notchietown CDP, OK",373,1 
+"40","52900","40105","OK","Nowata OK","Nowata city, OK",3731,1 
+"40","53210","40117","OK","Pawnee OK","Oak Grove town, OK",18,1 
+"40","53350","40037","OK","Creek OK","Oakhurst CDP, OK",547,0.2503 
+"40","53350","40143","OK","Tulsa OK","Oakhurst CDP, OK",1638,0.7497 
+"40","53400","40095","OK","Marshall OK","Oakland town, OK",1057,1 
+"40","53550","40041","OK","Delaware OK","Oaks town, OK",288,1 
+"40","53600","40043","OK","Dewey OK","Oakwood town, OK",65,1 
+"40","53700","40147","OK","Washington OK","Ochelata town, OK",424,1 
+"40","54000","40037","OK","Creek OK","Oilton city, OK",1013,1 
+"40","54050","40017","OK","Canadian OK","Okarche town, OK",325,0.2675 
+"40","54050","40073","OK","Kingfisher OK","Okarche town, OK",890,0.7325 
+"40","54100","40145","OK","Wagoner OK","Okay town, OK",620,1 
+"40","54150","40011","OK","Blaine OK","Okeene town, OK",1204,1 
+"40","54200","40107","OK","Okfuskee OK","Okemah city, OK",3223,1 
+"40","55000","40017","OK","Canadian OK","Oklahoma City city, OK",44541,0.0768 
+"40","55000","40027","OK","Cleveland OK","Oklahoma City city, OK",63723,0.1099 
+"40","55000","40109","OK","Oklahoma OK","Oklahoma City city, OK",471671,0.8132 
+"40","55000","40125","OK","Pottawatomie OK","Oklahoma City city, OK",64,0.0001 
+"40","55150","40111","OK","Okmulgee OK","Okmulgee city, OK",12321,1 
+"40","55200","40101","OK","Muskogee OK","Oktaha town, OK",390,1 
+"40","55275","40041","OK","Delaware OK","Old Eucha CDP, OK",52,1 
+"40","55285","40001","OK","Adair OK","Old Green CDP, OK",315,1 
+"40","55450","40065","OK","Jackson OK","Olustee town, OK",607,1 
+"40","55750","40131","OK","Rogers OK","Oologah town, OK",1146,1 
+"40","55850","40139","OK","Texas OK","Optima town, OK",356,1 
+"40","56050","40083","OK","Logan OK","Orlando town, OK",148,1 
+"40","56150","40113","OK","Osage OK","Osage town, OK",156,1 
+"40","56650","40131","OK","Rogers OK","Owasso city, OK",2614,0.0904 
+"40","56650","40143","OK","Tulsa OK","Owasso city, OK",26301,0.9096 
+"40","56800","40107","OK","Okfuskee OK","Paden town, OK",461,1 
+"40","56900","40079","OK","Le Flore OK","Panama town, OK",1413,1 
+"40","57100","40049","OK","Garvin OK","Paoli town, OK",610,1 
+"40","57150","40135","OK","Sequoyah OK","Paradise Hill town, OK",85,1 
+"40","57300","40021","OK","Cherokee OK","Park Hill CDP, OK",3909,1 
+"40","57550","40049","OK","Garvin OK","Pauls Valley city, OK",6187,1 
+"40","57600","40113","OK","Osage OK","Pawhuska city, OK",3584,1 
+"40","57650","40117","OK","Pawnee OK","Pawnee city, OK",2196,1 
+"40","57875","40001","OK","Adair OK","Peavine CDP, OK",423,1 
+"40","57950","40021","OK","Cherokee OK","Peggs CDP, OK",813,1 
+"40","58050","40097","OK","Mayes OK","Pensacola town, OK",125,1 
+"40","58100","40115","OK","Ottawa OK","Peoria town, OK",132,1 
+"40","58150","40119","OK","Payne OK","Perkins city, OK",2831,1 
+"40","58250","40103","OK","Noble OK","Perry city, OK",5126,1 
+"40","58400","40021","OK","Cherokee OK","Pettit CDP, OK",954,1 
+"40","58500","40029","OK","Coal OK","Phillips town, OK",135,1 
+"40","58550","40115","OK","Ottawa OK","Picher city, OK",20,1 
+"40","58700","40017","OK","Canadian OK","Piedmont city, OK",5712,0.9986 
+"40","58700","40073","OK","Kingfisher OK","Piedmont city, OK",8,0.0014 
+"40","59100","40001","OK","Adair OK","Piney CDP, OK",115,1 
+"40","59125","40135","OK","Sequoyah OK","Pinhook Corner CDP, OK",171,1 
+"40","59150","40125","OK","Pottawatomie OK","Pink town, OK",2058,1 
+"40","59175","40097","OK","Mayes OK","Pin Oak Acres CDP, OK",421,1 
+"40","59350","40121","OK","Pittsburg OK","Pittsburg town, OK",207,1 
+"40","59700","40051","OK","Grady OK","Pocasset town, OK",156,1 
+"40","59750","40079","OK","Le Flore OK","Pocola town, OK",4056,1 
+"40","59850","40071","OK","Kay OK","Ponca City city, OK",25387,1 
+"40","59950","40053","OK","Grant OK","Pond Creek city, OK",856,1 
+"40","60150","40145","OK","Wagoner OK","Porter town, OK",566,1 
+"40","60250","40101","OK","Muskogee OK","Porum town, OK",727,1 
+"40","60350","40079","OK","Le Flore OK","Poteau city, OK",8520,1 
+"40","60500","40081","OK","Lincoln OK","Prague city, OK",2386,1 
+"40","60750","40001","OK","Adair OK","Proctor CDP, OK",231,1 
+"40","60850","40113","OK","Osage OK","Prue town, OK",465,1 
+"40","61000","40097","OK","Mayes OK","Pryor Creek city, OK",9539,1 
+"40","61020","40097","OK","Mayes OK","Pump Back CDP, OK",175,1 
+"40","61150","40087","OK","McClain OK","Purcell city, OK",5884,1 
+"40","61250","40043","OK","Dewey OK","Putnam town, OK",29,1 
+"40","61400","40115","OK","Ottawa OK","Quapaw town, OK",906,1 
+"40","61550","40121","OK","Pittsburg OK","Quinton town, OK",1051,1 
+"40","61650","40117","OK","Pawnee OK","Ralston town, OK",330,1 
+"40","61700","40147","OK","Washington OK","Ramona town, OK",535,1 
+"40","61850","40033","OK","Cotton OK","Randlett town, OK",438,1 
+"40","61900","40019","OK","Carter OK","Ratliff City town, OK",120,1 
+"40","61950","40127","OK","Pushmataha OK","Rattan town, OK",310,1 
+"40","62000","40069","OK","Johnston OK","Ravia town, OK",528,1 
+"40","62200","40145","OK","Wagoner OK","Redbird town, OK",137,1 
+"40","62275","40135","OK","Sequoyah OK","Redbird Smith CDP, OK",465,1 
+"40","62550","40077","OK","Latimer OK","Red Oak town, OK",549,1 
+"40","62650","40103","OK","Noble OK","Red Rock town, OK",283,1 
+"40","62875","40135","OK","Sequoyah OK","Remy CDP, OK",562,1 
+"40","62900","40053","OK","Grant OK","Renfrow town, OK",12,1 
+"40","62950","40091","OK","McIntosh OK","Rentiesville town, OK",128,1 
+"40","63100","40129","OK","Roger Mills OK","Reydon town, OK",210,1 
+"40","63350","40067","OK","Jefferson OK","Ringling town, OK",1037,1 
+"40","63450","40093","OK","Major OK","Ringwood town, OK",497,1 
+"40","63500","40119","OK","Payne OK","Ripley town, OK",403,1 
+"40","63537","40101","OK","Muskogee OK","River Bottom CDP, OK",154,1 
+"40","63600","40079","OK","Le Flore OK","Rock Island town, OK",646,1 
+"40","63700","40149","OK","Washita OK","Rocky town, OK",162,1 
+"40","63715","40041","OK","Delaware OK","Rocky Ford CDP, OK",61,1 
+"40","63720","40001","OK","Adair OK","Rocky Mountain CDP, OK",420,1 
+"40","63750","40123","OK","Pontotoc OK","Roff town, OK",725,1 
+"40","63800","40135","OK","Sequoyah OK","Roland town, OK",3169,1 
+"40","63900","40075","OK","Kiowa OK","Roosevelt town, OK",248,1 
+"40","63950","40097","OK","Mayes OK","Rose CDP, OK",285,1 
+"40","64000","40087","OK","McClain OK","Rosedale town, OK",68,1 
+"40","64050","40059","OK","Harper OK","Rosston town, OK",31,1 
+"40","64300","40051","OK","Grady OK","Rush Springs town, OK",1231,1 
+"40","64600","40067","OK","Jefferson OK","Ryan town, OK",816,1 
+"40","64850","40125","OK","Pottawatomie OK","St. Louis town, OK",158,1 
+"40","64875","40001","OK","Adair OK","Salem CDP, OK",112,1 
+"40","64950","40097","OK","Mayes OK","Salina town, OK",1396,1 
+"40","65000","40135","OK","Sequoyah OK","Sallisaw city, OK",8880,1 
+"40","65062","40097","OK","Mayes OK","Sams Corner CDP, OK",137,1 
+"40","65240","40101","OK","Muskogee OK","Sand Hill CDP, OK",395,1 
+"40","65300","40113","OK","Osage OK","Sand Springs city, OK",391,0.0207 
+"40","65300","40143","OK","Tulsa OK","Sand Springs city, OK",18515,0.9793 
+"40","65400","40037","OK","Creek OK","Sapulpa city, OK",20501,0.9979 
+"40","65400","40143","OK","Tulsa OK","Sapulpa city, OK",43,0.0021 
+"40","65500","40133","OK","Seminole OK","Sasakwa town, OK",150,1 
+"40","65600","40121","OK","Pittsburg OK","Savanna town, OK",686,1 
+"40","65650","40023","OK","Choctaw OK","Sawyer town, OK",321,1 
+"40","65700","40009","OK","Beckham OK","Sayre city, OK",4375,1 
+"40","65900","40111","OK","Okmulgee OK","Schulter town, OK",509,1 
+"40","66050","40021","OK","Cherokee OK","Scraper CDP, OK",191,1 
+"40","66250","40043","OK","Dewey OK","Seiling city, OK",860,1 
+"40","66350","40133","OK","Seminole OK","Seminole city, OK",7488,1 
+"40","66400","40149","OK","Washita OK","Sentinel town, OK",901,1 
+"40","66450","40131","OK","Rogers OK","Sequoyah CDP, OK",698,1 
+"40","66510","40021","OK","Cherokee OK","Shady Grove CDP, OK",556,1 
+"40","66520","40091","OK","McIntosh OK","Shady Grove CDP, OK",194,1 
+"40","66540","40117","OK","Pawnee OK","Shady Grove town, OK",2,1 
+"40","66550","40079","OK","Le Flore OK","Shady Point town, OK",1026,1 
+"40","66600","40037","OK","Creek OK","Shamrock town, OK",101,1 
+"40","66650","40153","OK","Woodward OK","Sharon town, OK",135,1 
+"40","66750","40045","OK","Ellis OK","Shattuck town, OK",1356,1 
+"40","66800","40125","OK","Pottawatomie OK","Shawnee city, OK",29857,1 
+"40","67200","40113","OK","Osage OK","Shidler city, OK",441,1 
+"40","67400","40135","OK","Sequoyah OK","Short CDP, OK",293,1 
+"40","67550","40013","OK","Bryan OK","Silo town, OK",331,1 
+"40","67625","40101","OK","Muskogee OK","Simms CDP, OK",325,1 
+"40","67800","40117","OK","Pawnee OK","Skedee town, OK",51,1 
+"40","67850","40113","OK","Osage OK","Skiatook town, OK",5267,0.712 
+"40","67850","40143","OK","Tulsa OK","Skiatook town, OK",2130,0.288 
+"40","67950","40027","OK","Cleveland OK","Slaughterville town, OK",4137,1 
+"40","68000","40037","OK","Creek OK","Slick town, OK",131,1 
+"40","68200","40109","OK","Oklahoma OK","Smith Village town, OK",66,1 
+"40","68250","40089","OK","McCurtain OK","Smithville town, OK",113,1 
+"40","68275","40097","OK","Mayes OK","Snake Creek CDP, OK",257,1 
+"40","68400","40075","OK","Kiowa OK","Snyder city, OK",1394,1 
+"40","68500","40023","OK","Choctaw OK","Soper town, OK",261,1 
+"40","68537","40101","OK","Muskogee OK","Sour John CDP, OK",60,1 
+"40","68600","40105","OK","Nowata OK","South Coffeyville town, OK",785,1 
+"40","68950","40081","OK","Lincoln OK","Sparks town, OK",169,1 
+"40","69000","40063","OK","Hughes OK","Spaulding town, OK",178,1 
+"40","69050","40097","OK","Mayes OK","Spavinaw town, OK",437,1 
+"40","69200","40109","OK","Oklahoma OK","Spencer city, OK",3912,1 
+"40","69300","40113","OK","Osage OK","Sperry town, OK",29,0.024 
+"40","69300","40143","OK","Tulsa OK","Sperry town, OK",1177,0.976 
+"40","69350","40079","OK","Le Flore OK","Spiro town, OK",2164,1 
+"40","69400","40097","OK","Mayes OK","Sportsmen Acres town, OK",322,1 
+"40","69500","40019","OK","Carter OK","Springer town, OK",700,1 
+"40","70037","40021","OK","Cherokee OK","Steely Hollow CDP, OK",206,1 
+"40","70150","40031","OK","Comanche OK","Sterling town, OK",793,1 
+"40","70200","40091","OK","McIntosh OK","Stidham town, OK",18,1 
+"40","70250","40061","OK","Haskell OK","Stigler city, OK",2685,1 
+"40","70300","40119","OK","Payne OK","Stillwater city, OK",45688,1 
+"40","70350","40001","OK","Adair OK","Stilwell city, OK",3949,1 
+"40","70500","40123","OK","Pontotoc OK","Stonewall town, OK",470,1 
+"40","70512","40135","OK","Sequoyah OK","Stoney Point CDP, OK",238,1 
+"40","70750","40097","OK","Mayes OK","Strang town, OK",89,1 
+"40","70800","40049","OK","Garvin OK","Stratford town, OK",1525,1 
+"40","70850","40005","OK","Atoka OK","Stringtown town, OK",410,1 
+"40","70950","40129","OK","Roger Mills OK","Strong City town, OK",47,1 
+"40","71000","40037","OK","Creek OK","Stroud city, OK",3,0.0011 
+"40","71000","40081","OK","Lincoln OK","Stroud city, OK",2687,0.9989 
+"40","71050","40063","OK","Hughes OK","Stuart town, OK",180,1 
+"40","71250","40067","OK","Jefferson OK","Sugden town, OK",43,1 
+"40","71350","40099","OK","Murray OK","Sulphur city, OK",4929,1 
+"40","71450","40101","OK","Muskogee OK","Summit town, OK",139,1 
+"40","71900","40009","OK","Beckham OK","Sweetwater town, OK",61,0.7011 
+"40","71900","40129","OK","Roger Mills OK","Sweetwater town, OK",26,0.2989 
+"40","71950","40023","OK","Choctaw OK","Swink CDP, OK",66,1 
+"40","71965","40041","OK","Delaware OK","Sycamore CDP, OK",177,1 
+"40","72050","40101","OK","Muskogee OK","Taft town, OK",250,1 
+"40","72075","40041","OK","Delaware OK","Tagg Flats CDP, OK",13,1 
+"40","72100","40021","OK","Cherokee OK","Tahlequah city, OK",15753,1 
+"40","72200","40131","OK","Rogers OK","Talala town, OK",273,1 
+"40","72250","40079","OK","Le Flore OK","Talihina town, OK",1114,1 
+"40","72350","40043","OK","Dewey OK","Taloga town, OK",299,1 
+"40","72400","40061","OK","Haskell OK","Tamaha town, OK",176,1 
+"40","72500","40019","OK","Carter OK","Tatums town, OK",151,1 
+"40","72650","40125","OK","Pottawatomie OK","Tecumseh city, OK",6457,1 
+"40","72750","40033","OK","Cotton OK","Temple town, OK",1002,1 
+"40","72775","40021","OK","Cherokee OK","Tenkiller CDP, OK",633,1 
+"40","72800","40021","OK","Cherokee OK","Teresita CDP, OK",159,1 
+"40","72850","40117","OK","Pawnee OK","Terlton town, OK",106,1 
+"40","72900","40067","OK","Jefferson OK","Terral town, OK",382,1 
+"40","72950","40091","OK","McIntosh OK","Texanna CDP, OK",2261,1 
+"40","73100","40139","OK","Texas OK","Texhoma town, OK",926,1 
+"40","73150","40009","OK","Beckham OK","Texola town, OK",36,1 
+"40","73200","40085","OK","Love OK","Thackerville town, OK",445,1 
+"40","73250","40109","OK","Oklahoma OK","The Village city, OK",8929,1 
+"40","73450","40039","OK","Custer OK","Thomas city, OK",1181,1 
+"40","73600","40131","OK","Rogers OK","Tiawah CDP, OK",189,1 
+"40","73850","40141","OK","Tillman OK","Tipton town, OK",847,1 
+"40","73900","40069","OK","Johnston OK","Tishomingo city, OK",3034,1 
+"40","73950","40001","OK","Adair OK","Titanic CDP, OK",356,1 
+"40","74150","40071","OK","Kay OK","Tonkawa city, OK",3216,1 
+"40","74400","40125","OK","Pottawatomie OK","Tribbey town, OK",391,1 
+"40","74550","40081","OK","Lincoln OK","Tryon town, OK",491,1 
+"40","74650","40145","OK","Wagoner OK","Tullahassee town, OK",106,1 
+"40","75000","40113","OK","Osage OK","Tulsa city, OK",6136,0.0157 
+"40","75000","40143","OK","Tulsa OK","Tulsa city, OK",385613,0.9839 
+"40","75000","40145","OK","Wagoner OK","Tulsa city, OK",157,0.0004 
+"40","75050","40029","OK","Coal OK","Tupelo city, OK",329,1 
+"40","75150","40143","OK","Tulsa OK","Turley CDP, OK",2756,1 
+"40","75200","40007","OK","Beaver OK","Turpin CDP, OK",467,1 
+"40","75250","40005","OK","Atoka OK","Tushka town, OK",312,1 
+"40","75300","40127","OK","Pushmataha OK","Tuskahoma CDP, OK",151,1 
+"40","75450","40051","OK","Grady OK","Tuttle city, OK",6019,1 
+"40","75600","40041","OK","Delaware OK","Twin Oaks CDP, OK",198,1 
+"40","75750","40139","OK","Texas OK","Tyrone town, OK",762,1 
+"40","75950","40017","OK","Canadian OK","Union City town, OK",1645,1 
+"40","76500","40109","OK","Oklahoma OK","Valley Brook town, OK",765,1 
+"40","76600","40131","OK","Rogers OK","Valley Park town, OK",77,1 
+"40","76650","40089","OK","McCurtain OK","Valliant town, OK",754,1 
+"40","76900","40137","OK","Stephens OK","Velma town, OK",620,1 
+"40","76950","40147","OK","Washington OK","Vera town, OK",241,1 
+"40","77000","40051","OK","Grady OK","Verden town, OK",530,1 
+"40","77050","40131","OK","Rogers OK","Verdigris town, OK",3993,1 
+"40","77250","40135","OK","Sequoyah OK","Vian town, OK",1466,1 
+"40","77300","40043","OK","Dewey OK","Vici town, OK",699,1 
+"40","77550","40035","OK","Craig OK","Vinita city, OK",5743,1 
+"40","77850","40145","OK","Wagoner OK","Wagoner city, OK",8323,1 
+"40","77900","40101","OK","Muskogee OK","Wainwright town, OK",165,1 
+"40","77950","40053","OK","Grant OK","Wakita town, OK",344,1 
+"40","78150","40033","OK","Cotton OK","Walters city, OK",2551,1 
+"40","78200","40125","OK","Pottawatomie OK","Wanette town, OK",350,1 
+"40","78250","40105","OK","Nowata OK","Wann town, OK",125,1 
+"40","78300","40069","OK","Johnston OK","Wapanucka town, OK",438,1 
+"40","78400","40101","OK","Muskogee OK","Warner town, OK",1641,1 
+"40","78500","40109","OK","Oklahoma OK","Warr Acres city, OK",10043,1 
+"40","78650","40081","OK","Lincoln OK","Warwick town, OK",148,1 
+"40","78700","40087","OK","McClain OK","Washington town, OK",618,1 
+"40","78950","40011","OK","Blaine OK","Watonga city, OK",5111,1 
+"40","79100","40001","OK","Adair OK","Watts town, OK",324,1 
+"40","79150","40001","OK","Adair OK","Wauhillau CDP, OK",345,1 
+"40","79200","40047","OK","Garfield OK","Waukomis town, OK",1286,1 
+"40","79250","40067","OK","Jefferson OK","Waurika city, OK",2064,1 
+"40","79300","40087","OK","McClain OK","Wayne town, OK",688,1 
+"40","79350","40151","OK","Woods OK","Waynoka city, OK",927,1 
+"40","79450","40039","OK","Custer OK","Weatherford city, OK",10833,1 
+"40","79600","40113","OK","Osage OK","Webb City town, OK",62,1 
+"40","79650","40101","OK","Muskogee OK","Webbers Falls town, OK",616,1 
+"40","79750","40035","OK","Craig OK","Welch town, OK",619,1 
+"40","79800","40107","OK","Okfuskee OK","Weleetka town, OK",998,1 
+"40","79850","40021","OK","Cherokee OK","Welling CDP, OK",771,1 
+"40","79900","40081","OK","Lincoln OK","Wellston town, OK",788,1 
+"40","80230","40001","OK","Adair OK","West Peavine CDP, OK",218,1 
+"40","80250","40117","OK","Pawnee OK","Westport town, OK",298,1 
+"40","80350","40041","OK","Delaware OK","West Siloam Springs town, OK",846,1 
+"40","80450","40001","OK","Adair OK","Westville town, OK",1639,1 
+"40","80500","40063","OK","Hughes OK","Wetumka city, OK",1282,1 
+"40","80550","40133","OK","Seminole OK","Wewoka city, OK",3430,1 
+"40","80800","40061","OK","Haskell OK","Whitefield town, OK",391,1 
+"40","80850","40035","OK","Craig OK","White Oak CDP, OK",263,1 
+"40","80900","40079","OK","Le Flore OK","Whitesboro CDP, OK",250,1 
+"40","80912","40041","OK","Delaware OK","White Water CDP, OK",80,1 
+"40","80975","40097","OK","Mayes OK","Wickliffe CDP, OK",75,1 
+"40","81000","40077","OK","Latimer OK","Wilburton city, OK",2843,1 
+"40","81300","40055","OK","Greer OK","Willow town, OK",149,1 
+"40","81500","40019","OK","Carter OK","Wilson city, OK",1724,1 
+"40","81575","40111","OK","Okmulgee OK","Winchester town, OK",516,1 
+"40","81750","40079","OK","Le Flore OK","Wister town, OK",1102,1 
+"40","81912","40021","OK","Cherokee OK","Woodall CDP, OK",823,1 
+"40","82000","40109","OK","Oklahoma OK","Woodlawn Park town, OK",153,1 
+"40","82150","40153","OK","Woodward OK","Woodward city, OK",12051,1 
+"40","82200","40089","OK","McCurtain OK","Wright City town, OK",762,1 
+"40","82250","40115","OK","Ottawa OK","Wyandotte town, OK",333,1 
+"40","82400","40049","OK","Garvin OK","Wynnewood city, OK",2212,1 
+"40","82450","40113","OK","Osage OK","Wynona town, OK",437,1 
+"40","82500","40119","OK","Payne OK","Yale city, OK",1227,1 
+"40","82650","40063","OK","Hughes OK","Yeager town, OK",75,1 
+"40","82950","40017","OK","Canadian OK","Yukon city, OK",22709,1 
+"40","83030","40021","OK","Cherokee OK","Zeb CDP, OK",497,1 
+"40","83050","40041","OK","Delaware OK","Zena CDP, OK",122,1 
+"40","83125","40001","OK","Adair OK","Zion CDP, OK",41,1 
+"40","99999","40001","OK","Adair OK"," ",10738,0.0128 
+"40","99999","40003","OK","Alfalfa OK"," ",1417,0.0017 
+"40","99999","40005","OK","Atoka OK"," ",9734,0.0116 
+"40","99999","40007","OK","Beaver OK"," ",3003,0.0036 
+"40","99999","40009","OK","Beckham OK"," ",4646,0.0056 
+"40","99999","40011","OK","Blaine OK"," ",3173,0.0038 
+"40","99999","40013","OK","Bryan OK"," ",18888,0.0226 
+"40","99999","40015","OK","Caddo OK"," ",11979,0.0143 
+"40","99999","40017","OK","Canadian OK"," ",5755,0.0069 
+"40","99999","40019","OK","Carter OK"," ",11372,0.0136 
+"40","99999","40021","OK","Cherokee OK"," ",18434,0.0221 
+"40","99999","40023","OK","Choctaw OK"," ",7730,0.0092 
+"40","99999","40025","OK","Cimarron OK"," ",775,0.0009 
+"40","99999","40027","OK","Cleveland OK"," ",13164,0.0158 
+"40","99999","40029","OK","Coal OK"," ",3008,0.0036 
+"40","99999","40031","OK","Comanche OK"," ",17718,0.0212 
+"40","99999","40033","OK","Cotton OK"," ",2051,0.0025 
+"40","99999","40035","OK","Craig OK"," ",7401,0.0089 
+"40","99999","40037","OK","Creek OK"," ",32934,0.0394 
+"40","99999","40039","OK","Custer OK"," ",4923,0.0059 
+"40","99999","40041","OK","Delaware OK"," ",22208,0.0266 
+"40","99999","40043","OK","Dewey OK"," ",2245,0.0027 
+"40","99999","40045","OK","Ellis OK"," ",1465,0.0018 
+"40","99999","40047","OK","Garfield OK"," ",5538,0.0066 
+"40","99999","40049","OK","Garvin OK"," ",11689,0.014 
+"40","99999","40051","OK","Grady OK"," ",22335,0.0267 
+"40","99999","40053","OK","Grant OK"," ",1453,0.0017 
+"40","99999","40055","OK","Greer OK"," ",1015,0.0012 
+"40","99999","40057","OK","Harmon OK"," ",721,0.0009 
+"40","99999","40059","OK","Harper OK"," ",972,0.0012 
+"40","99999","40061","OK","Haskell OK"," ",8140,0.0097 
+"40","99999","40063","OK","Hughes OK"," ",5242,0.0063 
+"40","99999","40065","OK","Jackson OK"," ",3962,0.0047 
+"40","99999","40067","OK","Jefferson OK"," ",1710,0.002 
+"40","99999","40069","OK","Johnston OK"," ",5186,0.0062 
+"40","99999","40071","OK","Kay OK"," ",7806,0.0093 
+"40","99999","40073","OK","Kingfisher OK"," ",6229,0.0075 
+"40","99999","40075","OK","Kiowa OK"," ",2164,0.0026 
+"40","99999","40077","OK","Latimer OK"," ",7757,0.0093 
+"40","99999","40079","OK","Le Flore OK"," ",21891,0.0262 
+"40","99999","40081","OK","Lincoln OK"," ",21394,0.0256 
+"40","99999","40083","OK","Logan OK"," ",26874,0.0322 
+"40","99999","40085","OK","Love OK"," ",6261,0.0075 
+"40","99999","40087","OK","McClain OK"," ",10302,0.0123 
+"40","99999","40089","OK","McCurtain OK"," ",18991,0.0227 
+"40","99999","40091","OK","McIntosh OK"," ",11163,0.0134 
+"40","99999","40093","OK","Major OK"," ",3386,0.0041 
+"40","99999","40095","OK","Marshall OK"," ",8977,0.0107 
+"40","99999","40097","OK","Mayes OK"," ",20963,0.0251 
+"40","99999","40099","OK","Murray OK"," ",5590,0.0067 
+"40","99999","40101","OK","Muskogee OK"," ",20101,0.0241 
+"40","99999","40103","OK","Noble OK"," ",4597,0.0055 
+"40","99999","40105","OK","Nowata OK"," ",5095,0.0061 
+"40","99999","40107","OK","Okfuskee OK"," ",5987,0.0072 
+"40","99999","40109","OK","Oklahoma OK"," ",19345,0.0231 
+"40","99999","40111","OK","Okmulgee OK"," ",16714,0.02 
+"40","99999","40113","OK","Osage OK"," ",22362,0.0268 
+"40","99999","40115","OK","Ottawa OK"," ",11731,0.014 
+"40","99999","40117","OK","Pawnee OK"," ",9618,0.0115 
+"40","99999","40119","OK","Payne OK"," ",18709,0.0224 
+"40","99999","40121","OK","Pittsburg OK"," ",15595,0.0187 
+"40","99999","40123","OK","Pontotoc OK"," ",16974,0.0203 
+"40","99999","40125","OK","Pottawatomie OK"," ",20925,0.025 
+"40","99999","40127","OK","Pushmataha OK"," ",7731,0.0093 
+"40","99999","40129","OK","Roger Mills OK"," ",2040,0.0024 
+"40","99999","40131","OK","Rogers OK"," ",46306,0.0554 
+"40","99999","40133","OK","Seminole OK"," ",12023,0.0144 
+"40","99999","40135","OK","Sequoyah OK"," ",16589,0.0198 
+"40","99999","40137","OK","Stephens OK"," ",9694,0.0116 
+"40","99999","40139","OK","Texas OK"," ",3731,0.0045 
+"40","99999","40141","OK","Tillman OK"," ",1608,0.0019 
+"40","99999","40143","OK","Tulsa OK"," ",30434,0.0364 
+"40","99999","40145","OK","Wagoner OK"," ",33072,0.0396 
+"40","99999","40147","OK","Washington OK"," ",9864,0.0118 
+"40","99999","40149","OK","Washita OK"," ",3516,0.0042 
+"40","99999","40151","OK","Woods OK"," ",2587,0.0031 
+"40","99999","40153","OK","Woodward OK"," ",6314,0.0076 
